@@ -1,0 +1,1694 @@
+===t=0.000===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 611569226974 bytes 423126363 pkt (dropped 980342, overlimits 123292448 requeues 1710) 
+ backlog 0b 0p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 611569226974 bytes 423126363 pkt (dropped 980342, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=0.508===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 611595581018 bytes 423145321 pkt (dropped 980342, overlimits 123294785 requeues 1710) 
+ backlog 0b 0p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 611595581018 bytes 423145321 pkt (dropped 980342, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=1.016===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 611651505786 bytes 423185653 pkt (dropped 980342, overlimits 123299761 requeues 1710) 
+ backlog 0b 0p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 611651505786 bytes 423185653 pkt (dropped 980342, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=1.523===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 611730381182 bytes 423242507 pkt (dropped 980342, overlimits 123306554 requeues 1710) 
+ backlog 34416b 2p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 611730381182 bytes 423242507 pkt (dropped 980342, overlimits 0 requeues 0) 
+ backlog 34416b 2p requeues 0
+===t=2.031===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 611833444774 bytes 423316813 pkt (dropped 980342, overlimits 123315369 requeues 1710) 
+ backlog 0b 0p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 611833444774 bytes 423316813 pkt (dropped 980342, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=2.540===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 611957846388 bytes 423406492 pkt (dropped 980342, overlimits 123325142 requeues 1710) 
+ backlog 0b 0p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 611957846388 bytes 423406492 pkt (dropped 980342, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=3.050===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 612094771366 bytes 423505199 pkt (dropped 980342, overlimits 123335921 requeues 1710) 
+ backlog 0b 0p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 612094771366 bytes 423505199 pkt (dropped 980342, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=3.559===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 612249980022 bytes 423617157 pkt (dropped 980342, overlimits 123348643 requeues 1710) 
+ backlog 43376b 6p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 612249980022 bytes 423617157 pkt (dropped 980342, overlimits 0 requeues 0) 
+ backlog 43376b 6p requeues 0
+===t=4.069===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 612425841254 bytes 423743993 pkt (dropped 980342, overlimits 123363832 requeues 1710) 
+ backlog 143196b 13p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 612425841254 bytes 423743993 pkt (dropped 980342, overlimits 0 requeues 0) 
+ backlog 143196b 13p requeues 0
+===t=4.580===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 612621273602 bytes 423884869 pkt (dropped 980342, overlimits 123381097 requeues 1710) 
+ backlog 1305350b 140p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 612621299414 bytes 423884887 pkt (dropped 980342, overlimits 0 requeues 0) 
+ backlog 1279538b 139p requeues 0
+===t=5.092===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 612823134620 bytes 424030105 pkt (dropped 980342, overlimits 123402788 requeues 1710) 
+ backlog 13231350b 3372p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 612823134620 bytes 424030105 pkt (dropped 980342, overlimits 0 requeues 0) 
+ backlog 13231350b 3362p requeues 0
+===t=5.603===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 612978690602 bytes 424139826 pkt (dropped 981012, overlimits 123449019 requeues 1710) 
+ backlog 27079826b 9726p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 612978861926 bytes 424139946 pkt (dropped 981012, overlimits 0 requeues 0) 
+ backlog 27013184b 9720p requeues 0
+===t=6.120===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 613130069916 bytes 424245759 pkt (dropped 981012, overlimits 123499715 requeues 1710) 
+ backlog 24535538b 8530p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 613130094294 bytes 424245776 pkt (dropped 981012, overlimits 0 requeues 0) 
+ backlog 24514028b 8504p requeues 0
+===t=6.638===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 613279874114 bytes 424350626 pkt (dropped 981012, overlimits 123548907 requeues 1710) 
+ backlog 26899628b 8966p requeues 1710
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 613279914266 bytes 424350654 pkt (dropped 981012, overlimits 0 requeues 0) 
+ backlog 26865212b 8944p requeues 0
+===t=7.151===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 613433218096 bytes 424458077 pkt (dropped 981012, overlimits 123595915 requeues 1711) 
+ backlog 29576410b 9019p requeues 1711
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 613433266852 bytes 424458111 pkt (dropped 981012, overlimits 0 requeues 0) 
+ backlog 28844Kb 9001p requeues 0
+===t=7.663===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 613589898636 bytes 424567841 pkt (dropped 981366, overlimits 123640492 requeues 1711) 
+ backlog 28743406b 8399p requeues 1711
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 613589898636 bytes 424567841 pkt (dropped 981366, overlimits 0 requeues 0) 
+ backlog 28743406b 8388p requeues 0
+===t=8.177===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 613749268076 bytes 424679473 pkt (dropped 981587, overlimits 123683685 requeues 1711) 
+ backlog 27086536b 7655p requeues 1711
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 613749268076 bytes 424679473 pkt (dropped 981587, overlimits 0 requeues 0) 
+ backlog 27092272b 7657p requeues 0
+===t=8.690===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 613910824470 bytes 424792868 pkt (dropped 981587, overlimits 123725246 requeues 1711) 
+ backlog 19319468b 4898p requeues 1711
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 613910824470 bytes 424792868 pkt (dropped 981587, overlimits 0 requeues 0) 
+ backlog 19319468b 4890p requeues 0
+===t=9.205===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 614079825534 bytes 424912120 pkt (dropped 981587, overlimits 123761490 requeues 1711) 
+ backlog 14891856b 2949p requeues 1711
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 614079825534 bytes 424912120 pkt (dropped 981587, overlimits 0 requeues 0) 
+ backlog 14893290b 2957p requeues 0
+===t=9.716===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 614262653954 bytes 425042666 pkt (dropped 981587, overlimits 123787419 requeues 1711) 
+ backlog 37934b 7p requeues 1711
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 614262653954 bytes 425042666 pkt (dropped 981587, overlimits 0 requeues 0) 
+ backlog 37934b 7p requeues 0
+===t=10.226===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 614430539996 bytes 425163769 pkt (dropped 981587, overlimits 123801330 requeues 1711) 
+ backlog 17486b 3p requeues 1711
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 614430539996 bytes 425163769 pkt (dropped 981587, overlimits 0 requeues 0) 
+ backlog 17486b 3p requeues 0
+===t=10.738===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 614608192072 bytes 425291917 pkt (dropped 981587, overlimits 123816122 requeues 1712) 
+ backlog 0b 0p requeues 1712
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 614608192072 bytes 425291917 pkt (dropped 981587, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=11.256===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 614792204962 bytes 425424660 pkt (dropped 981587, overlimits 123831686 requeues 1712) 
+ backlog 88216b 18p requeues 1712
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 614792204962 bytes 425424660 pkt (dropped 981587, overlimits 0 requeues 0) 
+ backlog 88216b 18p requeues 0
+===t=11.772===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 614980653770 bytes 425560591 pkt (dropped 981587, overlimits 123848203 requeues 1712) 
+ backlog 9582b 8p requeues 1712
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 614980653770 bytes 425560591 pkt (dropped 981587, overlimits 0 requeues 0) 
+ backlog 9582b 6p requeues 0
+===t=12.283===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 615166986668 bytes 425694912 pkt (dropped 981587, overlimits 123864120 requeues 1712) 
+ backlog 172392b 20p requeues 1712
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 615166986668 bytes 425694912 pkt (dropped 981587, overlimits 0 requeues 0) 
+ backlog 172392b 20p requeues 0
+===t=12.796===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 615358625708 bytes 425833071 pkt (dropped 981587, overlimits 123880047 requeues 1712) 
+ backlog 1470082b 142p requeues 1712
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 615358625708 bytes 425833071 pkt (dropped 981587, overlimits 0 requeues 0) 
+ backlog 1470082b 142p requeues 0
+===t=13.310===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 615568265822 bytes 425984232 pkt (dropped 981587, overlimits 123897128 requeues 1712) 
+ backlog 2103174b 212p requeues 1712
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 615568265822 bytes 425984232 pkt (dropped 981587, overlimits 0 requeues 0) 
+ backlog 2103174b 211p requeues 0
+===t=13.831===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 615751193382 bytes 426114846 pkt (dropped 983371, overlimits 123925720 requeues 1712) 
+ backlog 29985628b 9928p requeues 1712
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 615751193382 bytes 426114846 pkt (dropped 983371, overlimits 0 requeues 0) 
+ backlog 29985628b 9927p requeues 0
+===t=14.354===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 615891485962 bytes 426213072 pkt (dropped 986520, overlimits 123971145 requeues 1715) 
+ backlog 26336126b 9670p requeues 1715
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 615891485962 bytes 426213072 pkt (dropped 986520, overlimits 0 requeues 0) 
+ backlog 26336126b 9634p requeues 0
+===t=14.883===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 616031665490 bytes 426310960 pkt (dropped 986620, overlimits 124016768 requeues 1718) 
+ backlog 29195215b 10157p requeues 1718
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 616031840438 bytes 426311082 pkt (dropped 986620, overlimits 0 requeues 0) 
+ backlog 29176573b 10161p requeues 0
+===t=15.415===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 616169664666 bytes 426407366 pkt (dropped 987201, overlimits 124061658 requeues 1718) 
+ backlog 27335848b 9214p requeues 1718
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 616170097570 bytes 426407668 pkt (dropped 987201, overlimits 0 requeues 0) 
+ backlog 27621300b 9217p requeues 0
+===t=15.940===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 616312199730 bytes 426506992 pkt (dropped 987513, overlimits 124105978 requeues 1718) 
+ backlog 28047056b 9248p requeues 1718
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 616312364640 bytes 426507107 pkt (dropped 987513, overlimits 0 requeues 0) 
+ backlog 28026980b 9250p requeues 0
+===t=16.464===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 616456015652 bytes 426607545 pkt (dropped 988139, overlimits 124149203 requeues 1719) 
+ backlog 29177478b 9195p requeues 1719
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 616456454504 bytes 426607851 pkt (dropped 988139, overlimits 0 requeues 0) 
+ backlog 29303056b 9194p requeues 0
+===t=16.990===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 616600606056 bytes 426708673 pkt (dropped 988160, overlimits 124191171 requeues 1719) 
+ backlog 27567986b 8139p requeues 1719
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 616600654812 bytes 426708707 pkt (dropped 988160, overlimits 0 requeues 0) 
+ backlog 27601726b 8135p requeues 0
+===t=17.518===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 616751856280 bytes 426814535 pkt (dropped 988959, overlimits 124233142 requeues 1719) 
+ backlog 29900184b 8802p requeues 1719
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 616751856280 bytes 426814535 pkt (dropped 988959, overlimits 0 requeues 0) 
+ backlog 29900184b 8782p requeues 0
+===t=18.043===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 616900298240 bytes 426918451 pkt (dropped 989609, overlimits 124274343 requeues 1719) 
+ backlog 27879132b 8362p requeues 1719
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 616900595756 bytes 426918659 pkt (dropped 989609, overlimits 0 requeues 0) 
+ backlog 27821868b 8354p requeues 0
+===t=18.568===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 617046489774 bytes 427020778 pkt (dropped 990450, overlimits 124315647 requeues 1719) 
+ backlog 29461080b 9318p requeues 1719
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 617046489774 bytes 427020778 pkt (dropped 990450, overlimits 0 requeues 0) 
+ backlog 29465382b 9319p requeues 0
+===t=19.090===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 617190196798 bytes 427121432 pkt (dropped 990483, overlimits 124358796 requeues 1720) 
+ backlog 28971444b 8728p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 617190196798 bytes 427121432 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 28971444b 8727p requeues 0
+===t=19.618===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 617340214430 bytes 427226648 pkt (dropped 990483, overlimits 124400125 requeues 1720) 
+ backlog 24086888b 6531p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 617340214430 bytes 427226648 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 24086888b 6523p requeues 0
+===t=20.138===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 617498078094 bytes 427337532 pkt (dropped 990483, overlimits 124437897 requeues 1720) 
+ backlog 22749656b 5324p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 617498078094 bytes 427337532 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 22749656b 5324p requeues 0
+===t=20.655===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 617665827520 bytes 427455483 pkt (dropped 990483, overlimits 124471919 requeues 1720) 
+ backlog 18909112b 3733p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 617665827520 bytes 427455483 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 18909112b 3731p requeues 0
+===t=21.179===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 617844394352 bytes 427581745 pkt (dropped 990483, overlimits 124501016 requeues 1720) 
+ backlog 13803962b 2549p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 617844394352 bytes 427581745 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 13803962b 2548p requeues 0
+===t=21.701===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 618031591396 bytes 427714907 pkt (dropped 990483, overlimits 124525072 requeues 1720) 
+ backlog 7271554b 1270p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 618031591396 bytes 427714907 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 7271554b 1270p requeues 0
+===t=22.216===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 618228502360 bytes 427856543 pkt (dropped 990483, overlimits 124544600 requeues 1720) 
+ backlog 0b 0p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 618228502360 bytes 427856543 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=22.733===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 618413606186 bytes 427990006 pkt (dropped 990483, overlimits 124559883 requeues 1720) 
+ backlog 275212b 38p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 618413606186 bytes 427990006 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 275212b 27p requeues 0
+===t=23.247===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 618588382473 bytes 428115996 pkt (dropped 990483, overlimits 124574769 requeues 1720) 
+ backlog 86698b 9p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 618588382473 bytes 428115996 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 86698b 8p requeues 0
+===t=23.759===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 618770493283 bytes 428247287 pkt (dropped 990483, overlimits 124590136 requeues 1720) 
+ backlog 446372b 39p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 618770493283 bytes 428247287 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 455166b 40p requeues 0
+===t=24.278===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 618969513823 bytes 428390825 pkt (dropped 990483, overlimits 124606521 requeues 1720) 
+ backlog 141048b 9p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 618969513823 bytes 428390825 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 141048b 9p requeues 0
+===t=24.796===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 619163372923 bytes 428530581 pkt (dropped 990483, overlimits 124623287 requeues 1720) 
+ backlog 0b 0p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 619163372923 bytes 428530581 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=25.311===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 619342205759 bytes 428659529 pkt (dropped 990483, overlimits 124638901 requeues 1720) 
+ backlog 88956b 8p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 619342205759 bytes 428659529 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 88956b 8p requeues 0
+===t=25.825===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 619526548745 bytes 428792479 pkt (dropped 990483, overlimits 124655121 requeues 1720) 
+ backlog 97182b 12p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 619526548745 bytes 428792479 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 97182b 12p requeues 0
+===t=26.341===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 619711047005 bytes 428925539 pkt (dropped 990483, overlimits 124670433 requeues 1720) 
+ backlog 0b 0p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 619711047005 bytes 428925539 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=26.857===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 619899359089 bytes 429061311 pkt (dropped 990483, overlimits 124686307 requeues 1720) 
+ backlog 112090b 9p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 619899359089 bytes 429061311 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 112090b 9p requeues 0
+===t=27.376===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 620084376779 bytes 429194744 pkt (dropped 990483, overlimits 124701350 requeues 1720) 
+ backlog 233168b 28p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 620084376779 bytes 429194744 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 233168b 28p requeues 0
+===t=27.891===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 620284170731 bytes 429338758 pkt (dropped 990483, overlimits 124717862 requeues 1720) 
+ backlog 2019742b 194p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 620284170731 bytes 429338758 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 2019742b 194p requeues 0
+===t=28.407===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 620484629155 bytes 429482666 pkt (dropped 990483, overlimits 124740144 requeues 1720) 
+ backlog 15432308b 3329p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 620484699421 bytes 429482715 pkt (dropped 990483, overlimits 0 requeues 0) 
+ backlog 15385462b 3312p requeues 0
+===t=28.935===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 620629238297 bytes 429584589 pkt (dropped 992390, overlimits 124782612 requeues 1720) 
+ backlog 27628898b 9996p requeues 1720
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 620629238297 bytes 429584589 pkt (dropped 992390, overlimits 0 requeues 0) 
+ backlog 27628898b 9977p requeues 0
+===t=29.462===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 620766958266 bytes 429680887 pkt (dropped 993412, overlimits 124828563 requeues 1725) 
+ backlog 29985189b 10497p requeues 1725
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 620766958266 bytes 429680887 pkt (dropped 993412, overlimits 0 requeues 0) 
+ backlog 29985189b 10496p requeues 0
+===t=30.005===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 620905235261 bytes 429777520 pkt (dropped 994562, overlimits 124872831 requeues 1727) 
+ backlog 27791770b 9500p requeues 1727
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 620905433589 bytes 429777660 pkt (dropped 994562, overlimits 0 requeues 0) 
+ backlog 27665142b 9458p requeues 0
+===t=30.527===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 621044168887 bytes 429874595 pkt (dropped 995328, overlimits 124915594 requeues 1727) 
+ backlog 29662984b 10063p requeues 1727
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 621044168887 bytes 429874595 pkt (dropped 995328, overlimits 0 requeues 0) 
+ backlog 29665852b 10065p requeues 0
+===t=31.048===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 621186910397 bytes 429974362 pkt (dropped 996088, overlimits 124960209 requeues 1727) 
+ backlog 28704510b 9424p requeues 1727
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 621186910397 bytes 429974362 pkt (dropped 996088, overlimits 0 requeues 0) 
+ backlog 28704510b 9451p requeues 0
+===t=31.579===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 621327459989 bytes 430072650 pkt (dropped 996979, overlimits 125003573 requeues 1727) 
+ backlog 29806160b 9761p requeues 1727
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 621327480065 bytes 430072664 pkt (dropped 996979, overlimits 0 requeues 0) 
+ backlog 29854916b 9764p requeues 0
+===t=32.105===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 621469222809 bytes 430171822 pkt (dropped 999051, overlimits 125047334 requeues 1727) 
+ backlog 29269136b 9716p requeues 1727
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 621469222809 bytes 430171822 pkt (dropped 999051, overlimits 0 requeues 0) 
+ backlog 29269136b 9711p requeues 0
+===t=32.633===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 621610777364 bytes 430270743 pkt (dropped 1000488, overlimits 125091278 requeues 1727) 
+ backlog 28177538b 9431p requeues 1727
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 621610794790 bytes 430270756 pkt (dropped 1000488, overlimits 0 requeues 0) 
+ backlog 28162980b 9431p requeues 0
+===t=33.162===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 621752052579 bytes 430369553 pkt (dropped 1001194, overlimits 125135297 requeues 1727) 
+ backlog 29706176b 9723p requeues 1727
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 621752052579 bytes 430369553 pkt (dropped 1001194, overlimits 0 requeues 0) 
+ backlog 29706176b 9718p requeues 0
+===t=33.695===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 621893977273 bytes 430468826 pkt (dropped 1002595, overlimits 125179653 requeues 1727) 
+ backlog 28155138b 9649p requeues 1727
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 621893977273 bytes 430468826 pkt (dropped 1002595, overlimits 0 requeues 0) 
+ backlog 28160874b 9645p requeues 0
+===t=34.216===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 622034211181 bytes 430566866 pkt (dropped 1003613, overlimits 125223461 requeues 1728) 
+ backlog 29554220b 9596p requeues 1728
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 622034312995 bytes 430566937 pkt (dropped 1003613, overlimits 0 requeues 0) 
+ backlog 29559956b 9605p requeues 0
+===t=34.741===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 622176030673 bytes 430666090 pkt (dropped 1004127, overlimits 125266907 requeues 1728) 
+ backlog 29233456b 9509p requeues 1728
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 622176040711 bytes 430666097 pkt (dropped 1004127, overlimits 0 requeues 0) 
+ backlog 29233456b 9510p requeues 0
+===t=35.258===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 622314730003 bytes 430763131 pkt (dropped 1005221, overlimits 125309136 requeues 1728) 
+ backlog 29189820b 9530p requeues 1728
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 622314906471 bytes 430763255 pkt (dropped 1005221, overlimits 0 requeues 0) 
+ backlog 29040598b 9522p requeues 0
+===t=35.773===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 622454661234 bytes 430861050 pkt (dropped 1006514, overlimits 125352184 requeues 1730) 
+ backlog 28954193b 9734p requeues 1730
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 622454844786 bytes 430861178 pkt (dropped 1006514, overlimits 0 requeues 0) 
+ backlog 28907549b 9727p requeues 0
+===t=36.299===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 622595524579 bytes 430959551 pkt (dropped 1008011, overlimits 125396072 requeues 1731) 
+ backlog 28630206b 9320p requeues 1731
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 622595524579 bytes 430959551 pkt (dropped 1008011, overlimits 0 requeues 0) 
+ backlog 28630206b 9291p requeues 0
+===t=36.819===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 622737775359 bytes 431059063 pkt (dropped 1008011, overlimits 125440388 requeues 1733) 
+ backlog 27242110b 9045p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 622737816945 bytes 431059092 pkt (dropped 1008011, overlimits 0 requeues 0) 
+ backlog 27210562b 9046p requeues 0
+===t=37.340===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 622885851863 bytes 431162705 pkt (dropped 1008177, overlimits 125485564 requeues 1733) 
+ backlog 28356124b 9066p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 622885851863 bytes 431162705 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 28356124b 8995p requeues 0
+===t=37.877===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 623032673765 bytes 431265518 pkt (dropped 1008177, overlimits 125528046 requeues 1733) 
+ backlog 27268964b 8061p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 623032751201 bytes 431265572 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 27228812b 8069p requeues 0
+===t=38.397===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 623176611077 bytes 431366370 pkt (dropped 1008177, overlimits 125567671 requeues 1733) 
+ backlog 24579102b 6956p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 623176611077 bytes 431366370 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 24581970b 6978p requeues 0
+===t=38.912===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 623330449833 bytes 431474354 pkt (dropped 1008177, overlimits 125605469 requeues 1733) 
+ backlog 20681758b 5083p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 623330449833 bytes 431474354 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 20681758b 5082p requeues 0
+===t=39.434===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 623493768969 bytes 431589130 pkt (dropped 1008177, overlimits 125639889 requeues 1733) 
+ backlog 17932670b 3657p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 623493768969 bytes 431589130 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 17941274b 3659p requeues 0
+===t=39.951===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 623665851927 bytes 431711379 pkt (dropped 1008177, overlimits 125666181 requeues 1733) 
+ backlog 69300b 5p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 623665851927 bytes 431711379 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 69300b 5p requeues 0
+===t=40.462===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 623801661621 bytes 431809364 pkt (dropped 1008177, overlimits 125677491 requeues 1733) 
+ backlog 26646b 5p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 623801661621 bytes 431809364 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 26646b 5p requeues 0
+===t=40.974===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 623931747117 bytes 431903142 pkt (dropped 1008177, overlimits 125688221 requeues 1733) 
+ backlog 8882b 2p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 623931755721 bytes 431903148 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 278b 1p requeues 0
+===t=41.484===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 624069163999 bytes 432002251 pkt (dropped 1008177, overlimits 125699765 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 624069163999 bytes 432002251 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=41.996===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 624209815943 bytes 432103675 pkt (dropped 1008177, overlimits 125711694 requeues 1733) 
+ backlog 25812b 2p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 624209815943 bytes 432103675 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 25812b 2p requeues 0
+===t=42.507===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 624368147085 bytes 432217858 pkt (dropped 1008177, overlimits 125725122 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 624368147085 bytes 432217858 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=43.017===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 624541592199 bytes 432342955 pkt (dropped 1008177, overlimits 125739682 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 624541592199 bytes 432342955 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=43.529===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 624717862063 bytes 432470089 pkt (dropped 1008177, overlimits 125754257 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 624717862063 bytes 432470089 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=44.043===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 624885959161 bytes 432591342 pkt (dropped 1008177, overlimits 125768675 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 624885959161 bytes 432591342 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=44.556===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 625065816935 bytes 432721021 pkt (dropped 1008177, overlimits 125783551 requeues 1733) 
+ backlog 188980b 17p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 625065816935 bytes 432721021 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 206188b 19p requeues 0
+===t=45.072===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 625250006167 bytes 432853817 pkt (dropped 1008177, overlimits 125798793 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 625250006167 bytes 432853817 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=45.584===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 625441694613 bytes 432992066 pkt (dropped 1008177, overlimits 125814754 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 625441694613 bytes 432992066 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=46.100===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 625641564345 bytes 433136240 pkt (dropped 1008177, overlimits 125832072 requeues 1733) 
+ backlog 643Kb 64p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 625641564345 bytes 433136240 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 643Kb 64p requeues 0
+===t=46.613===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 625849348987 bytes 433286053 pkt (dropped 1008177, overlimits 125849459 requeues 1733) 
+ backlog 396318b 31p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 625849348987 bytes 433286053 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 396318b 31p requeues 0
+===t=47.123===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 626046746591 bytes 433428405 pkt (dropped 1008177, overlimits 125865867 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 626046746591 bytes 433428405 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=47.633===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 626228375277 bytes 433559412 pkt (dropped 1008177, overlimits 125880782 requeues 1733) 
+ backlog 165846b 17p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 626228375277 bytes 433559412 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 165846b 17p requeues 0
+===t=48.142===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 626405300287 bytes 433686985 pkt (dropped 1008177, overlimits 125895494 requeues 1733) 
+ backlog 1149524b 114p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 626405300287 bytes 433686985 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 1149524b 114p requeues 0
+===t=48.659===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 626594738712 bytes 433823620 pkt (dropped 1008177, overlimits 125911250 requeues 1733) 
+ backlog 619122b 57p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 626594738712 bytes 433823620 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 619122b 57p requeues 0
+===t=49.174===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 626789154318 bytes 433963865 pkt (dropped 1008177, overlimits 125927849 requeues 1733) 
+ backlog 42Kb 4p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 626789154318 bytes 433963865 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 42Kb 2p requeues 0
+===t=49.688===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 626981370948 bytes 434102426 pkt (dropped 1008177, overlimits 125944158 requeues 1733) 
+ backlog 34606b 3p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 626981370948 bytes 434102426 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 34606b 3p requeues 0
+===t=50.201===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 627174329222 bytes 434241537 pkt (dropped 1008177, overlimits 125960216 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 627174329222 bytes 434241537 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=50.715===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 627356607612 bytes 434373032 pkt (dropped 1008177, overlimits 125974935 requeues 1733) 
+ backlog 12954b 3p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 627356607612 bytes 434373032 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 12954b 3p requeues 0
+===t=51.227===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 627513869814 bytes 434486427 pkt (dropped 1008177, overlimits 125987718 requeues 1733) 
+ backlog 43402b 4p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 627513869814 bytes 434486427 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 43402b 4p requeues 0
+===t=51.741===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 627665625654 bytes 434595827 pkt (dropped 1008177, overlimits 126000068 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 627665625654 bytes 434595827 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=52.252===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 627819175994 bytes 434706501 pkt (dropped 1008177, overlimits 126012498 requeues 1733) 
+ backlog 25812b 1p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 627819175994 bytes 434706501 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 25812b 1p requeues 0
+===t=52.768===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 627958632640 bytes 434807036 pkt (dropped 1008177, overlimits 126023700 requeues 1733) 
+ backlog 8604b 1p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 627958632640 bytes 434807036 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 8604b 1p requeues 0
+===t=53.282===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 628088308516 bytes 434900564 pkt (dropped 1008177, overlimits 126034463 requeues 1733) 
+ backlog 207202b 23p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 628088308516 bytes 434900564 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 207202b 23p requeues 0
+===t=53.793===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 628219117030 bytes 434994977 pkt (dropped 1008177, overlimits 126045208 requeues 1733) 
+ backlog 8604b 1p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 628219117030 bytes 434994977 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 8604b 1p requeues 0
+===t=54.304===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 628352561690 bytes 435091205 pkt (dropped 1008177, overlimits 126056108 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 628352561690 bytes 435091205 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=54.818===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 628489604080 bytes 435190035 pkt (dropped 1008177, overlimits 126067378 requeues 1733) 
+ backlog 8604b 1p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 628489604080 bytes 435190035 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 8604b 1p requeues 0
+===t=55.333===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 628626213228 bytes 435288553 pkt (dropped 1008177, overlimits 126079073 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 628626213228 bytes 435288553 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=55.845===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 628771617412 bytes 435393377 pkt (dropped 1008177, overlimits 126090821 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 628771617412 bytes 435393377 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=56.360===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 628915728408 bytes 435497245 pkt (dropped 1008177, overlimits 126102556 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 628915728408 bytes 435497245 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=56.872===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 629058107430 bytes 435599844 pkt (dropped 1008177, overlimits 126114788 requeues 1733) 
+ backlog 309538b 24p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 629058107430 bytes 435599844 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 309538b 24p requeues 0
+===t=57.386===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 629207704060 bytes 435707693 pkt (dropped 1008177, overlimits 126127530 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 629207704060 bytes 435707693 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=57.901===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 629385429752 bytes 435835863 pkt (dropped 1008177, overlimits 126142725 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 629385429752 bytes 435835863 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=58.415===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 629553249498 bytes 435956930 pkt (dropped 1008177, overlimits 126156852 requeues 1733) 
+ backlog 86508b 7p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 629553266706 bytes 435956942 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 69300b 6p requeues 0
+===t=58.927===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 629705501508 bytes 436066733 pkt (dropped 1008177, overlimits 126169599 requeues 1733) 
+ backlog 42Kb 2p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 629705501508 bytes 436066733 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 42Kb 2p requeues 0
+===t=59.440===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 629860798362 bytes 436178776 pkt (dropped 1008177, overlimits 126182519 requeues 1733) 
+ backlog 25812b 2p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 629860815570 bytes 436178788 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 8604b 2p requeues 0
+===t=59.952===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 630026656908 bytes 436298407 pkt (dropped 1008177, overlimits 126196745 requeues 1733) 
+ backlog 278b 1p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 630026656908 bytes 436298407 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 278b 1p requeues 0
+===t=60.467===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 630197280488 bytes 436421505 pkt (dropped 1008177, overlimits 126210715 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 630197280488 bytes 436421505 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=60.981===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 630375427398 bytes 436549994 pkt (dropped 1008177, overlimits 126225143 requeues 1733) 
+ backlog 130464b 13p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 630375427398 bytes 436549994 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 130464b 13p requeues 0
+===t=61.492===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 630577409755 bytes 436695608 pkt (dropped 1008177, overlimits 126242332 requeues 1733) 
+ backlog 0b 0p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 630577409755 bytes 436695608 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=62.010===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 630791876664 bytes 436850114 pkt (dropped 1008177, overlimits 126259859 requeues 1733) 
+ backlog 2536Kb 215p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 630791876664 bytes 436850114 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 2536Kb 215p requeues 0
+===t=62.528===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 631001781300 bytes 437001270 pkt (dropped 1008177, overlimits 126279119 requeues 1733) 
+ backlog 81462b 12p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 631001781300 bytes 437001270 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 81462b 12p requeues 0
+===t=63.041===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 631206440940 bytes 437148852 pkt (dropped 1008177, overlimits 126296435 requeues 1733) 
+ backlog 1104712b 119p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 631206440940 bytes 437148852 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 1104712b 118p requeues 0
+===t=63.552===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 631416187366 bytes 437299803 pkt (dropped 1008177, overlimits 126316119 requeues 1733) 
+ backlog 11201218b 1585p requeues 1733
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 631416187366 bytes 437299803 pkt (dropped 1008177, overlimits 0 requeues 0) 
+ backlog 11201218b 1587p requeues 0
+===t=64.071===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 631581878466 bytes 437416963 pkt (dropped 1010843, overlimits 126356523 requeues 1736) 
+ backlog 27343094b 9783p requeues 1736
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 631581940176 bytes 437417006 pkt (dropped 1010843, overlimits 0 requeues 0) 
+ backlog 27372404b 9806p requeues 0
+===t=64.589===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 631729289620 bytes 437520008 pkt (dropped 1011836, overlimits 126405768 requeues 1738) 
+ backlog 27301466b 9799p requeues 1738
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 631729747146 bytes 437520327 pkt (dropped 1011836, overlimits 0 requeues 0) 
+ backlog 27122216b 9796p requeues 0
+===t=65.108===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 631876183238 bytes 437622741 pkt (dropped 1012159, overlimits 126455108 requeues 1742) 
+ backlog 29889756b 10324p requeues 1742
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 631877368944 bytes 437623570 pkt (dropped 1012179, overlimits 0 requeues 0) 
+ backlog 29864460b 10390p requeues 0
+===t=65.631===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 632025605350 bytes 437727205 pkt (dropped 1012687, overlimits 126503950 requeues 1743) 
+ backlog 27908234b 9321p requeues 1743
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 632025949510 bytes 437727445 pkt (dropped 1012687, overlimits 0 requeues 0) 
+ backlog 27888292b 9285p requeues 0
+===t=66.148===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 632180621390 bytes 437835647 pkt (dropped 1012687, overlimits 126551129 requeues 1743) 
+ backlog 28505126b 8848p requeues 1743
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 632180738144 bytes 437835730 pkt (dropped 1012687, overlimits 0 requeues 0) 
+ backlog 28451468b 8847p requeues 0
+===t=66.673===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 632336304890 bytes 437944639 pkt (dropped 1012687, overlimits 126595726 requeues 1744) 
+ backlog 29017638b 8371p requeues 1744
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 632336304890 bytes 437944639 pkt (dropped 1012687, overlimits 0 requeues 0) 
+ backlog 29017638b 8362p requeues 0
+===t=67.194===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 632497193528 bytes 438057290 pkt (dropped 1012866, overlimits 126637732 requeues 1744) 
+ backlog 27139728b 7225p requeues 1744
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 632497193528 bytes 438057290 pkt (dropped 1012866, overlimits 0 requeues 0) 
+ backlog 27139728b 7225p requeues 0
+===t=67.717===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 632647149344 bytes 438162364 pkt (dropped 1013848, overlimits 126675301 requeues 1744) 
+ backlog 29978928b 8633p requeues 1744
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 632647149344 bytes 438162364 pkt (dropped 1013848, overlimits 0 requeues 0) 
+ backlog 29983230b 8633p requeues 0
+===t=68.229===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 632803464516 bytes 438271816 pkt (dropped 1014794, overlimits 126717603 requeues 1744) 
+ backlog 25709970b 7781p requeues 1744
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 632803464516 bytes 438271816 pkt (dropped 1014794, overlimits 0 requeues 0) 
+ backlog 25709970b 7781p requeues 0
+===t=68.744===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 632957700650 bytes 438380003 pkt (dropped 1014794, overlimits 126759578 requeues 1745) 
+ backlog 26326416b 7175p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 632957700650 bytes 438380003 pkt (dropped 1014794, overlimits 0 requeues 0) 
+ backlog 26335020b 7181p requeues 0
+===t=69.257===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 633118032714 bytes 438492609 pkt (dropped 1015182, overlimits 126799737 requeues 1745) 
+ backlog 29849718b 7813p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 633118032714 bytes 438492609 pkt (dropped 1015182, overlimits 0 requeues 0) 
+ backlog 29858322b 7815p requeues 0
+===t=69.774===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 633268478411 bytes 438598103 pkt (dropped 1016781, overlimits 126841431 requeues 1745) 
+ backlog 29233905b 9618p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 633268478411 bytes 438598103 pkt (dropped 1016781, overlimits 0 requeues 0) 
+ backlog 29233905b 9608p requeues 0
+===t=70.293===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 633411890056 bytes 438698462 pkt (dropped 1017197, overlimits 126885551 requeues 1745) 
+ backlog 27757440b 8902p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 633412306594 bytes 438698753 pkt (dropped 1017197, overlimits 0 requeues 0) 
+ backlog 27845042b 8902p requeues 0
+===t=70.815===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 633559584244 bytes 438801852 pkt (dropped 1017257, overlimits 126930146 requeues 1745) 
+ backlog 26946372b 8388p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 633559584244 bytes 438801852 pkt (dropped 1017257, overlimits 0 requeues 0) 
+ backlog 26946372b 8379p requeues 0
+===t=71.328===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 633714230506 bytes 438910249 pkt (dropped 1017257, overlimits 126974283 requeues 1745) 
+ backlog 22790948b 6713p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 633714353878 bytes 438910335 pkt (dropped 1017257, overlimits 0 requeues 0) 
+ backlog 22780878b 6708p requeues 0
+===t=71.845===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 633859964884 bytes 439012464 pkt (dropped 1017257, overlimits 127013617 requeues 1745) 
+ backlog 28712452b 8490p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 633860143760 bytes 439012590 pkt (dropped 1017257, overlimits 0 requeues 0) 
+ backlog 28707184b 8475p requeues 0
+===t=72.362===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 634002579070 bytes 439112311 pkt (dropped 1018183, overlimits 127055430 requeues 1745) 
+ backlog 28134850b 8944p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 634003267288 bytes 439112794 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 28071530b 9038p requeues 0
+===t=72.885===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 634144568534 bytes 439211727 pkt (dropped 1018183, overlimits 127098130 requeues 1745) 
+ backlog 24423640b 7332p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 634144568534 bytes 439211727 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 24423640b 7336p requeues 0
+===t=73.397===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 634289055444 bytes 439312922 pkt (dropped 1018183, overlimits 127138931 requeues 1745) 
+ backlog 27933712b 8161p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 634289055444 bytes 439312922 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 27942316b 8161p requeues 0
+===t=73.908===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 634435617136 bytes 439415588 pkt (dropped 1018183, overlimits 127179369 requeues 1745) 
+ backlog 26773036b 7475p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 634435692382 bytes 439415641 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 26702092b 7423p requeues 0
+===t=74.421===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 634595596016 bytes 439528010 pkt (dropped 1018183, overlimits 127218635 requeues 1745) 
+ backlog 11752048b 2644p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 634595596016 bytes 439528010 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 11752048b 2644p requeues 0
+===t=74.932===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 634765130834 bytes 439649321 pkt (dropped 1018183, overlimits 127241889 requeues 1745) 
+ backlog 0b 0p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 634765130834 bytes 439649321 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=75.445===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 634922170052 bytes 439762580 pkt (dropped 1018183, overlimits 127254901 requeues 1745) 
+ backlog 311148b 29p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 634922170052 bytes 439762580 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 311148b 29p requeues 0
+===t=75.960===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 635091394672 bytes 439884636 pkt (dropped 1018183, overlimits 127269202 requeues 1745) 
+ backlog 0b 0p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 635091394672 bytes 439884636 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=76.475===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 635258722710 bytes 440005353 pkt (dropped 1018183, overlimits 127283129 requeues 1745) 
+ backlog 10Kb 2p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 635258722710 bytes 440005353 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 10Kb 2p requeues 0
+===t=76.988===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 635432190740 bytes 440130436 pkt (dropped 1018183, overlimits 127297605 requeues 1745) 
+ backlog 129718b 10p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 635432190740 bytes 440130436 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 129718b 10p requeues 0
+===t=77.504===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 635611670306 bytes 440259851 pkt (dropped 1018183, overlimits 127312303 requeues 1745) 
+ backlog 17208b 1p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 635611670306 bytes 440259851 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 17208b 1p requeues 0
+===t=78.017===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 635791952488 bytes 440389788 pkt (dropped 1018183, overlimits 127327449 requeues 1745) 
+ backlog 146668b 20p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 635791952488 bytes 440389788 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 146668b 20p requeues 0
+===t=78.535===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 635981220738 bytes 440526213 pkt (dropped 1018183, overlimits 127343395 requeues 1745) 
+ backlog 54818b 5p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 635981220738 bytes 440526213 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 54818b 5p requeues 0
+===t=79.049===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 636188767394 bytes 440675755 pkt (dropped 1018183, overlimits 127360256 requeues 1745) 
+ backlog 690142b 60p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 636188767394 bytes 440675755 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 690142b 59p requeues 0
+===t=79.568===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 636396524048 bytes 440825514 pkt (dropped 1018183, overlimits 127377273 requeues 1745) 
+ backlog 397806b 40p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 636396524048 bytes 440825514 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 397806b 33p requeues 0
+===t=80.084===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 636599193582 bytes 440971585 pkt (dropped 1018183, overlimits 127394041 requeues 1745) 
+ backlog 1673504b 168p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 636599193582 bytes 440971585 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 1673504b 168p requeues 0
+===t=80.598===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 636809132094 bytes 441122889 pkt (dropped 1018183, overlimits 127411700 requeues 1745) 
+ backlog 3159332b 315p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 636809132094 bytes 441122889 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 3159332b 315p requeues 0
+===t=81.115===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 636991778074 bytes 441253259 pkt (dropped 1018183, overlimits 127441243 requeues 1745) 
+ backlog 25658304b 8292p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 636991951720 bytes 441253382 pkt (dropped 1018183, overlimits 0 requeues 0) 
+ backlog 25722672b 8299p requeues 0
+===t=81.641===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 637135158536 bytes 441353842 pkt (dropped 1020499, overlimits 127487429 requeues 1745) 
+ backlog 27445446b 9900p requeues 1745
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 637135181560 bytes 441353858 pkt (dropped 1020499, overlimits 0 requeues 0) 
+ backlog 27431026b 9806p requeues 0
+===t=82.162===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 637274552508 bytes 441451330 pkt (dropped 1021366, overlimits 127534024 requeues 1746) 
+ backlog 27950122b 9897p requeues 1746
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 637275580108 bytes 441452048 pkt (dropped 1021366, overlimits 0 requeues 0) 
+ backlog 27529Kb 9864p requeues 0
+===t=82.686===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 637415337998 bytes 441549713 pkt (dropped 1022134, overlimits 127580140 requeues 1746) 
+ backlog 26751284b 9219p requeues 1746
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 637415507210 bytes 441549831 pkt (dropped 1022134, overlimits 0 requeues 0) 
+ backlog 26622224b 9252p requeues 0
+===t=83.213===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 637564448721 bytes 441653945 pkt (dropped 1022849, overlimits 127627339 requeues 1746) 
+ backlog 28357416b 9135p requeues 1746
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 637564474533 bytes 441653963 pkt (dropped 1022849, overlimits 0 requeues 0) 
+ backlog 28345944b 9160p requeues 0
+===t=83.749===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 637712518371 bytes 441757542 pkt (dropped 1022849, overlimits 127672375 requeues 1747) 
+ backlog 27964114b 8789p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 637712518371 bytes 441757542 pkt (dropped 1022849, overlimits 0 requeues 0) 
+ backlog 27964114b 8789p requeues 0
+===t=84.266===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 637857216957 bytes 441858839 pkt (dropped 1023609, overlimits 127715883 requeues 1747) 
+ backlog 29334612b 9975p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 637857592751 bytes 441859102 pkt (dropped 1023609, overlimits 0 requeues 0) 
+ backlog 29170972b 9992p requeues 0
+===t=84.790===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 637998778071 bytes 441957816 pkt (dropped 1025739, overlimits 127760641 requeues 1747) 
+ backlog 29698638b 9894p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 637998957321 bytes 441957941 pkt (dropped 1025739, overlimits 0 requeues 0) 
+ backlog 29766036b 9874p requeues 0
+===t=85.321===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 638146622765 bytes 442061191 pkt (dropped 1026895, overlimits 127806953 requeues 1747) 
+ backlog 29802728b 10168p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 638146622765 bytes 442061191 pkt (dropped 1026895, overlimits 0 requeues 0) 
+ backlog 29802728b 10145p requeues 0
+===t=85.851===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 638293291141 bytes 442163745 pkt (dropped 1028202, overlimits 127853272 requeues 1747) 
+ backlog 29903730b 9916p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 638293590941 bytes 442163955 pkt (dropped 1028226, overlimits 0 requeues 0) 
+ backlog 29991300b 9924p requeues 0
+===t=86.380===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 638441127063 bytes 442267134 pkt (dropped 1029606, overlimits 127900020 requeues 1747) 
+ backlog 29953978b 9955p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 638441127063 bytes 442267134 pkt (dropped 1029606, overlimits 0 requeues 0) 
+ backlog 29953978b 9955p requeues 0
+===t=86.900===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 638587312825 bytes 442369421 pkt (dropped 1030678, overlimits 127945977 requeues 1747) 
+ backlog 29705168b 9858p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 638587312825 bytes 442369421 pkt (dropped 1030678, overlimits 0 requeues 0) 
+ backlog 29705168b 9858p requeues 0
+===t=87.418===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 638733737363 bytes 442471840 pkt (dropped 1032044, overlimits 127991932 requeues 1747) 
+ backlog 29531508b 9796p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 638733737363 bytes 442471840 pkt (dropped 1032044, overlimits 0 requeues 0) 
+ backlog 29537244b 9802p requeues 0
+===t=87.934===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 638879162961 bytes 442573515 pkt (dropped 1032559, overlimits 128037223 requeues 1747) 
+ backlog 28190512b 9280p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 638879162961 bytes 442573515 pkt (dropped 1032559, overlimits 0 requeues 0) 
+ backlog 28190512b 9280p requeues 0
+===t=88.461===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 639027081545 bytes 442677011 pkt (dropped 1032559, overlimits 128083001 requeues 1747) 
+ backlog 28472238b 9127p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 639027081545 bytes 442677011 pkt (dropped 1032559, overlimits 0 requeues 0) 
+ backlog 28475106b 9119p requeues 0
+===t=88.988===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 639174006791 bytes 442779814 pkt (dropped 1033035, overlimits 128127513 requeues 1747) 
+ backlog 29197920b 9337p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 639174188909 bytes 442779941 pkt (dropped 1033035, overlimits 0 requeues 0) 
+ backlog 29179278b 9317p requeues 0
+===t=89.510===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 639317133871 bytes 442879976 pkt (dropped 1033176, overlimits 128170652 requeues 1747) 
+ backlog 28425726b 9023p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 639317313121 bytes 442880101 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 28484520b 8944p requeues 0
+===t=90.038===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 639465800331 bytes 442984108 pkt (dropped 1033176, overlimits 128213901 requeues 1747) 
+ backlog 26078772b 7467p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 639465800331 bytes 442984108 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 26078772b 7468p requeues 0
+===t=90.571===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 639622278313 bytes 443093885 pkt (dropped 1033176, overlimits 128254626 requeues 1747) 
+ backlog 20079824b 5026p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 639622278313 bytes 443093885 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 20079824b 5026p requeues 0
+===t=91.093===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 639787352247 bytes 443210134 pkt (dropped 1033176, overlimits 128290251 requeues 1747) 
+ backlog 10249382b 2033p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 639787352247 bytes 443210134 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 10249382b 2033p requeues 0
+===t=91.615===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 639948568855 bytes 443325658 pkt (dropped 1033176, overlimits 128311435 requeues 1747) 
+ backlog 43766b 5p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 639948568855 bytes 443325658 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 43766b 5p requeues 0
+===t=92.129===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 640083723749 bytes 443423173 pkt (dropped 1033176, overlimits 128322778 requeues 1747) 
+ backlog 54Kb 8p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 640083723749 bytes 443423173 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 54Kb 8p requeues 0
+===t=92.641===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 640240266063 bytes 443536080 pkt (dropped 1033176, overlimits 128336212 requeues 1747) 
+ backlog 0b 0p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 640240266063 bytes 443536080 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=93.154===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 640424533211 bytes 443668926 pkt (dropped 1033176, overlimits 128351813 requeues 1747) 
+ backlog 274150b 25p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 640424533211 bytes 443668926 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 274150b 25p requeues 0
+===t=93.673===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 640609217961 bytes 443802051 pkt (dropped 1033176, overlimits 128367592 requeues 1747) 
+ backlog 8604b 1p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 640609217961 bytes 443802051 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 8604b 1p requeues 0
+===t=94.185===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 640793140185 bytes 443934587 pkt (dropped 1033176, overlimits 128383270 requeues 1747) 
+ backlog 17208b 2p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 640793140185 bytes 443934587 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 17208b 2p requeues 0
+===t=94.698===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 640975094269 bytes 444065717 pkt (dropped 1033176, overlimits 128398772 requeues 1747) 
+ backlog 51624b 4p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 640975094269 bytes 444065717 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 51624b 4p requeues 0
+===t=95.209===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 641163455645 bytes 444201509 pkt (dropped 1033176, overlimits 128414940 requeues 1747) 
+ backlog 399796b 36p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 641163455645 bytes 444201509 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 399796b 36p requeues 0
+===t=95.726===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 641357862317 bytes 444341631 pkt (dropped 1033176, overlimits 128431365 requeues 1747) 
+ backlog 374960b 48p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 641357862317 bytes 444341631 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 374960b 48p requeues 0
+===t=96.242===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 641562413813 bytes 444489099 pkt (dropped 1033176, overlimits 128448821 requeues 1747) 
+ backlog 194438b 12p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 641562413813 bytes 444489099 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 194716b 15p requeues 0
+===t=96.758===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 641760873305 bytes 444631471 pkt (dropped 1033176, overlimits 128471477 requeues 1747) 
+ backlog 19660630b 5217p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 641760873305 bytes 444631471 pkt (dropped 1033176, overlimits 0 requeues 0) 
+ backlog 19660630b 5216p requeues 0
+===t=97.288===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 641906610685 bytes 444733869 pkt (dropped 1035888, overlimits 128515756 requeues 1747) 
+ backlog 29694730b 10621p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 641906769859 bytes 444733980 pkt (dropped 1035888, overlimits 0 requeues 0) 
+ backlog 29719284b 10626p requeues 0
+===t=97.828===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 642048561213 bytes 444833021 pkt (dropped 1036381, overlimits 128562768 requeues 1747) 
+ backlog 27368892b 9333p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 642048741189 bytes 444833147 pkt (dropped 1036381, overlimits 0 requeues 0) 
+ backlog 27368166b 9356p requeues 0
+===t=98.350===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 642185879235 bytes 444928982 pkt (dropped 1036381, overlimits 128606778 requeues 1747) 
+ backlog 29065284b 9517p requeues 1747
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 642186057099 bytes 444929106 pkt (dropped 1036381, overlimits 0 requeues 0) 
+ backlog 28924704b 9517p requeues 0
+===t=98.881===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 642330046951 bytes 445029798 pkt (dropped 1036868, overlimits 128651342 requeues 1748) 
+ backlog 29262528b 9150p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 642330121519 bytes 445029850 pkt (dropped 1036868, overlimits 0 requeues 0) 
+ backlog 29272566b 9144p requeues 0
+===t=99.401===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 642478511669 bytes 445133603 pkt (dropped 1037472, overlimits 128695571 requeues 1748) 
+ backlog 29209488b 9148p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 642478511669 bytes 445133603 pkt (dropped 1037472, overlimits 0 requeues 0) 
+ backlog 29209488b 9141p requeues 0
+===t=99.920===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 642623149315 bytes 445234774 pkt (dropped 1037855, overlimits 128737543 requeues 1748) 
+ backlog 29525756b 8988p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 642623327953 bytes 445234899 pkt (dropped 1037855, overlimits 0 requeues 0) 
+ backlog 29509838b 8943p requeues 0
+===t=100.439===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 642774203773 bytes 445340463 pkt (dropped 1038302, overlimits 128780935 requeues 1748) 
+ backlog 27026750b 8213p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 642774383023 bytes 445340588 pkt (dropped 1038302, overlimits 0 requeues 0) 
+ backlog 26998748b 8218p requeues 0
+===t=100.967===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 642924602607 bytes 445445802 pkt (dropped 1038600, overlimits 128822854 requeues 1748) 
+ backlog 29587858b 8606p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 642924737411 bytes 445445898 pkt (dropped 1038600, overlimits 0 requeues 0) 
+ backlog 29665122b 8564p requeues 0
+===t=101.491===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 643077239549 bytes 445552691 pkt (dropped 1040075, overlimits 128865220 requeues 1748) 
+ backlog 29520322b 9323p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 643077239549 bytes 445552691 pkt (dropped 1040075, overlimits 0 requeues 0) 
+ backlog 29520322b 9304p requeues 0
+===t=102.020===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 643228660845 bytes 445658733 pkt (dropped 1042980, overlimits 128909648 requeues 1748) 
+ backlog 28896910b 9121p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 643228660845 bytes 445658733 pkt (dropped 1042980, overlimits 0 requeues 0) 
+ backlog 28896910b 9233p requeues 0
+===t=102.553===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 643374482699 bytes 445760712 pkt (dropped 1043967, overlimits 128954238 requeues 1748) 
+ backlog 29238890b 9814p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 643375219879 bytes 445761228 pkt (dropped 1043967, overlimits 0 requeues 0) 
+ backlog 29427318b 9795p requeues 0
+===t=103.090===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 643519430543 bytes 445862120 pkt (dropped 1044470, overlimits 128999264 requeues 1748) 
+ backlog 28993686b 9153p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 643519627679 bytes 445862258 pkt (dropped 1044470, overlimits 0 requeues 0) 
+ backlog 28922742b 9103p requeues 0
+===t=103.610===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 643669254597 bytes 445966955 pkt (dropped 1045610, overlimits 129043508 requeues 1748) 
+ backlog 27734098b 8991p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 643669254597 bytes 445966955 pkt (dropped 1045610, overlimits 0 requeues 0) 
+ backlog 27734098b 8945p requeues 0
+===t=104.135===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 643817043677 bytes 446070417 pkt (dropped 1047423, overlimits 129087389 requeues 1748) 
+ backlog 29997588b 9816p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 643817217869 bytes 446070539 pkt (dropped 1047430, overlimits 0 requeues 0) 
+ backlog 29988306b 9825p requeues 0
+===t=104.671===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 643965231825 bytes 446174087 pkt (dropped 1048804, overlimits 129133319 requeues 1748) 
+ backlog 28912528b 9723p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 643965465661 bytes 446174251 pkt (dropped 1048804, overlimits 0 requeues 0) 
+ backlog 28943982b 9730p requeues 0
+===t=105.206===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 644109986747 bytes 446275376 pkt (dropped 1050811, overlimits 129178686 requeues 1748) 
+ backlog 28601533b 9830p requeues 1748
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 644109986747 bytes 446275376 pkt (dropped 1050811, overlimits 0 requeues 0) 
+ backlog 28601533b 9792p requeues 0
+===t=105.730===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 644253625875 bytes 446375860 pkt (dropped 1053207, overlimits 129224499 requeues 1749) 
+ backlog 28745848b 9847p requeues 1749
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 644253800823 bytes 446375982 pkt (dropped 1053207, overlimits 0 requeues 0) 
+ backlog 28619656b 9845p requeues 0
+===t=106.257===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 644399844249 bytes 446478065 pkt (dropped 1053702, overlimits 129270984 requeues 1750) 
+ backlog 29415954b 9889p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 644400022065 bytes 446478189 pkt (dropped 1053702, overlimits 0 requeues 0) 
+ backlog 29319876b 9865p requeues 0
+===t=106.785===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 644548401167 bytes 446581892 pkt (dropped 1054930, overlimits 129317696 requeues 1750) 
+ backlog 29162374b 9981p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 644548581851 bytes 446582018 pkt (dropped 1054930, overlimits 0 requeues 0) 
+ backlog 29133694b 9896p requeues 0
+===t=107.330===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 644692705959 bytes 446682806 pkt (dropped 1055250, overlimits 129362888 requeues 1750) 
+ backlog 29229624b 9625p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 644692705959 bytes 446682806 pkt (dropped 1055250, overlimits 0 requeues 0) 
+ backlog 29229624b 9615p requeues 0
+===t=107.849===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 644833727689 bytes 446781419 pkt (dropped 1056160, overlimits 129406565 requeues 1750) 
+ backlog 29413098b 9735p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 644833852447 bytes 446781506 pkt (dropped 1056160, overlimits 0 requeues 0) 
+ backlog 29327058b 9724p requeues 0
+===t=108.370===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 644983110685 bytes 446885875 pkt (dropped 1056691, overlimits 129452814 requeues 1750) 
+ backlog 28472610b 9237p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 644983110685 bytes 446885875 pkt (dropped 1056691, overlimits 0 requeues 0) 
+ backlog 28472610b 9237p requeues 0
+===t=108.895===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 645124419990 bytes 446984734 pkt (dropped 1057330, overlimits 129496851 requeues 1750) 
+ backlog 29881040b 9931p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 645124606410 bytes 446984864 pkt (dropped 1057330, overlimits 0 requeues 0) 
+ backlog 29876372b 9939p requeues 0
+===t=109.416===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 645265923576 bytes 447083749 pkt (dropped 1057814, overlimits 129540937 requeues 1750) 
+ backlog 28805478b 9396p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 645265923576 bytes 447083749 pkt (dropped 1057814, overlimits 0 requeues 0) 
+ backlog 28805478b 9385p requeues 0
+===t=109.943===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 645410932784 bytes 447185261 pkt (dropped 1058161, overlimits 129585834 requeues 1750) 
+ backlog 28353638b 8891p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 645410964332 bytes 447185283 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 28339298b 8872p requeues 0
+===t=110.480===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 645562007256 bytes 447291127 pkt (dropped 1058161, overlimits 129628244 requeues 1750) 
+ backlog 15691392b 4470p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 645562007256 bytes 447291127 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 15691392b 4448p requeues 0
+===t=110.998===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 645719737474 bytes 447402892 pkt (dropped 1058161, overlimits 129662345 requeues 1750) 
+ backlog 17208b 1p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 645719737474 bytes 447402892 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 17208b 1p requeues 0
+===t=111.509===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 645810955354 bytes 447468728 pkt (dropped 1058161, overlimits 129669487 requeues 1750) 
+ backlog 42Kb 3p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 645810955354 bytes 447468728 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 42Kb 3p requeues 0
+===t=112.020===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 645887787974 bytes 447524214 pkt (dropped 1058161, overlimits 129675524 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 645887787974 bytes 447524214 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=112.528===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 645944227702 bytes 447564974 pkt (dropped 1058161, overlimits 129679883 requeues 1750) 
+ backlog 8604b 1p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 645944227702 bytes 447564974 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 8604b 1p requeues 0
+===t=113.036===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 645991951100 bytes 447599427 pkt (dropped 1058161, overlimits 129683521 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 645991951100 bytes 447599427 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=113.544===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646024594774 bytes 447623014 pkt (dropped 1058161, overlimits 129685948 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646024594774 bytes 447623014 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=114.052===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646046566228 bytes 447638903 pkt (dropped 1058161, overlimits 129687569 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646046566228 bytes 447638903 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=114.561===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=115.068===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=115.575===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=116.082===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=116.588===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=117.094===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=117.601===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=118.108===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=118.615===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351290 bytes 447642392 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=119.122===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=119.629===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=120.136===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=120.643===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=121.150===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=121.656===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=122.163===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=122.672===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=123.180===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=123.689===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351481 bytes 447642394 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=124.198===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351567 bytes 447642395 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351567 bytes 447642395 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+===t=124.706===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 646051351661 bytes 447642396 pkt (dropped 1058161, overlimits 129687908 requeues 1750) 
+ backlog 0b 0p requeues 1750
+qdisc bfifo 3: parent 1:3 limit 30000000b
+ Sent 646051351661 bytes 447642396 pkt (dropped 1058161, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0

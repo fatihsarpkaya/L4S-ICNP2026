@@ -1,0 +1,12 @@
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 968659073 bytes 691372 pkt (dropped 9, overlimits 619415 requeues 15) 
+ backlog 0b 142888p requeues 15
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 968659073 bytes 691372 pkt (dropped 9, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 358894 pkts_in_l 332487 maxq 205
+ecn_mark 21766 step_mark 16090
+credit -21110 (L-queue)
+memory_used 0 (max 465632) of memory limit 3028000
+

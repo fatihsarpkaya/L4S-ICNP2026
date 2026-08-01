@@ -1,0 +1,180 @@
+{
+	"start":	{
+		"connected":	[{
+				"socket":	5,
+				"local_host":	"fd00:5::3",
+				"local_port":	52850,
+				"remote_host":	"fd00:6::3",
+				"remote_port":	6102
+			}],
+		"version":	"iperf 3.19.1",
+		"system_info":	"Linux e-1-5 6.6.114-a76b708b2-l4steam-116 #1 SMP PREEMPT_DYNAMIC Fri Nov  7 17:51:12 UTC 2025 x86_64",
+		"timestamp":	{
+			"time":	"Thu, 14 May 2026 05:16:08 GMT",
+			"timesecs":	1778735768
+		},
+		"connecting_to":	{
+			"host":	"fd00:6::3",
+			"port":	6102
+		},
+		"cookie":	"4pigdkayu7pyyeeegsm3bqg7wmgkjkyh2xgk",
+		"tcp_mss_default":	1348,
+		"target_bitrate":	0,
+		"fq_rate":	0,
+		"sock_bufsize":	0,
+		"sndbuf_actual":	87380,
+		"rcvbuf_actual":	87380,
+		"test_start":	{
+			"protocol":	"TCP",
+			"num_streams":	1,
+			"blksize":	131072,
+			"omit":	0,
+			"duration":	0,
+			"bytes":	5242880,
+			"blocks":	0,
+			"reverse":	0,
+			"tos":	0,
+			"target_bitrate":	0,
+			"bidir":	0,
+			"fqrate":	0,
+			"interval":	1
+		}
+	},
+	"intervals":	[{
+			"streams":	[{
+					"socket":	5,
+					"start":	0,
+					"end":	1.001038,
+					"seconds":	1.0010379552841187,
+					"bytes":	2752512,
+					"bits_per_second":	21997263.823777959,
+					"retransmits":	0,
+					"snd_cwnd":	66052,
+					"snd_wnd":	491520,
+					"rtt":	33678,
+					"rttvar":	461,
+					"pmtu":	1420,
+					"omitted":	false,
+					"sender":	true
+				}],
+			"sum":	{
+				"start":	0,
+				"end":	1.001038,
+				"seconds":	1.0010379552841187,
+				"bytes":	2752512,
+				"bits_per_second":	21997263.823777959,
+				"retransmits":	0,
+				"omitted":	false,
+				"sender":	true
+			}
+		}, {
+			"streams":	[{
+					"socket":	5,
+					"start":	1.001038,
+					"end":	2.001049,
+					"seconds":	1.0000109672546387,
+					"bytes":	2097152,
+					"bits_per_second":	16777032.002017953,
+					"retransmits":	0,
+					"snd_cwnd":	82228,
+					"snd_wnd":	491520,
+					"rtt":	45030,
+					"rttvar":	2521,
+					"pmtu":	1420,
+					"omitted":	false,
+					"sender":	true
+				}],
+			"sum":	{
+				"start":	1.001038,
+				"end":	2.001049,
+				"seconds":	1.0000109672546387,
+				"bytes":	2097152,
+				"bits_per_second":	16777032.002017953,
+				"retransmits":	0,
+				"omitted":	false,
+				"sender":	true
+			}
+		}, {
+			"streams":	[{
+					"socket":	5,
+					"start":	2.001049,
+					"end":	3.001032,
+					"seconds":	0.999983012676239,
+					"bytes":	393216,
+					"bits_per_second":	3145781.4384077755,
+					"retransmits":	0,
+					"snd_cwnd":	67400,
+					"snd_wnd":	491520,
+					"rtt":	43952,
+					"rttvar":	312,
+					"pmtu":	1420,
+					"omitted":	false,
+					"sender":	true
+				}],
+			"sum":	{
+				"start":	2.001049,
+				"end":	3.001032,
+				"seconds":	0.999983012676239,
+				"bytes":	393216,
+				"bits_per_second":	3145781.4384077755,
+				"retransmits":	0,
+				"omitted":	false,
+				"sender":	true
+			}
+		}],
+	"end":	{
+		"streams":	[{
+				"sender":	{
+					"socket":	5,
+					"start":	0,
+					"end":	3.001284,
+					"seconds":	3.001284,
+					"bytes":	5242880,
+					"bits_per_second":	13975032.019628933,
+					"retransmits":	0,
+					"max_snd_cwnd":	82228,
+					"max_snd_wnd":	491520,
+					"max_rtt":	45030,
+					"min_rtt":	33678,
+					"mean_rtt":	41653,
+					"sender":	true
+				},
+				"receiver":	{
+					"socket":	5,
+					"start":	0,
+					"end":	3.035158,
+					"seconds":	3.001284,
+					"bytes":	5242880,
+					"bits_per_second":	13819063.126202986,
+					"sender":	true
+				}
+			}],
+		"sum_sent":	{
+			"start":	0,
+			"end":	3.001284,
+			"seconds":	3.001284,
+			"bytes":	5242880,
+			"bits_per_second":	13975032.019628933,
+			"retransmits":	0,
+			"sender":	true
+		},
+		"sum_received":	{
+			"start":	0,
+			"end":	3.035158,
+			"seconds":	3.035158,
+			"bytes":	5242880,
+			"bits_per_second":	13819063.126202986,
+			"sender":	true
+		},
+		"cpu_utilization_percent":	{
+			"host_total":	26.466464590971377,
+			"host_user":	25.6521387050113,
+			"host_system":	0.814325885960079,
+			"remote_total":	1.8801570388762152,
+			"remote_user":	0,
+			"remote_system":	1.8801570388762152
+		},
+		"sender_tcp_congestion":	"cubic",
+		"receiver_tcp_congestion":	"cubic"
+	}
+}

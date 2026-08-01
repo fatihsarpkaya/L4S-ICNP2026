@@ -1,0 +1,19 @@
+qdisc htb 1: root refcnt 33 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 128
+ Sent 7302990745 bytes 4825986 pkt (dropped 9, overlimits 3514792 requeues 27) 
+ backlog 0b 0p requeues 27
+qdisc codel 201: parent 10:2 limit 20000p target 15ms ce_threshold 15ms interval 100ms ecn 
+ Sent 5896895229 bytes 3897183 pkt (dropped 9, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+  count 1 lastcount 1 ldelay 2us drop_next 0us
+  maxpacket 1514 ecn_mark 0 drop_overlimit 0
+qdisc htb 100: parent 10:1 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 128
+ Sent 1406095516 bytes 928803 pkt (dropped 0, overlimits 472026 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc prio 10: parent 1:1 bands 3 priomap 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ Sent 7302990745 bytes 4825986 pkt (dropped 9, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc codel 101: parent 100:1 limit 1000p target 100ms ce_threshold 999us interval 1e+03ms ecn 
+ Sent 1406095516 bytes 928803 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+  count 0 lastcount 0 ldelay 1us drop_next 0us
+  maxpacket 1514 ecn_mark 0 drop_overlimit 0 ce_mark 160522

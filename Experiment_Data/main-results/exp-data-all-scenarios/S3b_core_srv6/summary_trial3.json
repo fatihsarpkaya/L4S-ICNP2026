@@ -1,0 +1,602 @@
+{
+  "scenario_id": "S3b_core_srv6",
+  "trial": 3,
+  "duration_s": 120,
+  "enabled_apps": [
+    "streaming",
+    "call",
+    "xfer"
+  ],
+  "l4s_streaming": [
+    {
+      "num_chunks_total": 30,
+      "num_chunks_delivered": 30,
+      "num_chunks_played": 30,
+      "num_chunks_undelivered": 0,
+      "pct_chunks_undelivered": 0.0,
+      "num_stalls": 3,
+      "num_chunks_with_rebuffering": 3,
+      "chunks_with_rebuffering_pct": 10.0,
+      "num_chunks_played_after_rebuffering": 5,
+      "chunks_played_after_rebuffering_pct": 16.666666666666668,
+      "total_rebuffering_sec": 6.579,
+      "total_playtime_sec": 60.0,
+      "rebuffer_ratio_pct": 10.97,
+      "fid": 1,
+      "port": 5201,
+      "total_retrans": 0,
+      "bytes_retrans_est": 0
+    },
+    {
+      "num_chunks_total": 30,
+      "num_chunks_delivered": 30,
+      "num_chunks_played": 30,
+      "num_chunks_undelivered": 0,
+      "pct_chunks_undelivered": 0.0,
+      "num_stalls": 1,
+      "num_chunks_with_rebuffering": 1,
+      "chunks_with_rebuffering_pct": 3.3333333333333335,
+      "num_chunks_played_after_rebuffering": 2,
+      "chunks_played_after_rebuffering_pct": 6.666666666666667,
+      "total_rebuffering_sec": 3.462,
+      "total_playtime_sec": 60.0,
+      "rebuffer_ratio_pct": 5.77,
+      "fid": 2,
+      "port": 5202,
+      "total_retrans": 0,
+      "bytes_retrans_est": 0
+    },
+    {
+      "num_chunks_total": 30,
+      "num_chunks_delivered": 30,
+      "num_chunks_played": 30,
+      "num_chunks_undelivered": 0,
+      "pct_chunks_undelivered": 0.0,
+      "num_stalls": 2,
+      "num_chunks_with_rebuffering": 2,
+      "chunks_with_rebuffering_pct": 6.666666666666667,
+      "num_chunks_played_after_rebuffering": 4,
+      "chunks_played_after_rebuffering_pct": 13.333333333333334,
+      "total_rebuffering_sec": 5.195,
+      "total_playtime_sec": 60.0,
+      "rebuffer_ratio_pct": 8.66,
+      "fid": 3,
+      "port": 5203,
+      "total_retrans": 0,
+      "bytes_retrans_est": 0
+    }
+  ],
+  "l4s_xfer": [
+    {
+      "fid": 8,
+      "port": 5401,
+      "fct_s": 5.30228900000111,
+      "completed": true,
+      "final_bytes": 10129961,
+      "target_bytes": 10485760,
+      "total_retrans": 0,
+      "bytes_retrans_est": 0
+    },
+    {
+      "fid": 9,
+      "port": 5402,
+      "fct_s": 6.032267000000502,
+      "completed": true,
+      "final_bytes": 10196833,
+      "target_bytes": 10485760,
+      "total_retrans": 0,
+      "bytes_retrans_est": 0
+    },
+    {
+      "fid": 10,
+      "port": 5403,
+      "fct_s": 10.61543999999958,
+      "completed": true,
+      "final_bytes": 10323113,
+      "target_bytes": 10485760,
+      "total_retrans": 0,
+      "bytes_retrans_est": 0
+    },
+    {
+      "fid": 11,
+      "port": 5404,
+      "fct_s": 11.422113000000536,
+      "completed": true,
+      "final_bytes": 10270233,
+      "target_bytes": 10485760,
+      "total_retrans": 0,
+      "bytes_retrans_est": 0
+    },
+    {
+      "fid": 12,
+      "port": 5405,
+      "fct_s": 13.432660000000396,
+      "completed": true,
+      "final_bytes": 10358865,
+      "target_bytes": 10485760,
+      "total_retrans": 0,
+      "bytes_retrans_est": 0
+    }
+  ],
+  "l4s_throughput": [
+    {
+      "fid": 1,
+      "port": 5201,
+      "app": "streaming",
+      "mbps": 8.631491601747124,
+      "source": "tcpinfo_active"
+    },
+    {
+      "fid": 2,
+      "port": 5202,
+      "app": "streaming",
+      "mbps": 9.467965953546926,
+      "source": "tcpinfo_active"
+    },
+    {
+      "fid": 3,
+      "port": 5203,
+      "app": "streaming",
+      "mbps": 10.26293369125987,
+      "source": "tcpinfo_active"
+    },
+    {
+      "fid": 8,
+      "port": 5401,
+      "app": "xfer",
+      "mbps": 16.049280188514945,
+      "source": "tcpinfo_active"
+    },
+    {
+      "fid": 9,
+      "port": 5402,
+      "app": "xfer",
+      "mbps": 14.17206436289647,
+      "source": "tcpinfo_active"
+    },
+    {
+      "fid": 10,
+      "port": 5403,
+      "app": "xfer",
+      "mbps": 8.051405439799648,
+      "source": "tcpinfo_active"
+    },
+    {
+      "fid": 11,
+      "port": 5404,
+      "app": "xfer",
+      "mbps": 7.434690357742251,
+      "source": "tcpinfo_active"
+    },
+    {
+      "fid": 12,
+      "port": 5405,
+      "app": "xfer",
+      "mbps": 6.299848290053325,
+      "source": "tcpinfo_active"
+    },
+    {
+      "fid": null,
+      "port": 5101,
+      "app": "call",
+      "mbps": 4.96933234295416,
+      "source": "prague_rx"
+    },
+    {
+      "fid": null,
+      "port": 5102,
+      "app": "call",
+      "mbps": 4.969271466101695,
+      "source": "prague_rx"
+    },
+    {
+      "fid": null,
+      "port": 5103,
+      "app": "call",
+      "mbps": 4.969175249575552,
+      "source": "prague_rx"
+    },
+    {
+      "fid": null,
+      "port": 5104,
+      "app": "call",
+      "mbps": 4.966817731748726,
+      "source": "prague_rx"
+    }
+  ],
+  "l4s_rtt": [
+    {
+      "fid": 1,
+      "port": 5201,
+      "app": "streaming",
+      "mean_rtt_ms": 32.43662619372442,
+      "p95_rtt_ms": 33.476,
+      "source": "tcpinfo"
+    },
+    {
+      "fid": 2,
+      "port": 5202,
+      "app": "streaming",
+      "mean_rtt_ms": 32.33105325443787,
+      "p95_rtt_ms": 33.137,
+      "source": "tcpinfo"
+    },
+    {
+      "fid": 3,
+      "port": 5203,
+      "app": "streaming",
+      "mean_rtt_ms": 32.319135906040266,
+      "p95_rtt_ms": 33.313,
+      "source": "tcpinfo"
+    },
+    {
+      "fid": 4,
+      "port": 5101,
+      "app": "call",
+      "mean_rtt_ms": 31.531174872665535,
+      "p95_rtt_ms": 31.782,
+      "source": "pragueinfo"
+    },
+    {
+      "fid": 5,
+      "port": 5102,
+      "app": "call",
+      "mean_rtt_ms": 31.516899830220716,
+      "p95_rtt_ms": 31.756,
+      "source": "pragueinfo"
+    },
+    {
+      "fid": 6,
+      "port": 5103,
+      "app": "call",
+      "mean_rtt_ms": 31.50251273344652,
+      "p95_rtt_ms": 31.724,
+      "source": "pragueinfo"
+    },
+    {
+      "fid": 7,
+      "port": 5104,
+      "app": "call",
+      "mean_rtt_ms": 31.48382003395586,
+      "p95_rtt_ms": 31.74,
+      "source": "pragueinfo"
+    },
+    {
+      "fid": 8,
+      "port": 5401,
+      "app": "xfer",
+      "mean_rtt_ms": 32.31081818181818,
+      "p95_rtt_ms": 33.133,
+      "source": "tcpinfo"
+    },
+    {
+      "fid": 9,
+      "port": 5402,
+      "app": "xfer",
+      "mean_rtt_ms": 32.31216,
+      "p95_rtt_ms": 32.988,
+      "source": "tcpinfo"
+    },
+    {
+      "fid": 10,
+      "port": 5403,
+      "app": "xfer",
+      "mean_rtt_ms": 32.88393827160494,
+      "p95_rtt_ms": 33.407,
+      "source": "tcpinfo"
+    },
+    {
+      "fid": 11,
+      "port": 5404,
+      "app": "xfer",
+      "mean_rtt_ms": 32.86719277108434,
+      "p95_rtt_ms": 33.506,
+      "source": "tcpinfo"
+    },
+    {
+      "fid": 12,
+      "port": 5405,
+      "app": "xfer",
+      "mean_rtt_ms": 33.150711538461536,
+      "p95_rtt_ms": 33.902,
+      "source": "tcpinfo"
+    }
+  ],
+  "l4s_call": [
+    {
+      "n_samples": 589,
+      "goodput_mbps": 4.96933234295416,
+      "rtt_ms_mean": 31.551928954159592,
+      "rtt_ms_p95": 31.799742,
+      "mark_prob_mean": 4.418525363327674,
+      "loss_prob_mean": 0.0,
+      "achieved_rate_pct": 99.38664685908319,
+      "bad_interval_pct": 1.1884550084889642,
+      "file": "l4s_mgen_rx_call_1_trial3.json"
+    },
+    {
+      "n_samples": 590,
+      "goodput_mbps": 4.969271466101695,
+      "rtt_ms_mean": 31.537872886440677,
+      "rtt_ms_p95": 31.762817,
+      "mark_prob_mean": 5.516770118644068,
+      "loss_prob_mean": 0.0,
+      "achieved_rate_pct": 99.3854293220339,
+      "bad_interval_pct": 1.0169491525423728,
+      "file": "l4s_mgen_rx_call_2_trial3.json"
+    },
+    {
+      "n_samples": 589,
+      "goodput_mbps": 4.969175249575552,
+      "rtt_ms_mean": 31.520139996604414,
+      "rtt_ms_p95": 31.735617,
+      "mark_prob_mean": 4.079988551782683,
+      "loss_prob_mean": 0.0,
+      "achieved_rate_pct": 99.38350499151105,
+      "bad_interval_pct": 1.0186757215619695,
+      "file": "l4s_mgen_rx_call_3_trial3.json"
+    },
+    {
+      "n_samples": 589,
+      "goodput_mbps": 4.966817731748726,
+      "rtt_ms_mean": 31.515965719864177,
+      "rtt_ms_p95": 31.765928,
+      "mark_prob_mean": 3.982082283531409,
+      "loss_prob_mean": 0.0,
+      "achieved_rate_pct": 99.33635463497453,
+      "bad_interval_pct": 1.1884550084889642,
+      "file": "l4s_mgen_rx_call_4_trial3.json"
+    }
+  ],
+  "classic_long": [
+    {
+      "throughput_mbps": 19.246900175803546,
+      "duration_s": 110.050112,
+      "bytes": 264765440,
+      "mean_rtt_ms": 64.582,
+      "max_rtt_ms": 143.071,
+      "fct_s": 110.050112,
+      "file": "classic_long_0_trial3.json"
+    },
+    {
+      "throughput_mbps": 13.582665883036878,
+      "duration_s": 100.050646,
+      "bytes": 169869312,
+      "mean_rtt_ms": 66.865,
+      "max_rtt_ms": 142.129,
+      "fct_s": 100.050646,
+      "file": "classic_long_1_trial3.json"
+    },
+    {
+      "throughput_mbps": 12.834545825945243,
+      "duration_s": 90.032851,
+      "bytes": 144441344,
+      "mean_rtt_ms": 69.77,
+      "max_rtt_ms": 141.305,
+      "fct_s": 90.032851,
+      "file": "classic_long_2_trial3.json"
+    }
+  ],
+  "classic_short": [
+    {
+      "throughput_mbps": 40.583728594457256,
+      "duration_s": 1.033494,
+      "bytes": 5242880,
+      "mean_rtt_ms": 40.632,
+      "max_rtt_ms": 40.632,
+      "fct_s": 1.033494,
+      "file": "classic_short_0_trial3.json"
+    },
+    {
+      "throughput_mbps": 7.564717817451101,
+      "duration_s": 5.128719,
+      "bytes": 4849664,
+      "mean_rtt_ms": 74.59,
+      "max_rtt_ms": 136.2,
+      "fct_s": 5.128719,
+      "file": "classic_short_1_trial3.json"
+    },
+    {
+      "throughput_mbps": 4.641871381893631,
+      "duration_s": 9.035804,
+      "bytes": 5242880,
+      "mean_rtt_ms": 95.662,
+      "max_rtt_ms": 130.631,
+      "fct_s": 9.035804,
+      "file": "classic_short_2_trial3.json"
+    },
+    {
+      "throughput_mbps": 13.816923549262295,
+      "duration_s": 3.035628,
+      "bytes": 5242880,
+      "mean_rtt_ms": 44.587,
+      "max_rtt_ms": 50.075,
+      "fct_s": 3.035628,
+      "file": "classic_short_3_trial3.json"
+    },
+    {
+      "throughput_mbps": 9.57926390107984,
+      "duration_s": 4.050135,
+      "bytes": 4849664,
+      "mean_rtt_ms": 45.095,
+      "max_rtt_ms": 50.55,
+      "fct_s": 4.050135,
+      "file": "classic_short_4_trial3.json"
+    }
+  ],
+  "background": {
+    "s_to_m": []
+  },
+  "tc_qdiscs": {
+    "r-access-6": [
+      {
+        "kind": "htb",
+        "handle": "1:",
+        "sent_bytes": 1100054365,
+        "sent_pkts": 783021,
+        "dropped": 0,
+        "overlimits": 740376,
+        "backlog_bytes": 0,
+        "backlog_pkts": 179096,
+        "ecn_mark": 0,
+        "step_mark": 0,
+        "pkts_in_l": 0,
+        "pkts_in_c": 0,
+        "maxq": 0,
+        "limit_pkts": 0
+      },
+      {
+        "kind": "dualpi2",
+        "handle": "3:",
+        "sent_bytes": 1100054365,
+        "sent_pkts": 783021,
+        "dropped": 0,
+        "overlimits": 0,
+        "backlog_bytes": 0,
+        "backlog_pkts": 0,
+        "ecn_mark": 21936,
+        "step_mark": 14780,
+        "pkts_in_l": 332567,
+        "pkts_in_c": 450454,
+        "maxq": 234,
+        "limit_pkts": 1000
+      }
+    ],
+    "r-access-5": [
+      {
+        "kind": "htb",
+        "handle": "1:",
+        "sent_bytes": 3783206670,
+        "sent_pkts": 2716761,
+        "dropped": 0,
+        "overlimits": 453058,
+        "backlog_bytes": 0,
+        "backlog_pkts": 0,
+        "ecn_mark": 0,
+        "step_mark": 0,
+        "pkts_in_l": 0,
+        "pkts_in_c": 0,
+        "maxq": 0,
+        "limit_pkts": 0
+      },
+      {
+        "kind": "bfifo",
+        "handle": "3:",
+        "sent_bytes": 3783206670,
+        "sent_pkts": 2716761,
+        "dropped": 0,
+        "overlimits": 0,
+        "backlog_bytes": 0,
+        "backlog_pkts": 0,
+        "ecn_mark": 0,
+        "step_mark": 0,
+        "pkts_in_l": 0,
+        "pkts_in_c": 0,
+        "maxq": 0,
+        "limit_pkts": 0
+      }
+    ],
+    "r-core2-4": [
+      {
+        "kind": "htb",
+        "handle": "1:",
+        "sent_bytes": 442391339989,
+        "sent_pkts": 295031001,
+        "dropped": 502331,
+        "overlimits": 91757604,
+        "backlog_bytes": 0,
+        "backlog_pkts": 0,
+        "ecn_mark": 0,
+        "step_mark": 0,
+        "pkts_in_l": 0,
+        "pkts_in_c": 0,
+        "maxq": 0,
+        "limit_pkts": 0
+      },
+      {
+        "kind": "bfifo",
+        "handle": "3:",
+        "sent_bytes": 442391339989,
+        "sent_pkts": 295031001,
+        "dropped": 502331,
+        "overlimits": 0,
+        "backlog_bytes": 0,
+        "backlog_pkts": 0,
+        "ecn_mark": 0,
+        "step_mark": 0,
+        "pkts_in_l": 0,
+        "pkts_in_c": 0,
+        "maxq": 0,
+        "limit_pkts": 0
+      }
+    ],
+    "r-2-6": [
+      {
+        "kind": "htb",
+        "handle": "1:",
+        "sent_bytes": 4420302655,
+        "sent_pkts": 3180220,
+        "dropped": 0,
+        "overlimits": 484816,
+        "backlog_bytes": 0,
+        "backlog_pkts": 0,
+        "ecn_mark": 0,
+        "step_mark": 0,
+        "pkts_in_l": 0,
+        "pkts_in_c": 0,
+        "maxq": 0,
+        "limit_pkts": 0
+      },
+      {
+        "kind": "bfifo",
+        "handle": "3:",
+        "sent_bytes": 4420302655,
+        "sent_pkts": 3180220,
+        "dropped": 0,
+        "overlimits": 0,
+        "backlog_bytes": 0,
+        "backlog_pkts": 0,
+        "ecn_mark": 0,
+        "step_mark": 0,
+        "pkts_in_l": 0,
+        "pkts_in_c": 0,
+        "maxq": 0,
+        "limit_pkts": 0
+      }
+    ],
+    "r-core2-3": [
+      {
+        "kind": "htb",
+        "handle": "1:",
+        "sent_bytes": 347980538874,
+        "sent_pkts": 235534108,
+        "dropped": 414938,
+        "overlimits": 77038407,
+        "backlog_bytes": 0,
+        "backlog_pkts": 0,
+        "ecn_mark": 0,
+        "step_mark": 0,
+        "pkts_in_l": 0,
+        "pkts_in_c": 0,
+        "maxq": 0,
+        "limit_pkts": 0
+      },
+      {
+        "kind": "bfifo",
+        "handle": "3:",
+        "sent_bytes": 347980538874,
+        "sent_pkts": 235534108,
+        "dropped": 414938,
+        "overlimits": 0,
+        "backlog_bytes": 0,
+        "backlog_pkts": 0,
+        "ecn_mark": 0,
+        "step_mark": 0,
+        "pkts_in_l": 0,
+        "pkts_in_c": 0,
+        "maxq": 0,
+        "limit_pkts": 0
+      }
+    ]
+  }
+}

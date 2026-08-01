@@ -1,0 +1,17 @@
+class htb 1:1 root leaf 10: prio 0 rate 4Gbit ceil 4Gbit burst 1000b cburst 1000b 
+ Sent 26660390572 bytes 18770518 pkt (dropped 2372, overlimits 7404205 requeues 0) 
+ backlog 0b 0p requeues 0
+ lended: 10053560 borrowed: 0 giants: 0
+ tokens: 43 ctokens: 43
+
+class tbf 100:1 parent 100: leaf 101: 
+
+class prio 10:1 parent 10: leaf 100: 
+ Sent 456000642 bytes 333803 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+class prio 10:2 parent 10: leaf 201: 
+ Sent 26204389930 bytes 18436715 pkt (dropped 2372, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+class prio 10:3 parent 10: 
+ Sent 0 bytes 0 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0

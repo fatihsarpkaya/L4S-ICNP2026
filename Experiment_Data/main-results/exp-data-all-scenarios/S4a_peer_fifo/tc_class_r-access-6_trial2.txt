@@ -1,0 +1,10 @@
+class htb 1:3 root leaf 3: prio 0 rate 100Mbit ceil 100Mbit burst 1600b cburst 1600b 
+ Sent 1085874081 bytes 770908 pkt (dropped 0, overlimits 722064 requeues 0) 
+ backlog 0b 0p requeues 0
+ lended: 770908 borrowed: 0 giants: 0
+ tokens: 1887 ctokens: 1887
+
+class dualpi2 3: parent 3: 
+
+class dualpi2 3: parent 3: 
+

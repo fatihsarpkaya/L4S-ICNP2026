@@ -1,0 +1,19 @@
+qdisc htb 1: root refcnt 33 r2q 10 default 0x1 direct_packets_stat 0 direct_qlen 128
+ Sent 10302872518 bytes 7365118 pkt (dropped 1566, overlimits 2261546 requeues 3358) 
+ backlog 0b 0p requeues 3358
+qdisc pie 201: parent 10:2 limit 20000p target 15ms tupdate 16ms alpha 2 beta 20 ecn bytemode 
+ Sent 9822348570 bytes 7032594 pkt (dropped 1566, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+  prob 0 delay 0us
+  pkts_in 2202201 overlimit 0 dropped 1566 maxq 2943 ecn_mark 34747
+qdisc tbf 100: parent 10:1 rate 200Mbit burst 100Kb lat 331ms 
+ Sent 480523948 bytes 332524 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc prio 10: parent 1:1 bands 3 priomap 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ Sent 10302872518 bytes 7365118 pkt (dropped 1566, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc pie 101: parent 100:1 limit 20000p target 1ms tupdate 16ms alpha 2 beta 20 ecn bytemode 
+ Sent 480523948 bytes 332524 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+  prob 0 delay 0us
+  pkts_in 330556 overlimit 0 dropped 0 maxq 22 ecn_mark 0

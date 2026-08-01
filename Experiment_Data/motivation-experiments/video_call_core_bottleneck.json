@@ -1,0 +1,298 @@
+{
+  "call_PRAGUE_prague_cubic_2.0_100_30_DualPI2_15_3_1_workload_gen_rx_L4S": {
+    "scenario": "call_PRAGUE_prague_cubic_2.0_100_30_DualPI2_15_3_1_workload_gen_rx_L4S",
+    "app": "call",
+    "cc_L4S": "prague",
+    "cc_legacy": "cubic",
+    "n_bdp": "2.0",
+    "cap": "100",
+    "rtt": "30",
+    "aqm": "DualPI2",
+    "ecn_thresh": "15",
+    "rx_L4S_ecn": "3",
+    "rx_legacy_ecn": "1",
+    "workload": "workload_gen",
+    "side": "L4S",
+    "mean_goodput_mbps": 4.968976520296327,
+    "std_goodput_mbps": 0.00533119728031737,
+    "mean_rtt_ms": 47.53444047153312,
+    "std_rtt_ms": 0.8578413559815571,
+    "mean_mark_prob": 4.162082169693451,
+    "std_mark_prob": 0.23423128095933746,
+    "mean_loss_prob": 0.0041603420272815815,
+    "std_loss_prob": 0.0035078845368841697,
+    "n_flows": 25,
+    "n_trials": 5,
+    "trials": [
+      {
+        "trial": 600,
+        "n_flows": 5,
+        "mean_goodput_mbps": 4.965,
+        "mean_rtt_ms": 47.812,
+        "mean_mark_prob": 4.15,
+        "mean_loss_prob": 0.0,
+        "flows": [
+          {
+            "port": 5101,
+            "rcvd_rate_mbps": 4.959,
+            "rtt_ms": 47.813,
+            "mark_prob": 4.03,
+            "loss_prob": 0.0,
+            "n_samples": 1182
+          },
+          {
+            "port": 5102,
+            "rcvd_rate_mbps": 4.967,
+            "rtt_ms": 47.83,
+            "mark_prob": 4.15,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          },
+          {
+            "port": 5103,
+            "rcvd_rate_mbps": 4.966,
+            "rtt_ms": 47.837,
+            "mark_prob": 4.24,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          },
+          {
+            "port": 5104,
+            "rcvd_rate_mbps": 4.964,
+            "rtt_ms": 47.813,
+            "mark_prob": 4.18,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          },
+          {
+            "port": 5105,
+            "rcvd_rate_mbps": 4.968,
+            "rtt_ms": 47.767,
+            "mark_prob": 4.15,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          }
+        ],
+        "mean_achieved_rate_fraction_pct": 99.3,
+        "mean_p95_rtt_ms": 50.88,
+        "bad_interval_fraction": 0.0137
+      },
+      {
+        "trial": 601,
+        "n_flows": 5,
+        "mean_goodput_mbps": 4.972,
+        "mean_rtt_ms": 47.765,
+        "mean_mark_prob": 4.35,
+        "mean_loss_prob": 0.0,
+        "flows": [
+          {
+            "port": 5101,
+            "rcvd_rate_mbps": 4.971,
+            "rtt_ms": 47.741,
+            "mark_prob": 4.22,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          },
+          {
+            "port": 5102,
+            "rcvd_rate_mbps": 4.972,
+            "rtt_ms": 47.814,
+            "mark_prob": 4.35,
+            "loss_prob": 0.01,
+            "n_samples": 1182
+          },
+          {
+            "port": 5103,
+            "rcvd_rate_mbps": 4.974,
+            "rtt_ms": 47.771,
+            "mark_prob": 4.31,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          },
+          {
+            "port": 5104,
+            "rcvd_rate_mbps": 4.974,
+            "rtt_ms": 47.764,
+            "mark_prob": 4.45,
+            "loss_prob": 0.0,
+            "n_samples": 1182
+          },
+          {
+            "port": 5105,
+            "rcvd_rate_mbps": 4.967,
+            "rtt_ms": 47.737,
+            "mark_prob": 4.4,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          }
+        ],
+        "mean_achieved_rate_fraction_pct": 99.43,
+        "mean_p95_rtt_ms": 50.95,
+        "bad_interval_fraction": 0.0113
+      },
+      {
+        "trial": 602,
+        "n_flows": 5,
+        "mean_goodput_mbps": 4.973,
+        "mean_rtt_ms": 46.313,
+        "mean_mark_prob": 4.45,
+        "mean_loss_prob": 0.01,
+        "flows": [
+          {
+            "port": 5101,
+            "rcvd_rate_mbps": 4.976,
+            "rtt_ms": 46.296,
+            "mark_prob": 4.33,
+            "loss_prob": 0.01,
+            "n_samples": 1183
+          },
+          {
+            "port": 5102,
+            "rcvd_rate_mbps": 4.977,
+            "rtt_ms": 46.366,
+            "mark_prob": 4.61,
+            "loss_prob": 0.01,
+            "n_samples": 1183
+          },
+          {
+            "port": 5103,
+            "rcvd_rate_mbps": 4.958,
+            "rtt_ms": 46.317,
+            "mark_prob": 4.42,
+            "loss_prob": 0.01,
+            "n_samples": 1182
+          },
+          {
+            "port": 5104,
+            "rcvd_rate_mbps": 4.978,
+            "rtt_ms": 46.336,
+            "mark_prob": 4.47,
+            "loss_prob": 0.01,
+            "n_samples": 1183
+          },
+          {
+            "port": 5105,
+            "rcvd_rate_mbps": 4.978,
+            "rtt_ms": 46.254,
+            "mark_prob": 4.4,
+            "loss_prob": 0.01,
+            "n_samples": 1183
+          }
+        ],
+        "mean_achieved_rate_fraction_pct": 99.47,
+        "mean_p95_rtt_ms": 50.91,
+        "bad_interval_fraction": 0.0103
+      },
+      {
+        "trial": 603,
+        "n_flows": 5,
+        "mean_goodput_mbps": 4.965,
+        "mean_rtt_ms": 48.84,
+        "mean_mark_prob": 3.95,
+        "mean_loss_prob": 0.0,
+        "flows": [
+          {
+            "port": 5101,
+            "rcvd_rate_mbps": 4.964,
+            "rtt_ms": 48.833,
+            "mark_prob": 3.99,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          },
+          {
+            "port": 5102,
+            "rcvd_rate_mbps": 4.965,
+            "rtt_ms": 48.867,
+            "mark_prob": 4.07,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          },
+          {
+            "port": 5103,
+            "rcvd_rate_mbps": 4.962,
+            "rtt_ms": 48.837,
+            "mark_prob": 3.97,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          },
+          {
+            "port": 5104,
+            "rcvd_rate_mbps": 4.966,
+            "rtt_ms": 48.825,
+            "mark_prob": 3.96,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          },
+          {
+            "port": 5105,
+            "rcvd_rate_mbps": 4.967,
+            "rtt_ms": 48.836,
+            "mark_prob": 3.74,
+            "loss_prob": 0.0,
+            "n_samples": 1182
+          }
+        ],
+        "mean_achieved_rate_fraction_pct": 99.3,
+        "mean_p95_rtt_ms": 50.78,
+        "bad_interval_fraction": 0.0135
+      },
+      {
+        "trial": 604,
+        "n_flows": 5,
+        "mean_goodput_mbps": 4.97,
+        "mean_rtt_ms": 46.942,
+        "mean_mark_prob": 3.92,
+        "mean_loss_prob": 0.0,
+        "flows": [
+          {
+            "port": 5101,
+            "rcvd_rate_mbps": 4.971,
+            "rtt_ms": 46.913,
+            "mark_prob": 3.72,
+            "loss_prob": 0.0,
+            "n_samples": 1182
+          },
+          {
+            "port": 5102,
+            "rcvd_rate_mbps": 4.97,
+            "rtt_ms": 46.956,
+            "mark_prob": 4.02,
+            "loss_prob": 0.01,
+            "n_samples": 1183
+          },
+          {
+            "port": 5103,
+            "rcvd_rate_mbps": 4.971,
+            "rtt_ms": 46.953,
+            "mark_prob": 4.0,
+            "loss_prob": 0.0,
+            "n_samples": 1183
+          },
+          {
+            "port": 5104,
+            "rcvd_rate_mbps": 4.971,
+            "rtt_ms": 46.9,
+            "mark_prob": 3.76,
+            "loss_prob": 0.0,
+            "n_samples": 1182
+          },
+          {
+            "port": 5105,
+            "rcvd_rate_mbps": 4.969,
+            "rtt_ms": 46.988,
+            "mark_prob": 4.11,
+            "loss_prob": 0.01,
+            "n_samples": 1182
+          }
+        ],
+        "mean_achieved_rate_fraction_pct": 99.41,
+        "mean_p95_rtt_ms": 50.82,
+        "bad_interval_fraction": 0.0105
+      }
+    ],
+    "target_rate_mbps": 5.0,
+    "mean_achieved_rate_fraction_pct": 99.38,
+    "mean_p95_rtt_ms": 50.87,
+    "bad_interval_fraction_pct": 1.19
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "role": "edge",
+      "asn": 1,
+      "lo_v6": "fd00:ffff:14:1::2",
+      "id": "r-1-2"
+    },
+    {
+      "role": "edge",
+      "asn": 2,
+      "lo_v6": "fd00:ffff:14:2::1",
+      "id": "r-2-1"
+    },
+    {
+      "role": "edge",
+      "asn": 1,
+      "lo_v6": "fd00:ffff:14:1::4",
+      "id": "r-1-4"
+    },
+    {
+      "role": "edge",
+      "asn": 4,
+      "lo_v6": "fd00:ffff:14:4::1",
+      "id": "r-4-1"
+    },
+    {
+      "role": "edge",
+      "asn": 2,
+      "lo_v6": "fd00:ffff:14:2::3",
+      "id": "r-2-3"
+    },
+    {
+      "role": "edge",
+      "asn": 3,
+      "lo_v6": "fd00:ffff:14:3::2",
+      "id": "r-3-2"
+    },
+    {
+      "role": "edge",
+      "asn": 2,
+      "lo_v6": "fd00:ffff:14:2::6",
+      "id": "r-2-6"
+    },
+    {
+      "role": "edge",
+      "asn": 6,
+      "lo_v6": "fd00:ffff:14:6::2",
+      "id": "r-6-2"
+    },
+    {
+      "role": "edge",
+      "asn": 3,
+      "lo_v6": "fd00:ffff:14:3::4",
+      "id": "r-3-4"
+    },
+    {
+      "role": "edge",
+      "asn": 4,
+      "lo_v6": "fd00:ffff:14:4::3",
+      "id": "r-4-3"
+    },
+    {
+      "role": "edge",
+      "asn": 4,
+      "lo_v6": "fd00:ffff:14:4::5",
+      "id": "r-4-5"
+    },
+    {
+      "role": "edge",
+      "asn": 5,
+      "lo_v6": "fd00:ffff:14:5::4",
+      "id": "r-5-4"
+    },
+    {
+      "role": "core1",
+      "asn": 1,
+      "lo_v6": "fd00:ffff:1:1::1",
+      "id": "r-core1-1"
+    },
+    {
+      "role": "core2",
+      "asn": 1,
+      "lo_v6": "fd00:ffff:2:1::1",
+      "id": "r-core2-1"
+    },
+    {
+      "role": "core1",
+      "asn": 2,
+      "lo_v6": "fd00:ffff:1:2::1",
+      "id": "r-core1-2"
+    },
+    {
+      "role": "core2",
+      "asn": 2,
+      "lo_v6": "fd00:ffff:2:2::1",
+      "id": "r-core2-2"
+    },
+    {
+      "role": "core1",
+      "asn": 3,
+      "lo_v6": "fd00:ffff:1:3::1",
+      "id": "r-core1-3"
+    },
+    {
+      "role": "core2",
+      "asn": 3,
+      "lo_v6": "fd00:ffff:2:3::1",
+      "id": "r-core2-3"
+    },
+    {
+      "role": "core1",
+      "asn": 4,
+      "lo_v6": "fd00:ffff:1:4::1",
+      "id": "r-core1-4"
+    },
+    {
+      "role": "core2",
+      "asn": 4,
+      "lo_v6": "fd00:ffff:2:4::1",
+      "id": "r-core2-4"
+    },
+    {
+      "role": "core1",
+      "asn": 5,
+      "lo_v6": "fd00:ffff:1:5::1",
+      "id": "r-core1-5"
+    },
+    {
+      "role": "core2",
+      "asn": 5,
+      "lo_v6": "fd00:ffff:2:5::1",
+      "id": "r-core2-5"
+    },
+    {
+      "role": "core1",
+      "asn": 6,
+      "lo_v6": "fd00:ffff:1:6::1",
+      "id": "r-core1-6"
+    },
+    {
+      "role": "core2",
+      "asn": 6,
+      "lo_v6": "fd00:ffff:2:6::1",
+      "id": "r-core2-6"
+    },
+    {
+      "role": "access",
+      "asn": 5,
+      "lo_v6": "fd00:ffff:f:5::1",
+      "id": "r-access-5"
+    },
+    {
+      "role": "access",
+      "asn": 6,
+      "lo_v6": "fd00:ffff:f:6::1",
+      "id": "r-access-6"
+    },
+    {
+      "role": "endpoint",
+      "asn": 5,
+      "lo_v6": "fd00:ffff:fe:5::0",
+      "id": "e-0-5"
+    },
+    {
+      "role": "endpoint",
+      "asn": 5,
+      "lo_v6": "fd00:ffff:fe:5::1",
+      "id": "e-1-5"
+    },
+    {
+      "role": "endpoint",
+      "asn": 5,
+      "lo_v6": "fd00:ffff:fe:5::2",
+      "id": "e-2-5"
+    },
+    {
+      "role": "endpoint",
+      "asn": 6,
+      "lo_v6": "fd00:ffff:fe:6::0",
+      "id": "e-0-6"
+    },
+    {
+      "role": "endpoint",
+      "asn": 6,
+      "lo_v6": "fd00:ffff:fe:6::1",
+      "id": "e-1-6"
+    },
+    {
+      "role": "endpoint",
+      "asn": 6,
+      "lo_v6": "fd00:ffff:fe:6::2",
+      "id": "e-2-6"
+    }
+  ],
+  "links": [
+    {
+      "flavor": "edge-edge",
+      "v4_subnet": "10.1.2.0/30",
+      "v6_prefix": "fd00:1:2::/64",
+      "ip_map_v6": {
+        "r-1-2": "fd00:1:2::1",
+        "r-2-1": "fd00:1:2::2"
+      },
+      "net_name": "net-1-2",
+      "source": "r-1-2",
+      "target": "r-2-1"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.1.102.0/30",
+      "v6_prefix": "fd00:1:102::/64",
+      "ip_map_v6": {
+        "r-1-2": "fd00:1:102::1",
+        "r-core1-1": "fd00:1:102::2"
+      },
+      "net_name": "net-1-2-core1",
+      "source": "r-1-2",
+      "target": "r-core1-1"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.1.202.0/30",
+      "v6_prefix": "fd00:1:202::/64",
+      "ip_map_v6": {
+        "r-1-2": "fd00:1:202::1",
+        "r-core2-1": "fd00:1:202::2"
+      },
+      "net_name": "net-1-2-core2",
+      "source": "r-1-2",
+      "target": "r-core2-1"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.2.101.0/30",
+      "v6_prefix": "fd00:2:101::/64",
+      "ip_map_v6": {
+        "r-2-1": "fd00:2:101::1",
+        "r-core1-2": "fd00:2:101::2"
+      },
+      "net_name": "net-2-1-core1",
+      "source": "r-2-1",
+      "target": "r-core1-2"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.2.201.0/30",
+      "v6_prefix": "fd00:2:201::/64",
+      "ip_map_v6": {
+        "r-2-1": "fd00:2:201::1",
+        "r-core2-2": "fd00:2:201::2"
+      },
+      "net_name": "net-2-1-core2",
+      "source": "r-2-1",
+      "target": "r-core2-2"
+    },
+    {
+      "flavor": "edge-edge",
+      "v4_subnet": "10.1.4.0/30",
+      "v6_prefix": "fd00:1:4::/64",
+      "ip_map_v6": {
+        "r-1-4": "fd00:1:4::1",
+        "r-4-1": "fd00:1:4::2"
+      },
+      "net_name": "net-1-4",
+      "source": "r-1-4",
+      "target": "r-4-1"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.1.104.0/30",
+      "v6_prefix": "fd00:1:104::/64",
+      "ip_map_v6": {
+        "r-1-4": "fd00:1:104::1",
+        "r-core1-1": "fd00:1:104::2"
+      },
+      "net_name": "net-1-4-core1",
+      "source": "r-1-4",
+      "target": "r-core1-1"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.1.204.0/30",
+      "v6_prefix": "fd00:1:204::/64",
+      "ip_map_v6": {
+        "r-1-4": "fd00:1:204::1",
+        "r-core2-1": "fd00:1:204::2"
+      },
+      "net_name": "net-1-4-core2",
+      "source": "r-1-4",
+      "target": "r-core2-1"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.4.101.0/30",
+      "v6_prefix": "fd00:4:101::/64",
+      "ip_map_v6": {
+        "r-4-1": "fd00:4:101::1",
+        "r-core1-4": "fd00:4:101::2"
+      },
+      "net_name": "net-4-1-core1",
+      "source": "r-4-1",
+      "target": "r-core1-4"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.4.201.0/30",
+      "v6_prefix": "fd00:4:201::/64",
+      "ip_map_v6": {
+        "r-4-1": "fd00:4:201::1",
+        "r-core2-4": "fd00:4:201::2"
+      },
+      "net_name": "net-4-1-core2",
+      "source": "r-4-1",
+      "target": "r-core2-4"
+    },
+    {
+      "flavor": "edge-edge",
+      "v4_subnet": "10.2.3.0/30",
+      "v6_prefix": "fd00:2:3::/64",
+      "ip_map_v6": {
+        "r-2-3": "fd00:2:3::1",
+        "r-3-2": "fd00:2:3::2"
+      },
+      "net_name": "net-2-3",
+      "source": "r-2-3",
+      "target": "r-3-2"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.2.103.0/30",
+      "v6_prefix": "fd00:2:103::/64",
+      "ip_map_v6": {
+        "r-2-3": "fd00:2:103::1",
+        "r-core1-2": "fd00:2:103::2"
+      },
+      "net_name": "net-2-3-core1",
+      "source": "r-2-3",
+      "target": "r-core1-2"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.2.203.0/30",
+      "v6_prefix": "fd00:2:203::/64",
+      "ip_map_v6": {
+        "r-2-3": "fd00:2:203::1",
+        "r-core2-2": "fd00:2:203::2"
+      },
+      "net_name": "net-2-3-core2",
+      "source": "r-2-3",
+      "target": "r-core2-2"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.3.102.0/30",
+      "v6_prefix": "fd00:3:102::/64",
+      "ip_map_v6": {
+        "r-3-2": "fd00:3:102::1",
+        "r-core1-3": "fd00:3:102::2"
+      },
+      "net_name": "net-3-2-core1",
+      "source": "r-3-2",
+      "target": "r-core1-3"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.3.202.0/30",
+      "v6_prefix": "fd00:3:202::/64",
+      "ip_map_v6": {
+        "r-3-2": "fd00:3:202::1",
+        "r-core2-3": "fd00:3:202::2"
+      },
+      "net_name": "net-3-2-core2",
+      "source": "r-3-2",
+      "target": "r-core2-3"
+    },
+    {
+      "flavor": "edge-edge",
+      "v4_subnet": "10.2.6.0/30",
+      "v6_prefix": "fd00:2:6::/64",
+      "ip_map_v6": {
+        "r-2-6": "fd00:2:6::1",
+        "r-6-2": "fd00:2:6::2"
+      },
+      "net_name": "net-2-6",
+      "source": "r-2-6",
+      "target": "r-6-2"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.2.106.0/30",
+      "v6_prefix": "fd00:2:106::/64",
+      "ip_map_v6": {
+        "r-2-6": "fd00:2:106::1",
+        "r-core1-2": "fd00:2:106::2"
+      },
+      "net_name": "net-2-6-core1",
+      "source": "r-2-6",
+      "target": "r-core1-2"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.2.206.0/30",
+      "v6_prefix": "fd00:2:206::/64",
+      "ip_map_v6": {
+        "r-2-6": "fd00:2:206::1",
+        "r-core2-2": "fd00:2:206::2"
+      },
+      "net_name": "net-2-6-core2",
+      "source": "r-2-6",
+      "target": "r-core2-2"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.6.102.0/30",
+      "v6_prefix": "fd00:6:102::/64",
+      "ip_map_v6": {
+        "r-6-2": "fd00:6:102::1",
+        "r-core1-6": "fd00:6:102::2"
+      },
+      "net_name": "net-6-2-core1",
+      "source": "r-6-2",
+      "target": "r-core1-6"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.6.202.0/30",
+      "v6_prefix": "fd00:6:202::/64",
+      "ip_map_v6": {
+        "r-6-2": "fd00:6:202::1",
+        "r-core2-6": "fd00:6:202::2"
+      },
+      "net_name": "net-6-2-core2",
+      "source": "r-6-2",
+      "target": "r-core2-6"
+    },
+    {
+      "flavor": "edge-edge",
+      "v4_subnet": "10.3.4.0/30",
+      "v6_prefix": "fd00:3:4::/64",
+      "ip_map_v6": {
+        "r-3-4": "fd00:3:4::1",
+        "r-4-3": "fd00:3:4::2"
+      },
+      "net_name": "net-3-4",
+      "source": "r-3-4",
+      "target": "r-4-3"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.3.104.0/30",
+      "v6_prefix": "fd00:3:104::/64",
+      "ip_map_v6": {
+        "r-3-4": "fd00:3:104::1",
+        "r-core1-3": "fd00:3:104::2"
+      },
+      "net_name": "net-3-4-core1",
+      "source": "r-3-4",
+      "target": "r-core1-3"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.3.204.0/30",
+      "v6_prefix": "fd00:3:204::/64",
+      "ip_map_v6": {
+        "r-3-4": "fd00:3:204::1",
+        "r-core2-3": "fd00:3:204::2"
+      },
+      "net_name": "net-3-4-core2",
+      "source": "r-3-4",
+      "target": "r-core2-3"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.4.103.0/30",
+      "v6_prefix": "fd00:4:103::/64",
+      "ip_map_v6": {
+        "r-4-3": "fd00:4:103::1",
+        "r-core1-4": "fd00:4:103::2"
+      },
+      "net_name": "net-4-3-core1",
+      "source": "r-4-3",
+      "target": "r-core1-4"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.4.203.0/30",
+      "v6_prefix": "fd00:4:203::/64",
+      "ip_map_v6": {
+        "r-4-3": "fd00:4:203::1",
+        "r-core2-4": "fd00:4:203::2"
+      },
+      "net_name": "net-4-3-core2",
+      "source": "r-4-3",
+      "target": "r-core2-4"
+    },
+    {
+      "flavor": "edge-edge",
+      "v4_subnet": "10.4.5.0/30",
+      "v6_prefix": "fd00:4:5::/64",
+      "ip_map_v6": {
+        "r-4-5": "fd00:4:5::1",
+        "r-5-4": "fd00:4:5::2"
+      },
+      "net_name": "net-4-5",
+      "source": "r-4-5",
+      "target": "r-5-4"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.4.105.0/30",
+      "v6_prefix": "fd00:4:105::/64",
+      "ip_map_v6": {
+        "r-4-5": "fd00:4:105::1",
+        "r-core1-4": "fd00:4:105::2"
+      },
+      "net_name": "net-4-5-core1",
+      "source": "r-4-5",
+      "target": "r-core1-4"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.4.205.0/30",
+      "v6_prefix": "fd00:4:205::/64",
+      "ip_map_v6": {
+        "r-4-5": "fd00:4:205::1",
+        "r-core2-4": "fd00:4:205::2"
+      },
+      "net_name": "net-4-5-core2",
+      "source": "r-4-5",
+      "target": "r-core2-4"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.5.104.0/30",
+      "v6_prefix": "fd00:5:104::/64",
+      "ip_map_v6": {
+        "r-5-4": "fd00:5:104::1",
+        "r-core1-5": "fd00:5:104::2"
+      },
+      "net_name": "net-5-4-core1",
+      "source": "r-5-4",
+      "target": "r-core1-5"
+    },
+    {
+      "flavor": "edge-core",
+      "v4_subnet": "10.5.204.0/30",
+      "v6_prefix": "fd00:5:204::/64",
+      "ip_map_v6": {
+        "r-5-4": "fd00:5:204::1",
+        "r-core2-5": "fd00:5:204::2"
+      },
+      "net_name": "net-5-4-core2",
+      "source": "r-5-4",
+      "target": "r-core2-5"
+    },
+    {
+      "flavor": "access-core",
+      "v4_subnet": "10.5.250.0/30",
+      "v6_prefix": "fd00:5:250::/64",
+      "ip_map_v6": {
+        "r-access-5": "fd00:5:250::1",
+        "r-core1-5": "fd00:5:250::2"
+      },
+      "net_name": "net-5-access-uplink",
+      "source": "r-core1-5",
+      "target": "r-access-5"
+    },
+    {
+      "flavor": "access-core",
+      "v4_subnet": "10.5.251.0/30",
+      "v6_prefix": "fd00:5:251::/64",
+      "ip_map_v6": {
+        "r-access-5": "fd00:5:251::1",
+        "r-core2-5": "fd00:5:251::2"
+      },
+      "net_name": "net-5-access-uplink2",
+      "source": "r-core2-5",
+      "target": "r-access-5"
+    },
+    {
+      "flavor": "access-core",
+      "v4_subnet": "10.6.250.0/30",
+      "v6_prefix": "fd00:6:250::/64",
+      "ip_map_v6": {
+        "r-access-6": "fd00:6:250::1",
+        "r-core1-6": "fd00:6:250::2"
+      },
+      "net_name": "net-6-access-uplink",
+      "source": "r-core1-6",
+      "target": "r-access-6"
+    },
+    {
+      "flavor": "access-core",
+      "v4_subnet": "10.6.251.0/30",
+      "v6_prefix": "fd00:6:251::/64",
+      "ip_map_v6": {
+        "r-access-6": "fd00:6:251::1",
+        "r-core2-6": "fd00:6:251::2"
+      },
+      "net_name": "net-6-access-uplink2",
+      "source": "r-core2-6",
+      "target": "r-access-6"
+    },
+    {
+      "flavor": "edge-access",
+      "v4_subnet": "10.5.0.0/24",
+      "v6_prefix": "fd00:5::/64",
+      "ip_map_v6": {
+        "r-access-5": "fd00:5::1",
+        "e-0-5": "fd00:5::2"
+      },
+      "lan": "net-5-access",
+      "source": "r-access-5",
+      "target": "e-0-5"
+    },
+    {
+      "flavor": "edge-access",
+      "v4_subnet": "10.5.0.0/24",
+      "v6_prefix": "fd00:5::/64",
+      "ip_map_v6": {
+        "r-access-5": "fd00:5::1",
+        "e-1-5": "fd00:5::3"
+      },
+      "lan": "net-5-access",
+      "source": "r-access-5",
+      "target": "e-1-5"
+    },
+    {
+      "flavor": "edge-access",
+      "v4_subnet": "10.5.0.0/24",
+      "v6_prefix": "fd00:5::/64",
+      "ip_map_v6": {
+        "r-access-5": "fd00:5::1",
+        "e-2-5": "fd00:5::4"
+      },
+      "lan": "net-5-access",
+      "source": "r-access-5",
+      "target": "e-2-5"
+    },
+    {
+      "flavor": "edge-access",
+      "v4_subnet": "10.6.0.0/24",
+      "v6_prefix": "fd00:6::/64",
+      "ip_map_v6": {
+        "r-access-6": "fd00:6::1",
+        "e-0-6": "fd00:6::2"
+      },
+      "lan": "net-6-access",
+      "source": "r-access-6",
+      "target": "e-0-6"
+    },
+    {
+      "flavor": "edge-access",
+      "v4_subnet": "10.6.0.0/24",
+      "v6_prefix": "fd00:6::/64",
+      "ip_map_v6": {
+        "r-access-6": "fd00:6::1",
+        "e-1-6": "fd00:6::3"
+      },
+      "lan": "net-6-access",
+      "source": "r-access-6",
+      "target": "e-1-6"
+    },
+    {
+      "flavor": "edge-access",
+      "v4_subnet": "10.6.0.0/24",
+      "v6_prefix": "fd00:6::/64",
+      "ip_map_v6": {
+        "r-access-6": "fd00:6::1",
+        "e-2-6": "fd00:6::4"
+      },
+      "lan": "net-6-access",
+      "source": "r-access-6",
+      "target": "e-2-6"
+    }
+  ]
+}

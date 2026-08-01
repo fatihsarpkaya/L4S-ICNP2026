@@ -1,0 +1,3185 @@
+===t=0.000===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 720 bytes 8 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 720 bytes 8 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 8 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=0.511===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 720 bytes 8 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 720 bytes 8 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 8 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=1.022===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=1.532===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=2.043===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=2.554===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=3.064===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=3.575===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=4.086===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=4.597===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=5.107===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=5.617===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=6.128===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=6.638===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=7.148===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=7.659===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=8.169===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=8.680===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=9.192===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=9.702===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=10.212===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=10.724===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 810 bytes 9 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=11.233===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 900 bytes 10 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 900 bytes 10 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 10 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=11.744===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 900 bytes 10 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 900 bytes 10 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 10 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=12.255===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 900 bytes 10 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 900 bytes 10 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 10 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=12.765===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 900 bytes 10 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 900 bytes 10 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 10 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=13.276===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 900 bytes 10 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 900 bytes 10 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 10 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=13.788===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 2002 bytes 20 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 2002 bytes 20 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 20 pkts_in_l 0 maxq 0
+ecn_mark 0 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 896) of memory limit 3028000
+
+===t=14.299===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 4609616 bytes 3235 pkt (dropped 0, overlimits 3158 requeues 0) 
+ backlog 0b 738p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 4609616 bytes 3235 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 3235 pkts_in_l 0 maxq 148
+ecn_mark 2 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 335640) of memory limit 3028000
+
+===t=14.809===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 9310268 bytes 6513 pkt (dropped 0, overlimits 6015 requeues 0) 
+ backlog 0b 1430p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 9310268 bytes 6513 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 6513 pkts_in_l 0 maxq 148
+ecn_mark 2 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 335640) of memory limit 3028000
+
+===t=15.320===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 14226020 bytes 9941 pkt (dropped 0, overlimits 9227 requeues 0) 
+ backlog 0b 2146p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 14226020 bytes 9941 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 9941 pkts_in_l 0 maxq 148
+ecn_mark 2 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 335640) of memory limit 3028000
+
+===t=15.833===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 19219208 bytes 13423 pkt (dropped 0, overlimits 12510 requeues 0) 
+ backlog 10038b 2876p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 19219208 bytes 13423 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 10038b 7p requeues 0
+prob 0.000000 delay_c 314us delay_l 0us
+pkts_in_c 13430 pkts_in_l 0 maxq 148
+ecn_mark 2 step_mark 0
+credit -121120 (L-queue)
+memory_used 15768 (max 335640) of memory limit 3028000
+
+===t=16.345===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 24464780 bytes 17081 pkt (dropped 0, overlimits 15949 requeues 0) 
+ backlog 18642b 3620p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 24464780 bytes 17081 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 18642b 13p requeues 0
+prob 0.000000 delay_c 1363us delay_l 0us
+pkts_in_c 17094 pkts_in_l 0 maxq 148
+ecn_mark 2 step_mark 0
+credit -121120 (L-queue)
+memory_used 29352 (max 335640) of memory limit 3028000
+
+===t=16.856===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 29772014 bytes 20782 pkt (dropped 0, overlimits 19458 requeues 0) 
+ backlog 0b 4294p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 29772014 bytes 20782 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 20782 pkts_in_l 0 maxq 148
+ecn_mark 2 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 335640) of memory limit 3028000
+
+===t=17.367===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 35347406 bytes 24670 pkt (dropped 0, overlimits 23070 requeues 0) 
+ backlog 0b 4977p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 35347406 bytes 24670 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 24670 pkts_in_l 0 maxq 148
+ecn_mark 2 step_mark 0
+credit -121120 (L-queue)
+memory_used 0 (max 335640) of memory limit 3028000
+
+===t=17.879===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 41046122 bytes 28644 pkt (dropped 0, overlimits 26882 requeues 0) 
+ backlog 8604b 5701p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 41046122 bytes 28644 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 8604b 6p requeues 0
+prob 0.000000 delay_c 159us delay_l 0us
+pkts_in_c 28650 pkts_in_l 0 maxq 148
+ecn_mark 2 step_mark 0
+credit -121120 (L-queue)
+memory_used 13464 (max 335640) of memory limit 3028000
+
+===t=18.390===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 46926956 bytes 32745 pkt (dropped 0, overlimits 30861 requeues 0) 
+ backlog 10038b 6479p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 46926956 bytes 32745 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 10038b 7p requeues 0
+prob 0.000000 delay_c 298us delay_l 0us
+pkts_in_c 32752 pkts_in_l 0 maxq 148
+ecn_mark 2 step_mark 0
+credit -121120 (L-queue)
+memory_used 15768 (max 335640) of memory limit 3028000
+
+===t=18.903===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 53018674 bytes 36994 pkt (dropped 0, overlimits 34973 requeues 0) 
+ backlog 47322b 7326p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 53018674 bytes 36994 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 47322b 33p requeues 0
+prob 0.008959 delay_c 3854us delay_l 0us
+pkts_in_c 37027 pkts_in_l 0 maxq 148
+ecn_mark 2 step_mark 0
+credit -121120 (L-queue)
+memory_used 74268 (max 335640) of memory limit 3028000
+
+===t=19.415===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 59289556 bytes 41367 pkt (dropped 0, overlimits 39292 requeues 0) 
+ backlog 11472b 8190p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 59289556 bytes 41367 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 11472b 8p requeues 0
+prob 0.000000 delay_c 456us delay_l 0us
+pkts_in_c 41375 pkts_in_l 0 maxq 148
+ecn_mark 2 step_mark 0
+credit -121120 (L-queue)
+memory_used 18012 (max 335640) of memory limit 3028000
+
+===t=19.927===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 65644302 bytes 45806 pkt (dropped 0, overlimits 43718 requeues 0) 
+ backlog 54492b 9082p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 65644302 bytes 45806 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 54492b 38p requeues 0
+prob 0.000000 delay_c 5103us delay_l 0us
+pkts_in_c 45634 pkts_in_l 210 maxq 148
+ecn_mark 4 step_mark 1
+credit -85520 (L-queue)
+memory_used 85620 (max 335640) of memory limit 3028000
+
+===t=20.439===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 72058944 bytes 50303 pkt (dropped 0, overlimits 48211 requeues 0) 
+ backlog 97512b 9957p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 72058944 bytes 50303 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 97512b 68p requeues 0
+prob 0.003107 delay_c 9835us delay_l 106us
+pkts_in_c 49527 pkts_in_l 844 maxq 148
+ecn_mark 4 step_mark 1
+credit -124940 (L-queue)
+memory_used 153108 (max 335640) of memory limit 3028000
+
+===t=20.953===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 78298332 bytes 54687 pkt (dropped 0, overlimits 52527 requeues 0) 
+ backlog 10038b 10688p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 78298332 bytes 54687 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 10038b 7p requeues 0
+prob 0.011463 delay_c 4440us delay_l 0us
+pkts_in_c 52896 pkts_in_l 1798 maxq 148
+ecn_mark 9 step_mark 1
+credit -3140 (L-queue)
+memory_used 15504 (max 335640) of memory limit 3028000
+
+===t=21.465===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 83933508 bytes 58649 pkt (dropped 0, overlimits 56356 requeues 0) 
+ backlog 0b 11428p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 83933508 bytes 58649 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 56002 pkts_in_l 2647 maxq 148
+ecn_mark 12 step_mark 1
+credit -85060 (L-queue)
+memory_used 0 (max 335640) of memory limit 3028000
+
+===t=21.977===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 89576090 bytes 62616 pkt (dropped 0, overlimits 60041 requeues 0) 
+ backlog 8604b 12163p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 89576090 bytes 62616 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 8604b 6p requeues 0
+prob 0.000000 delay_c 828us delay_l 0us
+pkts_in_c 58734 pkts_in_l 3888 maxq 148
+ecn_mark 14 step_mark 1
+credit 13180 (C-queue)
+memory_used 13584 (max 335640) of memory limit 3028000
+
+===t=22.491===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 95204208 bytes 66573 pkt (dropped 0, overlimits 63778 requeues 0) 
+ backlog 0b 12862p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 95204208 bytes 66573 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 61519 pkts_in_l 5054 maxq 148
+ecn_mark 23 step_mark 1
+credit -40680 (L-queue)
+memory_used 0 (max 335640) of memory limit 3028000
+
+===t=23.003===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 99868974 bytes 69858 pkt (dropped 0, overlimits 66631 requeues 0) 
+ backlog 0b 13577p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 99868974 bytes 69858 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 64537 pkts_in_l 5321 maxq 148
+ecn_mark 23 step_mark 1
+credit -93340 (L-queue)
+memory_used 0 (max 335640) of memory limit 3028000
+
+===t=23.516===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 104619780 bytes 73203 pkt (dropped 0, overlimits 69717 requeues 0) 
+ backlog 5736b 14289p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 104619780 bytes 73203 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 5736b 4p requeues 0
+prob 0.000000 delay_c 505us delay_l 0us
+pkts_in_c 67619 pkts_in_l 5588 maxq 148
+ecn_mark 23 step_mark 1
+credit -88620 (L-queue)
+memory_used 8976 (max 335640) of memory limit 3028000
+
+===t=24.028===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 110966468 bytes 77672 pkt (dropped 0, overlimits 74159 requeues 0) 
+ backlog 183552b 15219p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 110966468 bytes 77672 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 183552b 128p requeues 0
+prob 0.062149 delay_c 25520us delay_l 184us
+pkts_in_c 70481 pkts_in_l 7319 maxq 148
+ecn_mark 69 step_mark 9
+credit -117520 (L-queue)
+memory_used 287460 (max 335640) of memory limit 3028000
+
+===t=24.541===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 117361940 bytes 82166 pkt (dropped 0, overlimits 78635 requeues 0) 
+ backlog 107550b 16322p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 117361940 bytes 82166 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 107550b 75p requeues 0
+prob 0.004336 delay_c 8556us delay_l 0us
+pkts_in_c 74247 pkts_in_l 7994 maxq 148
+ecn_mark 115 step_mark 9
+credit -74380 (L-queue)
+memory_used 169176 (max 335640) of memory limit 3028000
+
+===t=25.054===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 123777526 bytes 86673 pkt (dropped 0, overlimits 83134 requeues 0) 
+ backlog 243780b 17578p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 123777526 bytes 86673 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 243780b 170p requeues 0
+prob 0.063561 delay_c 24409us delay_l 0us
+pkts_in_c 78581 pkts_in_l 8262 maxq 208
+ecn_mark 131 step_mark 9
+credit -47780 (L-queue)
+memory_used 383364 (max 470904) of memory limit 3028000
+
+===t=25.568===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 130198770 bytes 91183 pkt (dropped 0, overlimits 87638 requeues 0) 
+ backlog 273894b 18764p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 130198770 bytes 91183 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 273894b 191p requeues 0
+prob 0.050803 delay_c 28960us delay_l 10us
+pkts_in_c 82699 pkts_in_l 8675 maxq 208
+ecn_mark 144 step_mark 9
+credit -21180 (L-queue)
+memory_used 430212 (max 470904) of memory limit 3028000
+
+===t=26.081===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 136595980 bytes 95676 pkt (dropped 0, overlimits 92125 requeues 0) 
+ backlog 58794b 19661p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 136595980 bytes 95676 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 58794b 41p requeues 0
+prob 0.002867 delay_c 7787us delay_l 0us
+pkts_in_c 85324 pkts_in_l 10393 maxq 208
+ecn_mark 239 step_mark 9
+credit -16380 (L-queue)
+memory_used 92580 (max 470904) of memory limit 3028000
+
+===t=26.595===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 142231096 bytes 99638 pkt (dropped 0, overlimits 95834 requeues 0) 
+ backlog 0b 20760p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 142231096 bytes 99638 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 88702 pkts_in_l 10936 maxq 208
+ecn_mark 240 step_mark 9
+credit -65080 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=27.108===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 147935512 bytes 103648 pkt (dropped 0, overlimits 99563 requeues 0) 
+ backlog 5736b 21913p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 147935512 bytes 103648 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 5736b 4p requeues 0
+prob 0.000000 delay_c 463us delay_l 0us
+pkts_in_c 92449 pkts_in_l 11203 maxq 208
+ecn_mark 240 step_mark 9
+credit -15600 (L-queue)
+memory_used 9036 (max 470904) of memory limit 3028000
+
+===t=27.620===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 154018504 bytes 107922 pkt (dropped 0, overlimits 103730 requeues 0) 
+ backlog 103248b 23149p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 154018504 bytes 107922 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 103248b 72p requeues 0
+prob 0.054849 delay_c 16614us delay_l 70us
+pkts_in_c 96232 pkts_in_l 11762 maxq 208
+ecn_mark 258 step_mark 9
+credit -500 (L-queue)
+memory_used 161172 (max 470904) of memory limit 3028000
+
+===t=28.133===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 160424146 bytes 112421 pkt (dropped 0, overlimits 108222 requeues 0) 
+ backlog 45888b 24215p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 160424146 bytes 112421 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 45888b 32p requeues 0
+prob 0.001429 delay_c 5598us delay_l 0us
+pkts_in_c 98991 pkts_in_l 13462 maxq 208
+ecn_mark 317 step_mark 13
+credit -72560 (L-queue)
+memory_used 72516 (max 470904) of memory limit 3028000
+
+===t=28.646===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 165798274 bytes 116201 pkt (dropped 0, overlimits 111750 requeues 0) 
+ backlog 1434b 25317p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 165798274 bytes 116201 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 1434b 1p requeues 0
+prob 0.000000 delay_c 145us delay_l 0us
+pkts_in_c 102325 pkts_in_l 13877 maxq 208
+ecn_mark 318 step_mark 13
+credit 4360 (C-queue)
+memory_used 2244 (max 470904) of memory limit 3028000
+
+===t=29.160===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 171428208 bytes 120160 pkt (dropped 0, overlimits 115457 requeues 0) 
+ backlog 0b 26516p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 171428208 bytes 120160 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 106016 pkts_in_l 14144 maxq 208
+ecn_mark 318 step_mark 13
+credit 500 (C-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=29.672===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 177430896 bytes 124378 pkt (dropped 0, overlimits 119541 requeues 0) 
+ backlog 110418b 27736p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 177430896 bytes 124378 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 110418b 77p requeues 0
+prob 0.041948 delay_c 15145us delay_l 0us
+pkts_in_c 109601 pkts_in_l 14854 maxq 208
+ecn_mark 361 step_mark 13
+credit -23980 (L-queue)
+memory_used 174360 (max 470904) of memory limit 3028000
+
+===t=30.185===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 183849140 bytes 128888 pkt (dropped 0, overlimits 124045 requeues 0) 
+ backlog 64530b 28780p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 183849140 bytes 128888 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 64530b 45p requeues 0
+prob 0.002529 delay_c 8736us delay_l 0us
+pkts_in_c 112382 pkts_in_l 16551 maxq 208
+ecn_mark 405 step_mark 17
+credit -29020 (L-queue)
+memory_used 101664 (max 470904) of memory limit 3028000
+
+===t=30.699===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 189640874 bytes 132970 pkt (dropped 0, overlimits 127910 requeues 0) 
+ backlog 193590b 30117p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 189640874 bytes 132970 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 193590b 135p requeues 0
+prob 0.016343 delay_c 14449us delay_l 0us
+pkts_in_c 116287 pkts_in_l 16818 maxq 208
+ecn_mark 405 step_mark 17
+credit -98840 (L-queue)
+memory_used 304020 (max 470904) of memory limit 3028000
+
+===t=31.211===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 196016664 bytes 137449 pkt (dropped 0, overlimits 132378 requeues 0) 
+ backlog 41586b 31544p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 196016664 bytes 137449 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 41586b 29p requeues 0
+prob 0.000000 delay_c 3453us delay_l 0us
+pkts_in_c 120394 pkts_in_l 17084 maxq 208
+ecn_mark 422 step_mark 17
+credit -110100 (L-queue)
+memory_used 65400 (max 470904) of memory limit 3028000
+
+===t=31.722===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 202225258 bytes 141818 pkt (dropped 0, overlimits 136698 requeues 0) 
+ backlog 14Kb 32897p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 202225258 bytes 141818 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 14Kb 10p requeues 0
+prob 0.000000 delay_c 1736us delay_l 0us
+pkts_in_c 123906 pkts_in_l 17922 maxq 208
+ecn_mark 457 step_mark 17
+credit -11240 (L-queue)
+memory_used 22740 (max 470904) of memory limit 3028000
+
+===t=32.236===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 208207402 bytes 146022 pkt (dropped 0, overlimits 140793 requeues 0) 
+ backlog 0b 33999p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 208207402 bytes 146022 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 126530 pkts_in_l 19492 maxq 208
+ecn_mark 459 step_mark 17
+credit -12300 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=32.749===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 212764618 bytes 149232 pkt (dropped 0, overlimits 143635 requeues 0) 
+ backlog 2868b 35057p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 212764618 bytes 149232 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 2868b 2p requeues 0
+prob 0.000000 delay_c 91us delay_l 0us
+pkts_in_c 129475 pkts_in_l 19759 maxq 208
+ecn_mark 459 step_mark 17
+credit -49480 (L-queue)
+memory_used 4488 (max 470904) of memory limit 3028000
+
+===t=33.262===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 217729090 bytes 152726 pkt (dropped 0, overlimits 146750 requeues 0) 
+ backlog 7Kb 36192p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 217729090 bytes 152726 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 7Kb 5p requeues 0
+prob 0.000000 delay_c 125us delay_l 0us
+pkts_in_c 132705 pkts_in_l 20026 maxq 208
+ecn_mark 459 step_mark 17
+credit -36180 (L-queue)
+memory_used 11280 (max 470904) of memory limit 3028000
+
+===t=33.775===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 223566240 bytes 156835 pkt (dropped 0, overlimits 150682 requeues 0) 
+ backlog 51624b 37329p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 223566240 bytes 156835 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 51624b 36p requeues 0
+prob 0.009450 delay_c 7398us delay_l 0us
+pkts_in_c 135750 pkts_in_l 21121 maxq 208
+ecn_mark 511 step_mark 17
+credit -58380 (L-queue)
+memory_used 81612 (max 470904) of memory limit 3028000
+
+===t=34.288===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 229589003 bytes 161072 pkt (dropped 0, overlimits 154831 requeues 0) 
+ backlog 0b 38506p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 229589003 bytes 161072 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 138639 pkts_in_l 22433 maxq 208
+ecn_mark 566 step_mark 35
+credit -920 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=34.801===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 235718115 bytes 165386 pkt (dropped 0, overlimits 159038 requeues 0) 
+ backlog 93210b 40088p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 235719549 bytes 165387 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 91776b 64p requeues 0
+prob 0.000000 delay_c 7211us delay_l 0us
+pkts_in_c 142566 pkts_in_l 22885 maxq 208
+ecn_mark 580 step_mark 47
+credit -17920 (L-queue)
+memory_used 144348 (max 470904) of memory limit 3028000
+
+===t=35.315===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 242123483 bytes 169904 pkt (dropped 0, overlimits 163548 requeues 0) 
+ backlog 199326b 41611p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 242123483 bytes 169904 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 199326b 139p requeues 0
+prob 0.060356 delay_c 22079us delay_l 0us
+pkts_in_c 146105 pkts_in_l 23938 maxq 208
+ecn_mark 643 step_mark 47
+credit -107060 (L-queue)
+memory_used 313776 (max 470904) of memory limit 3028000
+
+===t=35.828===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 248477373 bytes 174405 pkt (dropped 0, overlimits 168004 requeues 0) 
+ backlog 5736b 42291p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 248477373 bytes 174405 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 5736b 4p requeues 0
+prob 0.021203 delay_c 923us delay_l 238us
+pkts_in_c 148283 pkts_in_l 26126 maxq 208
+ecn_mark 1036 step_mark 47
+credit -96500 (L-queue)
+memory_used 8904 (max 470904) of memory limit 3028000
+
+===t=36.340===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 254129767 bytes 178414 pkt (dropped 0, overlimits 171610 requeues 0) 
+ backlog 2868b 42996p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 254129767 bytes 178414 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 2868b 2p requeues 0
+prob 0.000000 delay_c 147us delay_l 0us
+pkts_in_c 149828 pkts_in_l 28588 maxq 208
+ecn_mark 1049 step_mark 47
+credit -31600 (L-queue)
+memory_used 4356 (max 470904) of memory limit 3028000
+
+===t=36.852===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 259565593 bytes 182273 pkt (dropped 0, overlimits 175014 requeues 0) 
+ backlog 2868b 43863p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 259565593 bytes 182273 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 2868b 2p requeues 0
+prob 0.002426 delay_c 449us delay_l 0us
+pkts_in_c 151734 pkts_in_l 30541 maxq 208
+ecn_mark 1055 step_mark 51
+credit -12500 (L-queue)
+memory_used 4548 (max 470904) of memory limit 3028000
+
+===t=37.366===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 265901921 bytes 186759 pkt (dropped 0, overlimits 179448 requeues 0) 
+ backlog 58794b 44885p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 265901921 bytes 186759 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 58794b 41p requeues 0
+prob 0.003720 delay_c 11968us delay_l 0us
+pkts_in_c 153823 pkts_in_l 32977 maxq 208
+ecn_mark 1067 step_mark 51
+credit -33200 (L-queue)
+memory_used 93072 (max 470904) of memory limit 3028000
+
+===t=37.879===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 272109893 bytes 191171 pkt (dropped 0, overlimits 183710 requeues 0) 
+ backlog 0b 45467p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 272109893 bytes 191171 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.012744 delay_c 0us delay_l 0us
+pkts_in_c 155211 pkts_in_l 35960 maxq 208
+ecn_mark 1557 step_mark 83
+credit -111120 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=38.392===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 278071653 bytes 195399 pkt (dropped 0, overlimits 187650 requeues 0) 
+ backlog 2868b 46205p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 278071653 bytes 195399 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 2868b 2p requeues 0
+prob 0.000000 delay_c 97us delay_l 67us
+pkts_in_c 156812 pkts_in_l 38589 maxq 208
+ecn_mark 1610 step_mark 121
+credit -14340 (L-queue)
+memory_used 4356 (max 470904) of memory limit 3028000
+
+===t=38.905===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 284120157 bytes 199689 pkt (dropped 0, overlimits 191748 requeues 0) 
+ backlog 51624b 47065p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 284120157 bytes 199689 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 51624b 36p requeues 0
+prob 0.016176 delay_c 8225us delay_l 0us
+pkts_in_c 158601 pkts_in_l 41124 maxq 208
+ecn_mark 1636 step_mark 121
+credit -48760 (L-queue)
+memory_used 80892 (max 470904) of memory limit 3028000
+
+===t=39.419===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 290500949 bytes 204213 pkt (dropped 0, overlimits 196265 requeues 0) 
+ backlog 0b 47841p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 290500949 bytes 204213 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.013861 delay_c 0us delay_l 0us
+pkts_in_c 160307 pkts_in_l 43906 maxq 208
+ecn_mark 1777 step_mark 189
+credit -75540 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=39.933===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 296189537 bytes 208253 pkt (dropped 0, overlimits 199880 requeues 0) 
+ backlog 1434b 48644p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 296189537 bytes 208253 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 1434b 1p requeues 0
+prob 0.000000 delay_c 0us delay_l 126us
+pkts_in_c 162079 pkts_in_l 46175 maxq 208
+ecn_mark 1875 step_mark 226
+credit -126120 (L-queue)
+memory_used 2112 (max 470904) of memory limit 3028000
+
+===t=40.445===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 301223439 bytes 211828 pkt (dropped 0, overlimits 202865 requeues 0) 
+ backlog 0b 49605p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 301223439 bytes 211828 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 164174 pkts_in_l 47654 maxq 208
+ecn_mark 1875 step_mark 226
+credit -900 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=40.958===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 306861773 bytes 215825 pkt (dropped 0, overlimits 206532 requeues 0) 
+ backlog 15774b 50754p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 306861773 bytes 215825 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 15774b 11p requeues 0
+prob 0.000000 delay_c 1929us delay_l 0us
+pkts_in_c 166614 pkts_in_l 49222 maxq 208
+ecn_mark 1877 step_mark 226
+credit -72320 (L-queue)
+memory_used 24984 (max 470904) of memory limit 3028000
+
+===t=41.472===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 312705213 bytes 219965 pkt (dropped 0, overlimits 210458 requeues 0) 
+ backlog 0b 52011p requeues 0
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 312705213 bytes 219965 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 169371 pkts_in_l 50594 maxq 208
+ecn_mark 1884 step_mark 230
+credit -11860 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=41.984===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 318992887 bytes 224414 pkt (dropped 0, overlimits 214848 requeues 1) 
+ backlog 54492b 53274p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 318992887 bytes 224414 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 54492b 38p requeues 0
+prob 0.000000 delay_c 8542us delay_l 0us
+pkts_in_c 171994 pkts_in_l 52458 maxq 208
+ecn_mark 1899 step_mark 230
+credit -84300 (L-queue)
+memory_used 85572 (max 470904) of memory limit 3028000
+
+===t=42.498===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 324737123 bytes 228484 pkt (dropped 0, overlimits 218706 requeues 1) 
+ backlog 10038b 54620p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 324737123 bytes 228484 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 10038b 7p requeues 0
+prob 0.000000 delay_c 1123us delay_l 0us
+pkts_in_c 174955 pkts_in_l 53536 maxq 208
+ecn_mark 1899 step_mark 230
+credit -18100 (L-queue)
+memory_used 15240 (max 470904) of memory limit 3028000
+
+===t=43.010===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 331058123 bytes 232956 pkt (dropped 0, overlimits 223138 requeues 1) 
+ backlog 17036b 55796p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 331058123 bytes 232956 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 17036b 12p requeues 0
+prob 0.004306 delay_c 1927us delay_l 25us
+pkts_in_c 177535 pkts_in_l 55433 maxq 208
+ecn_mark 2003 step_mark 239
+credit -3920 (L-queue)
+memory_used 26772 (max 470904) of memory limit 3028000
+
+===t=43.523===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 336438123 bytes 236772 pkt (dropped 0, overlimits 226645 requeues 1) 
+ backlog 7Kb 57080p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 336438123 bytes 236772 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 7Kb 5p requeues 0
+prob 0.000000 delay_c 563us delay_l 0us
+pkts_in_c 180301 pkts_in_l 56476 maxq 208
+ecn_mark 2005 step_mark 239
+credit -101820 (L-queue)
+memory_used 11340 (max 470904) of memory limit 3028000
+
+===t=44.035===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 342681515 bytes 241190 pkt (dropped 0, overlimits 231013 requeues 1) 
+ backlog 32982b 58181p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 342681515 bytes 241190 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 32982b 23p requeues 0
+prob 0.000000 delay_c 5213us delay_l 71us
+pkts_in_c 182581 pkts_in_l 58632 maxq 208
+ecn_mark 2138 step_mark 330
+credit -53800 (L-queue)
+memory_used 51948 (max 470904) of memory limit 3028000
+
+===t=44.548===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 347903713 bytes 244908 pkt (dropped 0, overlimits 234374 requeues 1) 
+ backlog 143400b 59611p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 347903713 bytes 244908 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 143400b 100p requeues 0
+prob 0.044352 delay_c 21718us delay_l 0us
+pkts_in_c 185510 pkts_in_l 59498 maxq 208
+ecn_mark 2152 step_mark 337
+credit -29760 (L-queue)
+memory_used 226104 (max 470904) of memory limit 3028000
+
+===t=45.060===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 354301195 bytes 249435 pkt (dropped 0, overlimits 238896 requeues 1) 
+ backlog 50018b 60613p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 354301195 bytes 249435 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 50018b 35p requeues 0
+prob 0.013076 delay_c 6215us delay_l 138us
+pkts_in_c 187853 pkts_in_l 61617 maxq 208
+ecn_mark 2366 step_mark 355
+credit -25680 (L-queue)
+memory_used 78588 (max 470904) of memory limit 3028000
+
+===t=45.572===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 360403969 bytes 253756 pkt (dropped 0, overlimits 243100 requeues 1) 
+ backlog 144834b 62000p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 360403969 bytes 253756 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 144834b 101p requeues 0
+prob 0.053456 delay_c 23376us delay_l 0us
+pkts_in_c 190674 pkts_in_l 63183 maxq 208
+ecn_mark 2390 step_mark 355
+credit -12400 (L-queue)
+memory_used 226920 (max 470904) of memory limit 3028000
+
+===t=46.085===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 366794677 bytes 258282 pkt (dropped 0, overlimits 247612 requeues 1) 
+ backlog 40152b 62725p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 366794677 bytes 258282 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 40152b 28p requeues 0
+prob 0.007136 delay_c 8414us delay_l 158us
+pkts_in_c 192483 pkts_in_l 65827 maxq 208
+ecn_mark 2586 step_mark 370
+credit -62300 (L-queue)
+memory_used 63480 (max 470904) of memory limit 3028000
+
+===t=46.597===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 372468143 bytes 262305 pkt (dropped 0, overlimits 251271 requeues 1) 
+ backlog 77436b 63834p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 372468143 bytes 262305 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 77436b 54p requeues 0
+prob 0.047068 delay_c 13564us delay_l 0us
+pkts_in_c 194853 pkts_in_l 67506 maxq 208
+ecn_mark 2609 step_mark 370
+credit -17260 (L-queue)
+memory_used 122796 (max 470904) of memory limit 3028000
+
+===t=47.111===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 378889789 bytes 266852 pkt (dropped 0, overlimits 255812 requeues 1) 
+ backlog 65964b 64689p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 378889789 bytes 266852 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 65964b 46p requeues 0
+prob 0.019957 delay_c 12357us delay_l 0us
+pkts_in_c 196790 pkts_in_l 70108 maxq 208
+ecn_mark 2740 step_mark 387
+credit -87020 (L-queue)
+memory_used 103632 (max 470904) of memory limit 3028000
+
+===t=47.625===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 385270629 bytes 271380 pkt (dropped 0, overlimits 260308 requeues 1) 
+ backlog 136230b 65709p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 385270629 bytes 271380 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 136230b 95p requeues 0
+prob 0.129188 delay_c 37513us delay_l 8us
+pkts_in_c 198874 pkts_in_l 72601 maxq 208
+ecn_mark 2911 step_mark 416
+credit -38000 (L-queue)
+memory_used 214572 (max 470904) of memory limit 3028000
+
+===t=48.138===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 391683359 bytes 275928 pkt (dropped 0, overlimits 264848 requeues 1) 
+ backlog 68832b 66485p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 391683359 bytes 275928 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 68832b 48p requeues 0
+prob 0.014448 delay_c 7599us delay_l 0us
+pkts_in_c 200704 pkts_in_l 75272 maxq 208
+ecn_mark 3169 step_mark 461
+credit 11160 (C-queue)
+memory_used 108828 (max 470904) of memory limit 3028000
+
+===t=48.651===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 397882723 bytes 280329 pkt (dropped 0, overlimits 269151 requeues 1) 
+ backlog 68832b 67578p requeues 1
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 397882723 bytes 280329 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 68832b 48p requeues 0
+prob 0.019968 delay_c 9384us delay_l 0us
+pkts_in_c 203146 pkts_in_l 77231 maxq 208
+ecn_mark 3298 step_mark 474
+credit -27480 (L-queue)
+memory_used 108828 (max 470904) of memory limit 3028000
+
+===t=49.164===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 404278049 bytes 284864 pkt (dropped 0, overlimits 273677 requeues 2) 
+ backlog 87474b 68530p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 404278049 bytes 284864 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 87474b 61p requeues 0
+prob 0.021723 delay_c 16312us delay_l 21us
+pkts_in_c 205199 pkts_in_l 79726 maxq 208
+ecn_mark 3347 step_mark 485
+credit -59300 (L-queue)
+memory_used 137580 (max 470904) of memory limit 3028000
+
+===t=49.676===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 410623007 bytes 289357 pkt (dropped 0, overlimits 278123 requeues 2) 
+ backlog 98946b 69504p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 410624441 bytes 289358 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 97512b 68p requeues 0
+prob 0.049386 delay_c 15888us delay_l 0us
+pkts_in_c 207311 pkts_in_l 82115 maxq 208
+ecn_mark 3518 step_mark 520
+credit -64240 (L-queue)
+memory_used 153660 (max 470904) of memory limit 3028000
+
+===t=50.192===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 416725169 bytes 293692 pkt (dropped 0, overlimits 282314 requeues 2) 
+ backlog 15774b 70474p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 416725169 bytes 293692 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 15774b 11p requeues 0
+prob 0.003757 delay_c 1189us delay_l 0us
+pkts_in_c 209587 pkts_in_l 84116 maxq 208
+ecn_mark 3591 step_mark 520
+credit -49500 (L-queue)
+memory_used 24852 (max 470904) of memory limit 3028000
+
+===t=50.704===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 423137395 bytes 298263 pkt (dropped 0, overlimits 286880 requeues 2) 
+ backlog 27246b 71438p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 423137395 bytes 298263 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 27246b 19p requeues 0
+prob 0.002916 delay_c 3793us delay_l 26us
+pkts_in_c 211722 pkts_in_l 86560 maxq 208
+ecn_mark 3669 step_mark 520
+credit -25320 (L-queue)
+memory_used 42396 (max 470904) of memory limit 3028000
+
+===t=51.217===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 429529679 bytes 302823 pkt (dropped 0, overlimits 291431 requeues 2) 
+ backlog 87474b 72389p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 429529679 bytes 302823 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 87474b 61p requeues 0
+prob 0.026984 delay_c 15604us delay_l 170us
+pkts_in_c 213673 pkts_in_l 89211 maxq 208
+ecn_mark 3741 step_mark 536
+credit 11920 (C-queue)
+memory_used 136932 (max 470904) of memory limit 3028000
+
+===t=51.729===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 435694647 bytes 307233 pkt (dropped 0, overlimits 295745 requeues 2) 
+ backlog 49Kb 73322p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 435694647 bytes 307233 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 49Kb 35p requeues 0
+prob 0.016179 delay_c 10097us delay_l 0us
+pkts_in_c 215782 pkts_in_l 91486 maxq 208
+ecn_mark 3813 step_mark 538
+credit -6980 (L-queue)
+memory_used 79104 (max 470904) of memory limit 3028000
+
+===t=52.241===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 441998319 bytes 311742 pkt (dropped 0, overlimits 300240 requeues 2) 
+ backlog 41586b 74115p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 441998319 bytes 311742 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 41586b 29p requeues 0
+prob 0.001604 delay_c 7626us delay_l 0us
+pkts_in_c 217541 pkts_in_l 94230 maxq 208
+ecn_mark 4024 step_mark 661
+credit -90460 (L-queue)
+memory_used 65592 (max 470904) of memory limit 3028000
+
+===t=52.754===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 448206909 bytes 316177 pkt (dropped 0, overlimits 304586 requeues 2) 
+ backlog 5736b 75054p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 448206909 bytes 316177 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 5736b 4p requeues 0
+prob 0.014418 delay_c 1097us delay_l 0us
+pkts_in_c 219589 pkts_in_l 96592 maxq 208
+ecn_mark 4104 step_mark 708
+credit -89940 (L-queue)
+memory_used 9096 (max 470904) of memory limit 3028000
+
+===t=53.267===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 454595271 bytes 320728 pkt (dropped 0, overlimits 309121 requeues 2) 
+ backlog 55582b 76261p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 454595271 bytes 320728 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 55582b 39p requeues 0
+prob 0.004266 delay_c 8253us delay_l 95us
+pkts_in_c 222066 pkts_in_l 98701 maxq 208
+ecn_mark 4117 step_mark 712
+credit -76120 (L-queue)
+memory_used 87624 (max 470904) of memory limit 3028000
+
+===t=53.779===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 460507541 bytes 324957 pkt (dropped 0, overlimits 313166 requeues 2) 
+ backlog 49Kb 77349p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 460507541 bytes 324957 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 49Kb 35p requeues 0
+prob 0.042288 delay_c 11931us delay_l 121us
+pkts_in_c 224441 pkts_in_l 100551 maxq 208
+ecn_mark 4285 step_mark 717
+credit -86540 (L-queue)
+memory_used 77616 (max 470904) of memory limit 3028000
+
+===t=54.291===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 466910153 bytes 329521 pkt (dropped 0, overlimits 317719 requeues 2) 
+ backlog 55926b 78186p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 466911587 bytes 329522 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 54492b 38p requeues 0
+prob 0.011060 delay_c 11109us delay_l 39us
+pkts_in_c 226296 pkts_in_l 103264 maxq 208
+ecn_mark 4342 step_mark 741
+credit -42060 (L-queue)
+memory_used 85248 (max 470904) of memory limit 3028000
+
+===t=54.804===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 473275335 bytes 334064 pkt (dropped 0, overlimits 322234 requeues 2) 
+ backlog 57188b 79105p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 473275335 bytes 334064 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 57188b 40p requeues 0
+prob 0.006735 delay_c 9663us delay_l 8us
+pkts_in_c 228263 pkts_in_l 105841 maxq 208
+ecn_mark 4489 step_mark 816
+credit 12420 (C-queue)
+memory_used 89472 (max 470904) of memory limit 3028000
+
+===t=55.318===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 479559265 bytes 338543 pkt (dropped 0, overlimits 326674 requeues 2) 
+ backlog 10038b 80093p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 479559265 bytes 338543 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 10038b 7p requeues 0
+prob 0.000372 delay_c 906us delay_l 0us
+pkts_in_c 230423 pkts_in_l 108127 maxq 208
+ecn_mark 4555 step_mark 828
+credit -2820 (L-queue)
+memory_used 15756 (max 470904) of memory limit 3028000
+
+===t=55.830===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 485808693 bytes 343011 pkt (dropped 0, overlimits 331082 requeues 2) 
+ backlog 27246b 81038p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 485808693 bytes 343011 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 27246b 19p requeues 0
+prob 0.058749 delay_c 5280us delay_l 195us
+pkts_in_c 232492 pkts_in_l 110538 maxq 208
+ecn_mark 5044 step_mark 915
+credit -33280 (L-queue)
+memory_used 42072 (max 470904) of memory limit 3028000
+
+===t=56.342===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 491920753 bytes 347379 pkt (dropped 0, overlimits 335288 requeues 2) 
+ backlog 15774b 81810p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 491920753 bytes 347379 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 15774b 11p requeues 0
+prob 0.000000 delay_c 3833us delay_l 0us
+pkts_in_c 234255 pkts_in_l 113135 maxq 208
+ecn_mark 5123 step_mark 929
+credit 3540 (C-queue)
+memory_used 24984 (max 470904) of memory limit 3028000
+
+===t=56.855===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 498098915 bytes 351796 pkt (dropped 0, overlimits 339582 requeues 2) 
+ backlog 0b 82339p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 498098915 bytes 351796 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.036968 delay_c 0us delay_l 0us
+pkts_in_c 235449 pkts_in_l 116347 maxq 208
+ecn_mark 6238 step_mark 1502
+credit -49420 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=57.368===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 503463487 bytes 355644 pkt (dropped 0, overlimits 342754 requeues 2) 
+ backlog 0b 82962p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 503463487 bytes 355644 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 1434b 1p requeues 0
+prob 0.000000 delay_c 0us delay_l 4us
+pkts_in_c 236803 pkts_in_l 118842 maxq 208
+ecn_mark 6251 step_mark 1502
+credit 6500 (C-queue)
+memory_used 2112 (max 470904) of memory limit 3028000
+
+===t=57.879===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 509451293 bytes 359931 pkt (dropped 0, overlimits 346739 requeues 2) 
+ backlog 21Kb 83744p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 509451293 bytes 359931 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 21Kb 15p requeues 0
+prob 0.000000 delay_c 3412us delay_l 165us
+pkts_in_c 238483 pkts_in_l 121463 maxq 208
+ecn_mark 6267 step_mark 1504
+credit -38340 (L-queue)
+memory_used 33756 (max 470904) of memory limit 3028000
+
+===t=58.392===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 515863077 bytes 364509 pkt (dropped 0, overlimits 351308 requeues 2) 
+ backlog 48756b 84456p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 515863077 bytes 364509 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 48756b 34p requeues 0
+prob 0.016008 delay_c 13289us delay_l 0us
+pkts_in_c 240047 pkts_in_l 124496 maxq 208
+ecn_mark 6388 step_mark 1518
+credit -5960 (L-queue)
+memory_used 76992 (max 470904) of memory limit 3028000
+
+===t=58.906===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 522236963 bytes 369072 pkt (dropped 0, overlimits 355843 requeues 2) 
+ backlog 1262b 84961p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 522236963 bytes 369072 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 1262b 1p requeues 0
+prob 0.000173 delay_c 0us delay_l 28us
+pkts_in_c 241234 pkts_in_l 127839 maxq 208
+ecn_mark 7409 step_mark 2094
+credit -10720 (L-queue)
+memory_used 1920 (max 470904) of memory limit 3028000
+
+===t=59.418===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 528437935 bytes 373506 pkt (dropped 0, overlimits 360134 requeues 2) 
+ backlog 14Kb 85710p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 528437935 bytes 373506 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 14Kb 10p requeues 0
+prob 0.001952 delay_c 1372us delay_l 0us
+pkts_in_c 242844 pkts_in_l 130672 maxq 208
+ecn_mark 7424 step_mark 2094
+credit -97700 (L-queue)
+memory_used 22416 (max 470904) of memory limit 3028000
+
+===t=59.930===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 534506269 bytes 377861 pkt (dropped 0, overlimits 364267 requeues 2) 
+ backlog 0b 86254p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 534506269 bytes 377861 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 244142 pkts_in_l 133719 maxq 208
+ecn_mark 7731 step_mark 2094
+credit -108440 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=60.441===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 540710961 bytes 382323 pkt (dropped 0, overlimits 368620 requeues 2) 
+ backlog 41242b 86903p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 540710961 bytes 382323 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 41242b 29p requeues 0
+prob 0.024753 delay_c 11723us delay_l 147us
+pkts_in_c 245501 pkts_in_l 136851 maxq 208
+ecn_mark 7852 step_mark 2168
+credit -79660 (L-queue)
+memory_used 64428 (max 470904) of memory limit 3028000
+
+===t=60.953===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 547080165 bytes 386909 pkt (dropped 0, overlimits 373180 requeues 2) 
+ backlog 34136b 87441p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 547080165 bytes 386909 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 34136b 24p requeues 0
+prob 0.012261 delay_c 11108us delay_l 18us
+pkts_in_c 246730 pkts_in_l 140203 maxq 208
+ecn_mark 8104 step_mark 2256
+credit -36940 (L-queue)
+memory_used 53804 (max 470904) of memory limit 3028000
+
+===t=61.466===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 552638869 bytes 390919 pkt (dropped 0, overlimits 376694 requeues 2) 
+ backlog 2868b 88200p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 552638869 bytes 390919 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 2868b 2p requeues 0
+prob 0.000000 delay_c 195us delay_l 8us
+pkts_in_c 248435 pkts_in_l 142486 maxq 208
+ecn_mark 8110 step_mark 2256
+credit -100760 (L-queue)
+memory_used 4356 (max 470904) of memory limit 3028000
+
+===t=61.979===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 558503973 bytes 395161 pkt (dropped 0, overlimits 380582 requeues 2) 
+ backlog 1434b 88778p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 558503973 bytes 395161 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 1434b 1p requeues 0
+prob 0.000000 delay_c 264us delay_l 0us
+pkts_in_c 249759 pkts_in_l 145403 maxq 208
+ecn_mark 8287 step_mark 2256
+credit -107760 (L-queue)
+memory_used 2244 (max 470904) of memory limit 3028000
+
+===t=62.493===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 564786037 bytes 399675 pkt (dropped 0, overlimits 385033 requeues 2) 
+ backlog 41586b 89473p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 564786037 bytes 399675 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 41586b 29p requeues 0
+prob 0.009643 delay_c 8671us delay_l 19us
+pkts_in_c 251233 pkts_in_l 148471 maxq 208
+ecn_mark 8330 step_mark 2265
+credit -93920 (L-queue)
+memory_used 65460 (max 470904) of memory limit 3028000
+
+===t=63.005===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 570674789 bytes 403911 pkt (dropped 0, overlimits 388958 requeues 2) 
+ backlog 0b 90283p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 570674789 bytes 403911 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 253043 pkts_in_l 150868 maxq 208
+ecn_mark 8487 step_mark 2380
+credit -74060 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=63.518===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 576509467 bytes 408108 pkt (dropped 0, overlimits 392932 requeues 2) 
+ backlog 4302b 91353p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 576509467 bytes 408108 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 4302b 3p requeues 0
+prob 0.000000 delay_c 87us delay_l 0us
+pkts_in_c 255335 pkts_in_l 152776 maxq 208
+ecn_mark 8501 step_mark 2384
+credit -98780 (L-queue)
+memory_used 6792 (max 470904) of memory limit 3028000
+
+===t=64.030===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 582907887 bytes 412712 pkt (dropped 0, overlimits 397528 requeues 2) 
+ backlog 44282b 92136p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 582907887 bytes 412712 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 44282b 31p requeues 0
+prob 0.003146 delay_c 8285us delay_l 241us
+pkts_in_c 257023 pkts_in_l 155720 maxq 208
+ecn_mark 8732 step_mark 2384
+credit -71840 (L-queue)
+memory_used 69624 (max 470904) of memory limit 3028000
+
+===t=64.542===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 589321195 bytes 417314 pkt (dropped 0, overlimits 402123 requeues 2) 
+ backlog 134796b 92960p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 589321195 bytes 417314 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 134796b 94p requeues 0
+prob 0.040704 delay_c 31131us delay_l 113us
+pkts_in_c 258701 pkts_in_l 158707 maxq 208
+ecn_mark 8854 step_mark 2455
+credit 4460 (C-queue)
+memory_used 212268 (max 470904) of memory limit 3028000
+
+===t=65.055===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 595731221 bytes 421915 pkt (dropped 0, overlimits 406715 requeues 2) 
+ backlog 65792b 93761p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 595731221 bytes 421915 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 65792b 46p requeues 0
+prob 0.012752 delay_c 12768us delay_l 306us
+pkts_in_c 260574 pkts_in_l 161387 maxq 208
+ecn_mark 8943 step_mark 2466
+credit 4920 (C-queue)
+memory_used 103248 (max 470904) of memory limit 3028000
+
+===t=65.568===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 601869775 bytes 426328 pkt (dropped 0, overlimits 411007 requeues 2) 
+ backlog 171736b 94875p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 601869775 bytes 426328 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 171736b 120p requeues 0
+prob 0.067299 delay_c 28824us delay_l 116us
+pkts_in_c 262875 pkts_in_l 163573 maxq 208
+ecn_mark 9053 step_mark 2519
+credit -30740 (L-queue)
+memory_used 269736 (max 470904) of memory limit 3028000
+
+===t=66.080===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 608251481 bytes 430923 pkt (dropped 0, overlimits 415567 requeues 2) 
+ backlog 24378b 95329p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 608251481 bytes 430923 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 24378b 17p requeues 0
+prob 0.005811 delay_c 3898us delay_l 0us
+pkts_in_c 264228 pkts_in_l 166712 maxq 208
+ecn_mark 9509 step_mark 2571
+credit -11820 (L-queue)
+memory_used 38304 (max 470904) of memory limit 3028000
+
+===t=66.593===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 614649685 bytes 435527 pkt (dropped 0, overlimits 420164 requeues 2) 
+ backlog 181870b 96012p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 614649685 bytes 435527 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 181870b 129p requeues 0
+prob 0.131107 delay_c 53385us delay_l 6304us
+pkts_in_c 265515 pkts_in_l 170141 maxq 208
+ecn_mark 10185 step_mark 3109
+credit -520 (L-queue)
+memory_used 281296 (max 470904) of memory limit 3028000
+
+===t=67.105===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 619990013 bytes 439395 pkt (dropped 0, overlimits 423507 requeues 2) 
+ backlog 2868b 96261p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 619990013 bytes 439395 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 2868b 2p requeues 0
+prob 0.020957 delay_c 1018us delay_l 0us
+pkts_in_c 266421 pkts_in_l 172976 maxq 208
+ecn_mark 11544 step_mark 3785
+credit -48240 (L-queue)
+memory_used 4548 (max 470904) of memory limit 3028000
+
+===t=67.616===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 625362183 bytes 443274 pkt (dropped 0, overlimits 426856 requeues 2) 
+ backlog 30114b 96896p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 625362183 bytes 443274 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 30114b 21p requeues 0
+prob 0.000000 delay_c 7964us delay_l 127us
+pkts_in_c 267762 pkts_in_l 175533 maxq 208
+ecn_mark 11567 step_mark 3785
+credit -122660 (L-queue)
+memory_used 47268 (max 470904) of memory limit 3028000
+
+===t=68.128===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 631550933 bytes 447735 pkt (dropped 0, overlimits 431166 requeues 2) 
+ backlog 24378b 97568p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 631550933 bytes 447735 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 24378b 17p requeues 0
+prob 0.003798 delay_c 3496us delay_l 0us
+pkts_in_c 269260 pkts_in_l 178492 maxq 208
+ecn_mark 11611 step_mark 3785
+credit -38540 (L-queue)
+memory_used 38172 (max 470904) of memory limit 3028000
+
+===t=68.641===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 637954631 bytes 452344 pkt (dropped 0, overlimits 435768 requeues 2) 
+ backlog 137664b 98226p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 637954631 bytes 452344 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 137664b 96p requeues 0
+prob 0.281582 delay_c 88489us delay_l 335us
+pkts_in_c 270504 pkts_in_l 181936 maxq 208
+ecn_mark 12148 step_mark 3957
+credit -115700 (L-queue)
+memory_used 217332 (max 470904) of memory limit 3028000
+
+===t=69.154===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 643883613 bytes 456631 pkt (dropped 0, overlimits 439703 requeues 2) 
+ backlog 2696b 98521p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 643883613 bytes 456631 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 2696b 2p requeues 0
+prob 0.004938 delay_c 0us delay_l 477us
+pkts_in_c 271429 pkts_in_l 185204 maxq 208
+ecn_mark 12630 step_mark 4003
+credit -16480 (L-queue)
+memory_used 4032 (max 470904) of memory limit 3028000
+
+===t=69.666===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 649861145 bytes 460947 pkt (dropped 0, overlimits 443688 requeues 2) 
+ backlog 58622b 99036p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 649861145 bytes 460947 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 58622b 41p requeues 0
+prob 0.087309 delay_c 18941us delay_l 268us
+pkts_in_c 272487 pkts_in_l 188501 maxq 208
+ecn_mark 12764 step_mark 4007
+credit -112720 (L-queue)
+memory_used 92040 (max 470904) of memory limit 3028000
+
+===t=70.179===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 656004623 bytes 465378 pkt (dropped 0, overlimits 447960 requeues 2) 
+ backlog 0b 99365p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 656004623 bytes 465378 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 273311 pkts_in_l 192067 maxq 208
+ecn_mark 12993 step_mark 4096
+credit -74600 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=70.692===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 661936947 bytes 469656 pkt (dropped 0, overlimits 451908 requeues 2) 
+ backlog 1434b 99679p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 661936947 bytes 469656 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 1434b 1p requeues 0
+prob 0.000000 delay_c 0us delay_l 150us
+pkts_in_c 273991 pkts_in_l 195666 maxq 208
+ecn_mark 13664 step_mark 4662
+credit 12040 (C-queue)
+memory_used 2112 (max 470904) of memory limit 3028000
+
+===t=71.203===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 666229253 bytes 472789 pkt (dropped 0, overlimits 454124 requeues 2) 
+ backlog 0b 99885p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 666229253 bytes 472789 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 274427 pkts_in_l 198362 maxq 208
+ecn_mark 13664 step_mark 4662
+credit -41540 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=71.714===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 670285521 bytes 475759 pkt (dropped 0, overlimits 456147 requeues 2) 
+ backlog 0b 100023p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 670285521 bytes 475759 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.001013 delay_c 0us delay_l 0us
+pkts_in_c 274741 pkts_in_l 201018 maxq 208
+ecn_mark 13784 step_mark 4781
+credit 11820 (C-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=72.226===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 674755529 bytes 479011 pkt (dropped 0, overlimits 458222 requeues 2) 
+ backlog 1434b 100161p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 674755529 bytes 479011 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 1434b 1p requeues 0
+prob 0.000000 delay_c 0us delay_l 42us
+pkts_in_c 274960 pkts_in_l 204052 maxq 208
+ecn_mark 13784 step_mark 4781
+credit -124100 (L-queue)
+memory_used 2112 (max 470904) of memory limit 3028000
+
+===t=72.738===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 678636977 bytes 481851 pkt (dropped 0, overlimits 460014 requeues 2) 
+ backlog 0b 100330p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 678636977 bytes 481851 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 275127 pkts_in_l 206724 maxq 208
+ecn_mark 13837 step_mark 4834
+credit -39180 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=73.250===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 681970309 bytes 484303 pkt (dropped 0, overlimits 461402 requeues 2) 
+ backlog 0b 100563p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 681970309 bytes 484303 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 275288 pkts_in_l 209015 maxq 208
+ecn_mark 13837 step_mark 4834
+credit -34000 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=73.762===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 685656693 bytes 487028 pkt (dropped 0, overlimits 463367 requeues 2) 
+ backlog 5736b 100858p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 685656693 bytes 487028 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 5736b 4p requeues 0
+prob 0.005655 delay_c 226us delay_l 15us
+pkts_in_c 275528 pkts_in_l 211504 maxq 208
+ecn_mark 13960 step_mark 4948
+credit -98570 (L-queue)
+memory_used 9084 (max 470904) of memory limit 3028000
+
+===t=74.276===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 691064027 bytes 490939 pkt (dropped 0, overlimits 466755 requeues 2) 
+ backlog 1434b 101376p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 691064027 bytes 490939 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 1434b 1p requeues 0
+prob 0.000000 delay_c 3096us delay_l 0us
+pkts_in_c 275945 pkts_in_l 214995 maxq 208
+ecn_mark 14248 step_mark 5232
+credit -1370 (L-queue)
+memory_used 2244 (max 470904) of memory limit 3028000
+
+===t=74.787===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 694170639 bytes 493237 pkt (dropped 0, overlimits 468199 requeues 2) 
+ backlog 4302b 101725p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 694170639 bytes 493237 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 4302b 3p requeues 0
+prob 0.000000 delay_c 0us delay_l 279us
+pkts_in_c 276298 pkts_in_l 216942 maxq 208
+ecn_mark 14271 step_mark 5255
+credit -73590 (L-queue)
+memory_used 6456 (max 470904) of memory limit 3028000
+
+===t=75.298===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 698297329 bytes 496244 pkt (dropped 0, overlimits 470429 requeues 2) 
+ backlog 1434b 102183p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 698297329 bytes 496244 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 1434b 1p requeues 0
+prob 0.000000 delay_c 70us delay_l 0us
+pkts_in_c 276657 pkts_in_l 219588 maxq 208
+ecn_mark 14306 step_mark 5290
+credit -70110 (L-queue)
+memory_used 2244 (max 470904) of memory limit 3028000
+
+===t=75.810===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 702907927 bytes 499613 pkt (dropped 0, overlimits 473239 requeues 2) 
+ backlog 5736b 102490p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 702907927 bytes 499613 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 5736b 4p requeues 0
+prob 0.000000 delay_c 3216us delay_l 694us
+pkts_in_c 277081 pkts_in_l 222536 maxq 208
+ecn_mark 14650 step_mark 5623
+credit -34790 (L-queue)
+memory_used 8700 (max 470904) of memory limit 3028000
+
+===t=76.321===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 708833811 bytes 503895 pkt (dropped 0, overlimits 477247 requeues 2) 
+ backlog 0b 102808p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 708833811 bytes 503895 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.001995 delay_c 0us delay_l 0us
+pkts_in_c 277516 pkts_in_l 226379 maxq 208
+ecn_mark 15036 step_mark 5999
+credit 8310 (C-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=76.834===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 713531943 bytes 507307 pkt (dropped 0, overlimits 479938 requeues 2) 
+ backlog 3958b 103214p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 713531943 bytes 507307 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 3958b 3p requeues 0
+prob 0.000000 delay_c 0us delay_l 271us
+pkts_in_c 277910 pkts_in_l 229400 maxq 208
+ecn_mark 15133 step_mark 6096
+credit -85630 (L-queue)
+memory_used 5952 (max 470904) of memory limit 3028000
+
+===t=77.345===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 718108913 bytes 510632 pkt (dropped 0, overlimits 482494 requeues 2) 
+ backlog 0b 103638p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 718108913 bytes 510632 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 278392 pkts_in_l 232240 maxq 208
+ecn_mark 15263 step_mark 6225
+credit 4530 (C-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=77.856===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 723380705 bytes 514462 pkt (dropped 0, overlimits 485827 requeues 2) 
+ backlog 4130b 103956p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 723380705 bytes 514462 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 4130b 3p requeues 0
+prob 0.000000 delay_c 0us delay_l 161us
+pkts_in_c 278829 pkts_in_l 235636 maxq 208
+ecn_mark 15704 step_mark 6653
+credit -85890 (L-queue)
+memory_used 6144 (max 470904) of memory limit 3028000
+
+===t=78.368===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 729512949 bytes 518880 pkt (dropped 0, overlimits 490028 requeues 2) 
+ backlog 0b 104309p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 729512949 bytes 518880 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 279292 pkts_in_l 239588 maxq 208
+ecn_mark 15994 step_mark 6941
+credit -118130 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=78.879===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 735276055 bytes 523045 pkt (dropped 0, overlimits 493793 requeues 2) 
+ backlog 8260b 104763p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 735276055 bytes 523045 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 8260b 6p requeues 0
+prob 0.000000 delay_c 0us delay_l 332us
+pkts_in_c 279780 pkts_in_l 243271 maxq 208
+ecn_mark 16143 step_mark 7081
+credit -48350 (L-queue)
+memory_used 12528 (max 470904) of memory limit 3028000
+
+===t=79.390===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 740033451 bytes 526501 pkt (dropped 0, overlimits 496550 requeues 2) 
+ backlog 1434b 105156p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 740034885 bytes 526502 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 1p requeues 0
+prob 0.000000 delay_c 0us delay_l 32us
+pkts_in_c 280233 pkts_in_l 246269 maxq 208
+ecn_mark 16244 step_mark 7178
+credit -67690 (L-queue)
+memory_used 2232 (max 470904) of memory limit 3028000
+
+===t=79.903===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 743936333 bytes 529338 pkt (dropped 0, overlimits 498397 requeues 2) 
+ backlog 0b 105475p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 743936333 bytes 529338 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 280708 pkts_in_l 248630 maxq 208
+ecn_mark 16255 step_mark 7189
+credit -93250 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=80.415===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 747283625 bytes 531779 pkt (dropped 0, overlimits 499740 requeues 2) 
+ backlog 0b 105771p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 747283625 bytes 531779 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 281208 pkts_in_l 250571 maxq 208
+ecn_mark 16255 step_mark 7189
+credit -106390 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=80.926===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 751861451 bytes 535070 pkt (dropped 0, overlimits 502548 requeues 2) 
+ backlog 8604b 106459p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 751861451 bytes 535070 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 8604b 6p requeues 0
+prob 0.000000 delay_c 315us delay_l 0us
+pkts_in_c 282444 pkts_in_l 252632 maxq 208
+ecn_mark 16271 step_mark 7196
+credit -60790 (L-queue)
+memory_used 13452 (max 470904) of memory limit 3028000
+
+===t=81.438===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 754852543 bytes 537252 pkt (dropped 0, overlimits 503977 requeues 2) 
+ backlog 0b 106846p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 754852543 bytes 537252 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 283179 pkts_in_l 254073 maxq 208
+ecn_mark 16271 step_mark 7196
+credit -50470 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=81.949===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 758408181 bytes 539827 pkt (dropped 0, overlimits 505504 requeues 2) 
+ backlog 0b 107168p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 758408181 bytes 539827 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 283756 pkts_in_l 256071 maxq 208
+ecn_mark 16271 step_mark 7196
+credit -124410 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=82.460===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 761100829 bytes 541801 pkt (dropped 0, overlimits 506607 requeues 2) 
+ backlog 0b 107444p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 761100829 bytes 541801 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 284236 pkts_in_l 257565 maxq 208
+ecn_mark 16276 step_mark 7201
+credit -22270 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=82.971===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 765217907 bytes 544768 pkt (dropped 0, overlimits 508848 requeues 2) 
+ backlog 2696b 107975p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 765217907 bytes 544768 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 2696b 2p requeues 0
+prob 0.000000 delay_c 0us delay_l 220us
+pkts_in_c 284791 pkts_in_l 259979 maxq 208
+ecn_mark 16331 step_mark 7256
+credit -72050 (L-queue)
+memory_used 4032 (max 470904) of memory limit 3028000
+
+===t=83.482===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 767453625 bytes 546423 pkt (dropped 0, overlimits 509788 requeues 2) 
+ backlog 0b 108290p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 767453625 bytes 546423 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 285374 pkts_in_l 261049 maxq 208
+ecn_mark 16332 step_mark 7257
+credit -34710 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=83.993===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 771624679 bytes 549428 pkt (dropped 0, overlimits 511867 requeues 2) 
+ backlog 0b 108722p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 771624679 bytes 549428 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 285954 pkts_in_l 263474 maxq 208
+ecn_mark 16332 step_mark 7257
+credit -8790 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=84.507===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 773896075 bytes 551108 pkt (dropped 0, overlimits 512809 requeues 2) 
+ backlog 0b 109015p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 773896075 bytes 551108 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 286564 pkts_in_l 264544 maxq 208
+ecn_mark 16335 step_mark 7260
+credit -49450 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=85.018===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 778236741 bytes 554229 pkt (dropped 0, overlimits 515329 requeues 2) 
+ backlog 2868b 109680p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 778236741 bytes 554229 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 2868b 2p requeues 0
+prob 0.000000 delay_c 367us delay_l 0us
+pkts_in_c 287240 pkts_in_l 266991 maxq 208
+ecn_mark 16429 step_mark 7353
+credit -106650 (L-queue)
+memory_used 4548 (max 470904) of memory limit 3028000
+
+===t=85.530===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 780473377 bytes 555885 pkt (dropped 0, overlimits 516293 requeues 2) 
+ backlog 4302b 109997p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 780473377 bytes 555885 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 4302b 3p requeues 0
+prob 0.000000 delay_c 60us delay_l 99us
+pkts_in_c 287846 pkts_in_l 268042 maxq 208
+ecn_mark 16460 step_mark 7384
+credit 6410 (C-queue)
+memory_used 6780 (max 470904) of memory limit 3028000
+
+===t=86.041===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 784859923 bytes 559040 pkt (dropped 0, overlimits 518705 requeues 2) 
+ backlog 0b 110512p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 784859923 bytes 559040 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 288339 pkts_in_l 270701 maxq 208
+ecn_mark 16468 step_mark 7392
+credit 1930 (C-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=86.553===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 786762705 bytes 560465 pkt (dropped 0, overlimits 519479 requeues 2) 
+ backlog 0b 110771p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 786762705 bytes 560465 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 288878 pkts_in_l 271587 maxq 208
+ecn_mark 16469 step_mark 7393
+credit -2030 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=87.065===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 790416601 bytes 563109 pkt (dropped 0, overlimits 521558 requeues 2) 
+ backlog 0b 111363p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 790416601 bytes 563109 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 289343 pkts_in_l 273766 maxq 208
+ecn_mark 16530 step_mark 7454
+credit -83410 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=87.576===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 792969175 bytes 564984 pkt (dropped 0, overlimits 522780 requeues 2) 
+ backlog 0b 111703p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 792969175 bytes 564984 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 289746 pkts_in_l 275238 maxq 208
+ecn_mark 16537 step_mark 7461
+credit -30590 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=88.089===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 796916459 bytes 567834 pkt (dropped 0, overlimits 524905 requeues 2) 
+ backlog 0b 112179p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 796916459 bytes 567834 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 290135 pkts_in_l 277699 maxq 208
+ecn_mark 16586 step_mark 7510
+credit -45430 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=88.600===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 798878177 bytes 569297 pkt (dropped 0, overlimits 525729 requeues 2) 
+ backlog 0b 112435p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 798878177 bytes 569297 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 290633 pkts_in_l 278664 maxq 208
+ecn_mark 16600 step_mark 7524
+credit -7530 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=89.112===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 802722853 bytes 572075 pkt (dropped 0, overlimits 527920 requeues 2) 
+ backlog 0b 113034p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 802722853 bytes 572075 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 291116 pkts_in_l 280959 maxq 208
+ecn_mark 16653 step_mark 7577
+credit -59650 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=89.624===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 805398293 bytes 574037 pkt (dropped 0, overlimits 529201 requeues 2) 
+ backlog 0b 113392p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 805398293 bytes 574037 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 291587 pkts_in_l 282450 maxq 208
+ecn_mark 16658 step_mark 7582
+credit -44110 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=90.136===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 809036291 bytes 576670 pkt (dropped 0, overlimits 531199 requeues 2) 
+ backlog 0b 113800p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 809036291 bytes 576670 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 291981 pkts_in_l 284689 maxq 208
+ecn_mark 16692 step_mark 7616
+credit -107670 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=90.648===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 811164239 bytes 578250 pkt (dropped 0, overlimits 532070 requeues 2) 
+ backlog 0b 114079p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 811164239 bytes 578250 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 292390 pkts_in_l 285860 maxq 208
+ecn_mark 16699 step_mark 7623
+credit -127130 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=91.160===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 814882927 bytes 580940 pkt (dropped 0, overlimits 534157 requeues 2) 
+ backlog 0b 114679p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 814882927 bytes 580940 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 292880 pkts_in_l 288060 maxq 208
+ecn_mark 16816 step_mark 7739
+credit -126450 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=91.672===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 817990519 bytes 583206 pkt (dropped 0, overlimits 535758 requeues 2) 
+ backlog 0b 115079p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 817990519 bytes 583206 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 293479 pkts_in_l 289727 maxq 208
+ecn_mark 16825 step_mark 7747
+credit -93090 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=92.185===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 821424261 bytes 585697 pkt (dropped 0, overlimits 537621 requeues 2) 
+ backlog 0b 115467p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 821424261 bytes 585697 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 293996 pkts_in_l 291701 maxq 208
+ecn_mark 16848 step_mark 7768
+credit -75830 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=92.697===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 823871663 bytes 587504 pkt (dropped 0, overlimits 538678 requeues 2) 
+ backlog 0b 115778p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 823871663 bytes 587504 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 294429 pkts_in_l 293075 maxq 208
+ecn_mark 16850 step_mark 7770
+credit -116510 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=93.209===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 827391730 bytes 590059 pkt (dropped 0, overlimits 540523 requeues 2) 
+ backlog 0b 116257p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 827391730 bytes 590059 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 294872 pkts_in_l 295187 maxq 208
+ecn_mark 16900 step_mark 7819
+credit -100750 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=93.722===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 830493574 bytes 592319 pkt (dropped 0, overlimits 542145 requeues 2) 
+ backlog 2868b 116579p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 830493574 bytes 592319 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 2868b 2p requeues 0
+prob 0.000000 delay_c 870us delay_l 30us
+pkts_in_c 295315 pkts_in_l 297006 maxq 208
+ecn_mark 16961 step_mark 7880
+credit -57830 (L-queue)
+memory_used 4356 (max 470904) of memory limit 3028000
+
+===t=94.235===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 833542832 bytes 594542 pkt (dropped 0, overlimits 543682 requeues 2) 
+ backlog 0b 116914p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 833542832 bytes 594542 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 295870 pkts_in_l 298672 maxq 208
+ecn_mark 16989 step_mark 7908
+credit -19310 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=94.746===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 835191424 bytes 595776 pkt (dropped 0, overlimits 544251 requeues 2) 
+ backlog 0b 117148p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 835191424 bytes 595776 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 296436 pkts_in_l 299340 maxq 208
+ecn_mark 16989 step_mark 7908
+credit 790 (C-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=95.257===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 836659940 bytes 596864 pkt (dropped 0, overlimits 544753 requeues 2) 
+ backlog 0b 117384p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 836659940 bytes 596864 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 296985 pkts_in_l 299879 maxq 208
+ecn_mark 16989 step_mark 7908
+credit -26150 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=95.769===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 839676124 bytes 599032 pkt (dropped 0, overlimits 546387 requeues 2) 
+ backlog 17208b 117945p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 839676124 bytes 599032 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 17208b 12p requeues 0
+prob 0.000000 delay_c 0us delay_l 535us
+pkts_in_c 297558 pkts_in_l 301486 maxq 208
+ecn_mark 17248 step_mark 8166
+credit -118430 (L-queue)
+memory_used 26808 (max 470904) of memory limit 3028000
+
+===t=96.281===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 842214110 bytes 600865 pkt (dropped 0, overlimits 547662 requeues 2) 
+ backlog 0b 118336p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 842214110 bytes 600865 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 298037 pkts_in_l 302828 maxq 208
+ecn_mark 17297 step_mark 8215
+credit -113230 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=96.793===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 843397504 bytes 601763 pkt (dropped 0, overlimits 547975 requeues 2) 
+ backlog 0b 118477p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 843397504 bytes 601763 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 298386 pkts_in_l 303377 maxq 208
+ecn_mark 17297 step_mark 8215
+credit -90850 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=97.305===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 844567576 bytes 602643 pkt (dropped 0, overlimits 548303 requeues 2) 
+ backlog 0b 118617p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 844567576 bytes 602643 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 298729 pkts_in_l 303914 maxq 208
+ecn_mark 17297 step_mark 8215
+credit -17990 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=97.816===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 846959014 bytes 604374 pkt (dropped 0, overlimits 549462 requeues 2) 
+ backlog 0b 119009p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 846959014 bytes 604374 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 299054 pkts_in_l 305320 maxq 208
+ecn_mark 17322 step_mark 8240
+credit -85070 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=98.328===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 849531242 bytes 606232 pkt (dropped 0, overlimits 550713 requeues 2) 
+ backlog 0b 119435p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 849531242 bytes 606232 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 299374 pkts_in_l 306858 maxq 208
+ecn_mark 17342 step_mark 8260
+credit -27690 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=98.840===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 850786264 bytes 607171 pkt (dropped 0, overlimits 551098 requeues 2) 
+ backlog 0b 119605p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 850786264 bytes 607171 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 299781 pkts_in_l 307390 maxq 208
+ecn_mark 17342 step_mark 8260
+credit -99370 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=99.352===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 852172296 bytes 608201 pkt (dropped 0, overlimits 551583 requeues 2) 
+ backlog 0b 119826p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 852172296 bytes 608201 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 300277 pkts_in_l 307924 maxq 208
+ecn_mark 17342 step_mark 8260
+credit -55750 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=99.862===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 854639622 bytes 609986 pkt (dropped 0, overlimits 552766 requeues 2) 
+ backlog 0b 120240p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 854639622 bytes 609986 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 300649 pkts_in_l 309337 maxq 208
+ecn_mark 17349 step_mark 8267
+credit -28190 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=100.374===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 857323128 bytes 611921 pkt (dropped 0, overlimits 554090 requeues 2) 
+ backlog 0b 120708p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 857323128 bytes 611921 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 301040 pkts_in_l 310881 maxq 208
+ecn_mark 17357 step_mark 8275
+credit -20710 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=100.884===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 858439110 bytes 612764 pkt (dropped 0, overlimits 554356 requeues 2) 
+ backlog 0b 120834p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 858439110 bytes 612764 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 301340 pkts_in_l 311424 maxq 208
+ecn_mark 17357 step_mark 8275
+credit -10950 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=101.396===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 859735636 bytes 613733 pkt (dropped 0, overlimits 554764 requeues 2) 
+ backlog 0b 121027p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 859735636 bytes 613733 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 301770 pkts_in_l 311963 maxq 208
+ecn_mark 17357 step_mark 8275
+credit -70010 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=101.907===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 862534330 bytes 615748 pkt (dropped 0, overlimits 556179 requeues 2) 
+ backlog 2868b 121493p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 862534330 bytes 615748 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 2868b 2p requeues 0
+prob 0.000000 delay_c 0us delay_l 397us
+pkts_in_c 302121 pkts_in_l 313629 maxq 208
+ecn_mark 17369 step_mark 8287
+credit -24090 (L-queue)
+memory_used 4344 (max 470904) of memory limit 3028000
+
+===t=102.419===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 864757408 bytes 617363 pkt (dropped 0, overlimits 557227 requeues 2) 
+ backlog 0b 121838p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 864757408 bytes 617363 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 302451 pkts_in_l 314912 maxq 208
+ecn_mark 17369 step_mark 8287
+credit -56190 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=102.930===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 866055794 bytes 618332 pkt (dropped 0, overlimits 557649 requeues 2) 
+ backlog 0b 122032p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 866055794 bytes 618332 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 302884 pkts_in_l 315448 maxq 208
+ecn_mark 17369 step_mark 8287
+credit -100910 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=103.441===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 867305080 bytes 619267 pkt (dropped 0, overlimits 558035 requeues 2) 
+ backlog 4302b 122210p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 867305080 bytes 619267 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 4302b 3p requeues 0
+prob 0.000000 delay_c 258us delay_l 0us
+pkts_in_c 303289 pkts_in_l 315981 maxq 208
+ecn_mark 17369 step_mark 8287
+credit -41810 (L-queue)
+memory_used 6792 (max 470904) of memory limit 3028000
+
+===t=103.952===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 870985914 bytes 621898 pkt (dropped 0, overlimits 560164 requeues 2) 
+ backlog 10038b 122877p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 870985914 bytes 621898 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 10038b 7p requeues 0
+prob 0.000000 delay_c 508us delay_l 271us
+pkts_in_c 303752 pkts_in_l 318153 maxq 208
+ecn_mark 17435 step_mark 8353
+credit -121470 (L-queue)
+memory_used 15600 (max 470904) of memory limit 3028000
+
+===t=104.464===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 872633212 bytes 623111 pkt (dropped 0, overlimits 560786 requeues 2) 
+ backlog 0b 123113p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 872633212 bytes 623111 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 304158 pkts_in_l 318953 maxq 208
+ecn_mark 17456 step_mark 8374
+credit -74990 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=104.975===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 873651624 bytes 623885 pkt (dropped 0, overlimits 560990 requeues 2) 
+ backlog 0b 123216p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 873651624 bytes 623885 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 304396 pkts_in_l 319489 maxq 208
+ecn_mark 17456 step_mark 8374
+credit 730 (C-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=105.486===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 874761468 bytes 624723 pkt (dropped 0, overlimits 561271 requeues 2) 
+ backlog 0b 123332p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 874761468 bytes 624723 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 304695 pkts_in_l 320028 maxq 208
+ecn_mark 17456 step_mark 8374
+credit -52610 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=105.997===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 878490934 bytes 627388 pkt (dropped 0, overlimits 563362 requeues 2) 
+ backlog 0b 123899p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 878490934 bytes 627388 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 304950 pkts_in_l 322438 maxq 208
+ecn_mark 17610 step_mark 8528
+credit -46250 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=106.509===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 879583570 bytes 628214 pkt (dropped 0, overlimits 563622 requeues 2) 
+ backlog 0b 124017p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 879583570 bytes 628214 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 305238 pkts_in_l 322976 maxq 208
+ecn_mark 17610 step_mark 8528
+credit 1370 (C-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=107.021===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 880729608 bytes 629077 pkt (dropped 0, overlimits 563945 requeues 2) 
+ backlog 0b 124162p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 880729608 bytes 629077 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 305562 pkts_in_l 323515 maxq 208
+ecn_mark 17610 step_mark 8528
+credit 13430 (C-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=107.533===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 881934440 bytes 629981 pkt (dropped 0, overlimits 564292 requeues 2) 
+ backlog 0b 124314p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 881934440 bytes 629981 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 305902 pkts_in_l 324079 maxq 208
+ecn_mark 17614 step_mark 8532
+credit -125370 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=108.044===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 885669938 bytes 632650 pkt (dropped 0, overlimits 566413 requeues 2) 
+ backlog 0b 124943p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 885669938 bytes 632650 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 306182 pkts_in_l 326468 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -3150 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=108.557===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 886726600 bytes 633451 pkt (dropped 0, overlimits 566684 requeues 2) 
+ backlog 0b 125058p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 886726600 bytes 633451 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 306446 pkts_in_l 327005 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -5430 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=109.068===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 887768042 bytes 634242 pkt (dropped 0, overlimits 566915 requeues 2) 
+ backlog 0b 125160p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 887768042 bytes 634242 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 306693 pkts_in_l 327549 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -74250 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=109.579===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 888787610 bytes 635016 pkt (dropped 0, overlimits 567176 requeues 2) 
+ backlog 0b 125279p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 888787610 bytes 635016 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 306984 pkts_in_l 328032 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -117830 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=110.091===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 889637936 bytes 635641 pkt (dropped 0, overlimits 567454 requeues 2) 
+ backlog 0b 125433p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 889637936 bytes 635641 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 307336 pkts_in_l 328305 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -104630 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=110.602===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 890466752 bytes 636251 pkt (dropped 0, overlimits 567714 requeues 2) 
+ backlog 0b 125578p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 890466752 bytes 636251 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 307672 pkts_in_l 328579 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -100610 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=111.114===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 891255678 bytes 636834 pkt (dropped 0, overlimits 567962 requeues 2) 
+ backlog 0b 125712p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 891255678 bytes 636834 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 307987 pkts_in_l 328847 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -24890 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=111.625===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 892162102 bytes 637498 pkt (dropped 0, overlimits 568274 requeues 2) 
+ backlog 0b 125884p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 892162102 bytes 637498 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 308381 pkts_in_l 329117 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -40370 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=112.137===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 893187548 bytes 638245 pkt (dropped 0, overlimits 568666 requeues 2) 
+ backlog 0b 126091p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 893187548 bytes 638245 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 308856 pkts_in_l 329389 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -104030 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=112.649===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 894047912 bytes 638877 pkt (dropped 0, overlimits 568946 requeues 2) 
+ backlog 0b 126246p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 894047912 bytes 638877 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 309213 pkts_in_l 329664 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -15690 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=113.160===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 895060452 bytes 639615 pkt (dropped 0, overlimits 569300 requeues 2) 
+ backlog 0b 126439p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 895060452 bytes 639615 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 309677 pkts_in_l 329938 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -40350 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=113.671===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 896065822 bytes 640348 pkt (dropped 0, overlimits 569671 requeues 2) 
+ backlog 0b 126646p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 896065822 bytes 640348 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 310138 pkts_in_l 330210 maxq 208
+ecn_mark 17745 step_mark 8663
+credit 7270 (C-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=114.182===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 897142970 bytes 641132 pkt (dropped 0, overlimits 570080 requeues 2) 
+ backlog 0b 126881p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 897142970 bytes 641132 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 310652 pkts_in_l 330480 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -86790 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=114.693===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 898146562 bytes 641864 pkt (dropped 0, overlimits 570435 requeues 2) 
+ backlog 0b 127083p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 898146562 bytes 641864 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 311109 pkts_in_l 330755 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -66710 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=115.205===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 899183566 bytes 642620 pkt (dropped 0, overlimits 570796 requeues 2) 
+ backlog 0b 127293p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 899183566 bytes 642620 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 311595 pkts_in_l 331025 maxq 208
+ecn_mark 17745 step_mark 8663
+credit 10730 (C-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=115.716===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 900236258 bytes 643386 pkt (dropped 0, overlimits 571168 requeues 2) 
+ backlog 0b 127513p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 900236258 bytes 643386 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 312093 pkts_in_l 331293 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -55230 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=116.227===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 901274438 bytes 644142 pkt (dropped 0, overlimits 571553 requeues 2) 
+ backlog 0b 127723p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 901274438 bytes 644142 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 312577 pkts_in_l 331565 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -29410 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=116.738===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 902206674 bytes 644824 pkt (dropped 0, overlimits 571870 requeues 2) 
+ backlog 0b 127895p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 902206674 bytes 644824 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 312984 pkts_in_l 331840 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -3590 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=117.249===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 903077248 bytes 645463 pkt (dropped 0, overlimits 572155 requeues 2) 
+ backlog 0b 128052p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 903077248 bytes 645463 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 313355 pkts_in_l 332108 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -19070 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=117.760===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 903956426 bytes 646108 pkt (dropped 0, overlimits 572467 requeues 2) 
+ backlog 0b 128213p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 903956426 bytes 646108 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 313729 pkts_in_l 332379 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -47170 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=118.271===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 904826828 bytes 646747 pkt (dropped 0, overlimits 572758 requeues 2) 
+ backlog 5736b 128373p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 904826828 bytes 646747 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 5736b 4p requeues 0
+prob 0.000000 delay_c 519us delay_l 0us
+pkts_in_c 314101 pkts_in_l 332650 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -100510 (L-queue)
+memory_used 9096 (max 470904) of memory limit 3028000
+
+===t=118.783===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 905666026 bytes 647364 pkt (dropped 0, overlimits 573027 requeues 2) 
+ backlog 0b 128515p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 905666026 bytes 647364 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 314440 pkts_in_l 332924 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -112550 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=119.293===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 906383326 bytes 647898 pkt (dropped 0, overlimits 573216 requeues 2) 
+ backlog 0b 128624p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 906383326 bytes 647898 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 314702 pkts_in_l 333196 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -36830 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=119.805===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 906985684 bytes 648335 pkt (dropped 0, overlimits 573476 requeues 2) 
+ backlog 0b 128766p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 906985684 bytes 648335 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 315037 pkts_in_l 333298 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -124590 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=120.315===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 907514908 bytes 648705 pkt (dropped 0, overlimits 573753 requeues 2) 
+ backlog 0b 128924p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 907514908 bytes 648705 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 315405 pkts_in_l 333300 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -124590 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=120.826===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 908120056 bytes 649127 pkt (dropped 0, overlimits 574045 requeues 2) 
+ backlog 0b 129102p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 908120056 bytes 649127 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 315817 pkts_in_l 333310 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -110250 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=121.337===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 908583328 bytes 649451 pkt (dropped 0, overlimits 574281 requeues 2) 
+ backlog 0b 129239p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 908583328 bytes 649451 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 316137 pkts_in_l 333314 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -110250 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=121.847===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 909133984 bytes 649835 pkt (dropped 0, overlimits 574585 requeues 2) 
+ backlog 0b 129410p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 909133984 bytes 649835 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 316514 pkts_in_l 333321 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -9870 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=122.358===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 909739132 bytes 650257 pkt (dropped 0, overlimits 574909 requeues 2) 
+ backlog 0b 129604p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 909739132 bytes 650257 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 316936 pkts_in_l 333321 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -9870 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=122.869===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 910483378 bytes 650776 pkt (dropped 0, overlimits 575293 requeues 2) 
+ backlog 0b 129837p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 910483378 bytes 650776 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 317449 pkts_in_l 333327 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -110250 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=123.380===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 911190340 bytes 651269 pkt (dropped 0, overlimits 575636 requeues 2) 
+ backlog 0b 130050p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 911190340 bytes 651269 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 317936 pkts_in_l 333333 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -95910 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=123.890===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 912004252 bytes 651842 pkt (dropped 0, overlimits 576088 requeues 2) 
+ backlog 0b 130315p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 912004252 bytes 651842 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 318507 pkts_in_l 333335 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -95910 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=124.401===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 912016557 bytes 651868 pkt (dropped 0, overlimits 576090 requeues 2) 
+ backlog 0b 130317p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 912016557 bytes 651868 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 318533 pkts_in_l 333335 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -95910 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+
+===t=124.912===
+qdisc htb 1: root refcnt 33 r2q 10 default 0x3 direct_packets_stat 0 direct_qlen 1000
+ Sent 912016557 bytes 651868 pkt (dropped 0, overlimits 576090 requeues 2) 
+ backlog 0b 130317p requeues 2
+qdisc dualpi2 3: parent 1:3 limit 1000p memlimit 3028000B target 15ms tupdate 16ms alpha 0.156250 beta 3.195312 step_thresh 1ms min_qlen_step 0p coupling_factor 2 drop_on_overload drop_dequeue classic_protection 10% l4s_ect split_gso 
+ Sent 912016557 bytes 651868 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 318533 pkts_in_l 333335 maxq 208
+ecn_mark 17745 step_mark 8663
+credit -95910 (L-queue)
+memory_used 0 (max 470904) of memory limit 3028000
+

@@ -1,0 +1,20 @@
+# L4S PRAGUE MGEN script (duration 120 s)
+# DST: fd00:6::2
+# Apps: PRAGUE/UDP video calls (no QUEUE — PERIODIC paces 5 Mbps)
+#   - call: 4 sessions, target 5 Mbps via PERIODIC [521 1200]
+
+TCPINFO 0.1
+
+# call 1 (fid 4): 5 Mbps target, t=10.0 -> t=70.0
+10.000  ON  4 PRAGUE DST fd00:6::2/5101 PERIODIC [521 1200]
+70.000  OFF 4
+# call 2 (fid 5): 5 Mbps target, t=25.0 -> t=85.0
+25.000  ON  5 PRAGUE DST fd00:6::2/5102 PERIODIC [521 1200]
+85.000  OFF 5
+# call 3 (fid 6): 5 Mbps target, t=40.0 -> t=100.0
+40.000  ON  6 PRAGUE DST fd00:6::2/5103 PERIODIC [521 1200]
+100.000  OFF 6
+# call 4 (fid 7): 5 Mbps target, t=50.0 -> t=110.0
+50.000  ON  7 PRAGUE DST fd00:6::2/5104 PERIODIC [521 1200]
+110.000  OFF 7
+

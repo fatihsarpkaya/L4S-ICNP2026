@@ -1,0 +1,298 @@
+{
+  "call_PRAGUE_prague_cubic_2.0_100_30_DualPI2_15_3_1_workload_gen_rx_L4S": {
+    "scenario": "call_PRAGUE_prague_cubic_2.0_100_30_DualPI2_15_3_1_workload_gen_rx_L4S",
+    "app": "call",
+    "cc_L4S": "prague",
+    "cc_legacy": "cubic",
+    "n_bdp": "2.0",
+    "cap": "100",
+    "rtt": "30",
+    "aqm": "DualPI2",
+    "ecn_thresh": "15",
+    "rx_L4S_ecn": "3",
+    "rx_legacy_ecn": "1",
+    "workload": "workload_gen",
+    "side": "L4S",
+    "mean_goodput_mbps": 4.986830548539309,
+    "std_goodput_mbps": 0.0010580685146416888,
+    "mean_rtt_ms": 31.036196549800444,
+    "std_rtt_ms": 0.03961845135430048,
+    "mean_mark_prob": 3.918461972158964,
+    "std_mark_prob": 0.10374290368612767,
+    "mean_loss_prob": 0.0,
+    "std_loss_prob": 0.0,
+    "n_flows": 25,
+    "n_trials": 5,
+    "trials": [
+      {
+        "trial": 50,
+        "n_flows": 5,
+        "mean_goodput_mbps": 4.986,
+        "mean_rtt_ms": 31.035,
+        "mean_mark_prob": 3.93,
+        "mean_loss_prob": 0.0,
+        "flows": [
+          {
+            "port": 5101,
+            "rcvd_rate_mbps": 4.986,
+            "rtt_ms": 31.09,
+            "mark_prob": 3.93,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5102,
+            "rcvd_rate_mbps": 4.986,
+            "rtt_ms": 31.004,
+            "mark_prob": 3.93,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5103,
+            "rcvd_rate_mbps": 4.987,
+            "rtt_ms": 31.01,
+            "mark_prob": 3.97,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5104,
+            "rcvd_rate_mbps": 4.986,
+            "rtt_ms": 31.017,
+            "mark_prob": 3.91,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5105,
+            "rcvd_rate_mbps": 4.987,
+            "rtt_ms": 31.054,
+            "mark_prob": 3.91,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          }
+        ],
+        "mean_achieved_rate_fraction_pct": 99.73,
+        "mean_p95_rtt_ms": 31.13,
+        "bad_interval_fraction": 0.0073
+      },
+      {
+        "trial": 51,
+        "n_flows": 5,
+        "mean_goodput_mbps": 4.987,
+        "mean_rtt_ms": 31.04,
+        "mean_mark_prob": 3.93,
+        "mean_loss_prob": 0.0,
+        "flows": [
+          {
+            "port": 5101,
+            "rcvd_rate_mbps": 4.988,
+            "rtt_ms": 31.12,
+            "mark_prob": 3.84,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5102,
+            "rcvd_rate_mbps": 4.987,
+            "rtt_ms": 30.983,
+            "mark_prob": 4.0,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5103,
+            "rcvd_rate_mbps": 4.987,
+            "rtt_ms": 31.022,
+            "mark_prob": 3.87,
+            "loss_prob": 0.0,
+            "n_samples": 1177
+          },
+          {
+            "port": 5104,
+            "rcvd_rate_mbps": 4.987,
+            "rtt_ms": 31.029,
+            "mark_prob": 4.06,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5105,
+            "rcvd_rate_mbps": 4.987,
+            "rtt_ms": 31.043,
+            "mark_prob": 3.87,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          }
+        ],
+        "mean_achieved_rate_fraction_pct": 99.75,
+        "mean_p95_rtt_ms": 31.15,
+        "bad_interval_fraction": 0.0075
+      },
+      {
+        "trial": 52,
+        "n_flows": 5,
+        "mean_goodput_mbps": 4.987,
+        "mean_rtt_ms": 31.025,
+        "mean_mark_prob": 3.82,
+        "mean_loss_prob": 0.0,
+        "flows": [
+          {
+            "port": 5101,
+            "rcvd_rate_mbps": 4.988,
+            "rtt_ms": 31.088,
+            "mark_prob": 3.72,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5102,
+            "rcvd_rate_mbps": 4.988,
+            "rtt_ms": 30.985,
+            "mark_prob": 3.81,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5103,
+            "rcvd_rate_mbps": 4.988,
+            "rtt_ms": 30.992,
+            "mark_prob": 3.91,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5104,
+            "rcvd_rate_mbps": 4.987,
+            "rtt_ms": 31.036,
+            "mark_prob": 3.84,
+            "loss_prob": 0.0,
+            "n_samples": 1177
+          },
+          {
+            "port": 5105,
+            "rcvd_rate_mbps": 4.988,
+            "rtt_ms": 31.025,
+            "mark_prob": 3.82,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          }
+        ],
+        "mean_achieved_rate_fraction_pct": 99.75,
+        "mean_p95_rtt_ms": 31.11,
+        "bad_interval_fraction": 0.007
+      },
+      {
+        "trial": 53,
+        "n_flows": 5,
+        "mean_goodput_mbps": 4.988,
+        "mean_rtt_ms": 31.041,
+        "mean_mark_prob": 4.02,
+        "mean_loss_prob": 0.0,
+        "flows": [
+          {
+            "port": 5101,
+            "rcvd_rate_mbps": 4.988,
+            "rtt_ms": 31.104,
+            "mark_prob": 4.09,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5102,
+            "rcvd_rate_mbps": 4.987,
+            "rtt_ms": 31.062,
+            "mark_prob": 3.84,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5103,
+            "rcvd_rate_mbps": 4.988,
+            "rtt_ms": 30.991,
+            "mark_prob": 4.13,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5104,
+            "rcvd_rate_mbps": 4.988,
+            "rtt_ms": 31.018,
+            "mark_prob": 4.1,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5105,
+            "rcvd_rate_mbps": 4.988,
+            "rtt_ms": 31.031,
+            "mark_prob": 3.92,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          }
+        ],
+        "mean_achieved_rate_fraction_pct": 99.75,
+        "mean_p95_rtt_ms": 31.16,
+        "bad_interval_fraction": 0.0081
+      },
+      {
+        "trial": 54,
+        "n_flows": 5,
+        "mean_goodput_mbps": 4.985,
+        "mean_rtt_ms": 31.04,
+        "mean_mark_prob": 3.9,
+        "mean_loss_prob": 0.0,
+        "flows": [
+          {
+            "port": 5101,
+            "rcvd_rate_mbps": 4.984,
+            "rtt_ms": 31.115,
+            "mark_prob": 4.0,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5102,
+            "rcvd_rate_mbps": 4.985,
+            "rtt_ms": 30.993,
+            "mark_prob": 4.03,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5103,
+            "rcvd_rate_mbps": 4.984,
+            "rtt_ms": 31.016,
+            "mark_prob": 3.76,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5104,
+            "rcvd_rate_mbps": 4.986,
+            "rtt_ms": 31.028,
+            "mark_prob": 3.86,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          },
+          {
+            "port": 5105,
+            "rcvd_rate_mbps": 4.986,
+            "rtt_ms": 31.048,
+            "mark_prob": 3.84,
+            "loss_prob": 0.0,
+            "n_samples": 1178
+          }
+        ],
+        "mean_achieved_rate_fraction_pct": 99.7,
+        "mean_p95_rtt_ms": 31.15,
+        "bad_interval_fraction": 0.0085
+      }
+    ],
+    "target_rate_mbps": 5.0,
+    "mean_achieved_rate_fraction_pct": 99.74,
+    "mean_p95_rtt_ms": 31.14,
+    "bad_interval_fraction_pct": 0.77
+  }
+}

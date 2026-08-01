@@ -1,0 +1,305 @@
+{
+  "scenario_id": "S5a_no_community",
+  "trial": 5,
+  "duration_s": 120,
+  "timestamp_utc": "2026-05-13T20:09:25.703531Z",
+  "description": "BGP community OFF - L4S falls to AS3 default path, transits AS3 internal bottleneck.",
+  "l4s_enabled_apps": [
+    "streaming",
+    "call",
+    "xfer"
+  ],
+  "l4s_tcp_ports": [
+    5201,
+    5202,
+    5203,
+    5401,
+    5402,
+    5403,
+    5404,
+    5405
+  ],
+  "l4s_prague_ports": [
+    5101,
+    5102,
+    5103,
+    5104
+  ],
+  "backgrounds": [
+    "m_to_f"
+  ],
+  "bg_intensity": {
+    "eps_to_k": "light",
+    "s_to_m": "light",
+    "f_to_g": "light",
+    "m_to_f": "heavy"
+  },
+  "qdisc_changes": {},
+  "assumes_bgp_community": "OFF",
+  "assumes_srv6": "OFF",
+  "assumes_manual_routes": [
+    "m_to_f via core2 of AS3 toward r-3-2"
+  ],
+  "experiment_config": {
+    "duration_s": 120,
+    "base_rtt_ms": 30,
+    "n_trials": 8,
+    "tcpinfo_window_s": 0.1,
+    "btl_capacity_mbps": {
+      "r-access-6": 100,
+      "r-access-5": 1000,
+      "r-core2-4": 4000,
+      "r-2-6": 4000,
+      "r-core2-3": 4000
+    },
+    "priority_cap_mbps": {
+      "r-access-5": 200,
+      "r-2-6": 1000
+    },
+    "qdisc_n_bdp": 2,
+    "qdisc_min_packets": 1000,
+    "l4s_ecn": 3,
+    "classic_ecn": 1,
+    "l4s_cc": "prague",
+    "classic_cc": "cubic",
+    "l4s": {
+      "enabled_apps": [
+        "streaming",
+        "call",
+        "xfer"
+      ],
+      "streaming_starts_s": [
+        10.0,
+        25.0,
+        40.0
+      ],
+      "streaming_mbps": 10.0,
+      "streaming_video_len_s": 60.0,
+      "streaming_chunk_s": 2.0,
+      "streaming_pkt_bytes": 1448,
+      "streaming_pps": 10000,
+      "streaming_base_port": 5201,
+      "streaming_initial_buffer": 2,
+      "streaming_startup_delay_s": 5.0,
+      "call_starts_s": [
+        10.0,
+        25.0,
+        40.0,
+        50.0
+      ],
+      "call_ends_s": [
+        70.0,
+        85.0,
+        100.0,
+        110.0
+      ],
+      "call_mbps": 5.0,
+      "call_pkt_bytes": 1200,
+      "call_base_port": 5101,
+      "xfer_count": 5,
+      "xfer_first_start_s": 25.0,
+      "xfer_interval_s": 10.0,
+      "xfer_size_mib": 10,
+      "xfer_pkt_bytes": 1448,
+      "xfer_pps": 10000,
+      "xfer_base_port": 5401
+    },
+    "classic": {
+      "long_starts_s": [
+        5,
+        15,
+        25
+      ],
+      "long_end_s": 115,
+      "short_count": 5,
+      "short_size_mib": 5,
+      "short_start_min_s": 20,
+      "short_start_max_s": 90,
+      "short_seed": 42,
+      "long_base_port": 6000,
+      "short_base_port": 6100
+    },
+    "background": {
+      "n_long_flows": 8,
+      "long_schedule": [
+        [
+          5,
+          35
+        ],
+        [
+          10,
+          40
+        ],
+        [
+          15,
+          35
+        ],
+        [
+          25,
+          35
+        ],
+        [
+          50,
+          30
+        ],
+        [
+          70,
+          35
+        ],
+        [
+          80,
+          30
+        ],
+        [
+          90,
+          20
+        ]
+      ],
+      "n_short_flows": 12,
+      "short_schedule": [
+        [
+          8,
+          100
+        ],
+        [
+          18,
+          150
+        ],
+        [
+          28,
+          250
+        ],
+        [
+          35,
+          200
+        ],
+        [
+          42,
+          100
+        ],
+        [
+          55,
+          100
+        ],
+        [
+          63,
+          150
+        ],
+        [
+          75,
+          200
+        ],
+        [
+          85,
+          300
+        ],
+        [
+          95,
+          250
+        ],
+        [
+          102,
+          150
+        ],
+        [
+          108,
+          100
+        ]
+      ],
+      "random_seed": 7,
+      "random_long_dur_min_s": 25,
+      "random_long_dur_max_s": 45,
+      "random_long_start_min_s": 5,
+      "random_long_start_max_s": 90,
+      "random_short_size_min_mib": 50,
+      "random_short_size_max_mib": 300,
+      "random_short_start_min_s": 8,
+      "random_short_start_max_s": 108
+    },
+    "background_profiles": {
+      "light": {
+        "protocol": "TCP",
+        "long_periodic": {
+          "n": 4,
+          "rate_mbps": 30,
+          "pkt_bytes": 65000
+        },
+        "long_poisson": {
+          "n": 0,
+          "avg_rate_mbps": 0,
+          "pkt_bytes": 65000
+        },
+        "short_bursts": {
+          "rate_mbps": 5,
+          "size_mib": 3,
+          "pkt_bytes": 65000,
+          "poisson_fraction": 0.25,
+          "event_rate": 1.0,
+          "batch_mean": 4.0,
+          "batch_max": 15,
+          "batch_jitter_s": 0.5
+        },
+        "modulation": null
+      },
+      "heavy_4g": {
+        "protocol": "TCP",
+        "long_periodic": {
+          "n": 4,
+          "rate_mbps": 30,
+          "pkt_bytes": 65000
+        },
+        "long_poisson": {
+          "n": 0,
+          "avg_rate_mbps": 0,
+          "pkt_bytes": 65000
+        },
+        "short_bursts": {
+          "rate_mbps": 10,
+          "size_mib": 6,
+          "pkt_bytes": 65000,
+          "poisson_fraction": 0.25,
+          "event_rate": 10.0,
+          "batch_mean": 5.5,
+          "batch_max": 25,
+          "batch_jitter_s": 0.5
+        },
+        "modulation": null
+      },
+      "heavy_1g": {
+        "protocol": "TCP",
+        "long_periodic": {
+          "n": 4,
+          "rate_mbps": 15,
+          "pkt_bytes": 65000
+        },
+        "long_poisson": {
+          "n": 0,
+          "avg_rate_mbps": 0,
+          "pkt_bytes": 65000
+        },
+        "short_bursts": {
+          "rate_mbps": 8,
+          "size_mib": 5,
+          "pkt_bytes": 65000,
+          "poisson_fraction": 0.25,
+          "event_rate": 3.5,
+          "batch_mean": 5.0,
+          "batch_max": 20,
+          "batch_jitter_s": 0.5
+        },
+        "modulation": null
+      }
+    },
+    "pair_heavy_profile": {
+      "eps_to_k": "heavy_1g",
+      "s_to_m": "heavy_4g",
+      "f_to_g": "heavy_4g",
+      "m_to_f": "heavy_4g"
+    },
+    "paths": {
+      "mgen_bin": "/home/ubuntu/L4S_Project/mgen/makefiles/mgen",
+      "prague_workdir": "/home/ubuntu/L4S_Project/udp_prague",
+      "prague_rx_bin": "./udp_prague_receiver"
+    }
+  }
+}
