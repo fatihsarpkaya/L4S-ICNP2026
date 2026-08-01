@@ -4,7 +4,7 @@ This repository contains the artifacts for the paper **“Extending Low Latency 
 
 ## Abstract
 
-Protocols such as L4S for low-latency network services have attracted growing interest from major industry stakeholders such as Comcast, Apple, T-Mobile, and NVIDIA. However, L4S requires isolation between L4S and non-L4S (“classic”) flows to maintain its low-latency benefits and safe coexistence. Although DualPI2 provides this isolation at the home access link, bottlenecks may also occur at peering points, wide-area network ingress, or congested core links where deploying DualPI2 is not feasible. We propose a practical deployment strategy using BGP communities, SRv6, and rate-capped priority queuing to extend low-latency service across independently managed networks without requiring upgrades to expensive core routers. We evaluate this strategy through large-scale experiments on the FABRIC testbed.
+Protocols such as L4S for low-latency network services have attracted growing interest from major industry stakeholders such as Comcast, Apple, T-Mobile, and NVIDIA. However, L4S requires isolation between L4S and non-L4S (“classic”) flows to maintain its low-latency benefits and safe coexistence. Although DualPI2 provides this isolation at the receiver access link, bottlenecks may also occur at peering points, wide-area network ingress, or congested core links, where deploying DualPI2 is not feasible. We propose a practical deployment strategy using BGP communities, SRv6, and rate-capped priority queuing to extend low-latency service across networks without requiring upgrades to all core routers on the path. We evaluate this strategy through large-scale experiments on the FABRIC testbed.
 
 This repository includes:
 
