@@ -9,6 +9,7 @@ Protocols such as L4S for low-latency network services have attracted growing in
 This repository includes:
 
 - [`experiment_notebook.ipynb`](experiment_notebook.ipynb), the FABRIC experiment notebook.
+- [`microbenchmark_notebook.ipynb`](microbenchmark_notebook.ipynb), the priority-queue saturation microbenchmark used for Figure 13.
 - [`utils/`](utils/), containing the topology and routing configuration files used by the notebook.
 - [`Experiment_Data/`](Experiment_Data/), containing the main, motivation, and microbenchmark results.
 - [`Plots/`](Plots/), containing the paper figures in PDF format.
@@ -34,6 +35,8 @@ cp utils/* .
 ```
 
 Open `experiment_notebook.ipynb` in JupyterLab and follow its instructions section by section. Do not use **Run All**, because slice creation, node reboots, routing configuration, validation, and experiment execution must finish in order.
+
+For the priority-queue saturation experiment in Figure 13, run `microbenchmark_notebook.ipynb` in the same way.
 
 ### Endpoint Software
 
