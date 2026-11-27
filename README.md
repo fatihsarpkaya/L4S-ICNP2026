@@ -1,6 +1,6 @@
 # Extending Low Latency Service Across the Internet
 
-This repository contains the artifacts for the paper **“Extending Low Latency Service Across the Internet,”** accepted for presentation at the **IEEE International Conference on Network Protocols (ICNP) 2026**.
+This repository contains the artifacts for the paper [**“Extending Low Latency Service Across the Internet,”**](https://ieeexplore.ieee.org/document/11783020) accepted for presentation at the **IEEE International Conference on Network Protocols (ICNP) 2026**.
 
 ## Abstract
 
